@@ -1,0 +1,452 @@
+hotel,market_segment,deposit_type,customer_type,agent_campany,lead_time_category,total_bookings,canceled_bookings,cancellation_rate,avg_adr,avg_stay_duration
+Resort Hotel,Direct,No Deposit,Transient,Direct,181-365 Days,89,13,14.61,134.85,7.85
+Resort Hotel,Direct,No Deposit,Transient,Direct,365+ Days,4,2,50.0,42.2,9.0
+Resort Hotel,Direct,No Deposit,Transient,Direct,0-30 Days,2356,170,7.22,85.67,1.83
+Resort Hotel,Corporate,No Deposit,Transient,Agent,0-30 Days,116,10,8.62,48.52,1.78
+Resort Hotel,Online TA,No Deposit,Transient,Agent,0-30 Days,5689,960,16.87,104.19,2.65
+Resort Hotel,Direct,No Deposit,Transient,Agent,0-30 Days,1147,133,11.6,121.68,2.9
+Resort Hotel,Online TA,No Deposit,Transient,Agent,31-90 Days,4106,1694,41.26,119.42,4.43
+Resort Hotel,Offline TA/TO,No Deposit,Transient,Agent,31-90 Days,1000,114,11.4,77.91,5.86
+Resort Hotel,Offline TA/TO,No Deposit,Contract,Agent,31-90 Days,271,18,6.64,74.53,7.27
+Resort Hotel,Corporate,No Deposit,Transient,Company,0-30 Days,1196,115,9.62,49.86,1.6
+Resort Hotel,Direct,No Deposit,Transient,Agent,31-90 Days,671,150,22.35,139.34,4.8
+Resort Hotel,Offline TA/TO,No Deposit,Contract,Agent,91-180 Days,566,29,5.12,81.24,8.88
+Resort Hotel,Online TA,No Deposit,Transient,Agent,91-180 Days,3239,1582,48.84,126.87,5.48
+Resort Hotel,Direct,No Deposit,Transient,Direct,91-180 Days,218,32,14.68,139.64,7.61
+Resort Hotel,Offline TA/TO,No Deposit,Transient,Agent,91-180 Days,1108,173,15.61,87.6,6.97
+Resort Hotel,Offline TA/TO,No Deposit,Transient-Party,Agent,91-180 Days,156,31,19.87,97.63,5.63
+Resort Hotel,Offline TA/TO,No Deposit,Transient,Agent,0-30 Days,1309,93,7.1,50.06,3.58
+Resort Hotel,Offline TA/TO,No Deposit,Contract,Agent,365+ Days,42,9,21.43,79.76,10.88
+Resort Hotel,Offline TA/TO,No Deposit,Contract,Agent,181-365 Days,618,73,11.81,79.81,9.49
+Resort Hotel,Direct,No Deposit,Transient,Agent,91-180 Days,489,115,23.52,154.16,5.91
+Resort Hotel,Offline TA/TO,No Deposit,Contract,Agent,0-30 Days,107,7,6.54,89.57,5.68
+Resort Hotel,Complementary,No Deposit,Transient,Direct,31-90 Days,19,6,31.58,7.68,1.84
+Resort Hotel,Online TA,No Deposit,Transient-Party,Agent,91-180 Days,255,42,16.47,117.12,5.23
+Resort Hotel,Direct,No Deposit,Transient,Direct,31-90 Days,334,52,15.57,141.87,5.37
+Resort Hotel,Online TA,No Deposit,Transient,Agent,181-365 Days,2138,1236,57.81,122.29,6.57
+Resort Hotel,Direct,No Deposit,Transient-Party,Direct,0-30 Days,142,13,9.15,91.6,2.59
+Resort Hotel,Direct,No Deposit,Transient,Agent,181-365 Days,302,94,31.13,139.3,6.4
+Resort Hotel,Corporate,No Deposit,Transient,Company,31-90 Days,43,6,13.95,76.61,1.93
+Resort Hotel,Offline TA/TO,No Deposit,Transient-Party,Agent,31-90 Days,116,10,8.62,75.11,4.19
+Resort Hotel,Direct,No Deposit,Transient-Party,Direct,31-90 Days,44,6,13.64,131.92,6.07
+Resort Hotel,Corporate,No Deposit,Transient,Direct,0-30 Days,113,9,7.96,49.74,1.34
+Resort Hotel,Groups,No Deposit,Transient-Party,Agent,31-90 Days,158,40,25.32,61.15,4.97
+Resort Hotel,Groups,No Deposit,Transient,Agent,31-90 Days,10,1,10.0,62.86,3.3
+Resort Hotel,Direct,No Deposit,Transient-Party,Agent,0-30 Days,79,6,7.59,96.11,2.34
+Resort Hotel,Direct,No Deposit,Transient,Company,0-30 Days,89,13,14.61,57.87,1.53
+Resort Hotel,Offline TA/TO,No Deposit,Transient,Agent,181-365 Days,815,157,19.26,89.13,7.88
+Resort Hotel,Online TA,No Deposit,Group,Agent,0-30 Days,60,0,0.0,66.97,1.75
+Resort Hotel,Online TA,No Deposit,Group,Company,0-30 Days,3,0,0.0,79.43,1.0
+Resort Hotel,Online TA,No Deposit,Transient-Party,Agent,31-90 Days,281,15,5.34,108.42,3.74
+Resort Hotel,Online TA,No Deposit,Transient-Party,Agent,0-30 Days,476,11,2.31,102.54,2.16
+Resort Hotel,Online TA,No Deposit,Transient,Direct,0-30 Days,76,10,13.16,93.2,2.59
+Resort Hotel,Direct,No Deposit,Transient-Party,Direct,91-180 Days,35,2,5.71,136.93,6.63
+Resort Hotel,Offline TA/TO,No Deposit,Transient,Direct,0-30 Days,12,3,25.0,127.73,2.83
+Resort Hotel,Groups,No Deposit,Transient-Party,Company,31-90 Days,15,2,13.33,116.33,4.47
+Resort Hotel,Groups,No Deposit,Transient,Company,31-90 Days,2,0,0.0,181.5,1.0
+Resort Hotel,Offline TA/TO,No Deposit,Transient-Party,Agent,0-30 Days,165,14,8.48,50.56,2.2
+Resort Hotel,Groups,No Deposit,Transient-Party,Agent,0-30 Days,127,28,22.05,58.95,3.28
+Resort Hotel,Corporate,No Deposit,Transient-Party,Company,91-180 Days,13,1,7.69,54.58,3.0
+Resort Hotel,Corporate,No Deposit,Transient,Company,91-180 Days,6,0,0.0,66.78,2.17
+Resort Hotel,Corporate,No Deposit,Transient-Party,Company,0-30 Days,228,22,9.65,51.86,3.18
+Resort Hotel,Direct,No Deposit,Group,Direct,181-365 Days,12,11,91.67,10.55,6.0
+Resort Hotel,Direct,No Deposit,Transient-Party,Agent,181-365 Days,24,1,4.17,124.44,7.79
+Resort Hotel,Groups,Refundable,Transient-Party,Agent,0-30 Days,1,0,0.0,128.0,2.0
+Resort Hotel,Offline TA/TO,No Deposit,Group,Agent,181-365 Days,12,5,41.67,59.23,8.58
+Resort Hotel,Offline TA/TO,No Deposit,Transient-Party,Agent,181-365 Days,123,16,13.01,82.21,4.43
+Resort Hotel,Offline TA/TO,No Deposit,Transient,Direct,31-90 Days,2,1,50.0,141.75,2.5
+Resort Hotel,Complementary,No Deposit,Transient,Direct,0-30 Days,99,13,13.13,3.31,1.84
+Resort Hotel,Online TA,No Deposit,Group,Agent,91-180 Days,4,1,25.0,93.81,3.75
+Resort Hotel,Groups,No Deposit,Transient-Party,Agent,91-180 Days,157,36,22.93,63.14,5.92
+Resort Hotel,Direct,No Deposit,Transient-Party,Agent,91-180 Days,33,3,9.09,149.95,5.94
+Resort Hotel,Groups,No Deposit,Transient-Party,Agent,181-365 Days,434,71,16.36,64.56,5.24
+Resort Hotel,Direct,No Deposit,Transient-Party,Company,0-30 Days,23,1,4.35,61.44,1.7
+Resort Hotel,Online TA,No Deposit,Transient-Party,Direct,0-30 Days,5,0,0.0,109.4,1.8
+Resort Hotel,Groups,Non Refund,Transient,Agent,31-90 Days,21,21,100.0,48.24,5.14
+Resort Hotel,Online TA,No Deposit,Transient-Party,Agent,181-365 Days,183,46,25.14,103.51,5.81
+Resort Hotel,Groups,Non Refund,Transient,Agent,91-180 Days,25,25,100.0,69.87,6.16
+Resort Hotel,Corporate,No Deposit,Transient-Party,Direct,31-90 Days,3,0,0.0,59.17,3.0
+Resort Hotel,Corporate,No Deposit,Contract,Direct,31-90 Days,3,0,0.0,60.0,3.33
+Resort Hotel,Direct,No Deposit,Contract,Agent,31-90 Days,12,1,8.33,54.17,2.5
+Resort Hotel,Corporate,No Deposit,Contract,Agent,0-30 Days,8,0,0.0,46.58,2.88
+Resort Hotel,Corporate,No Deposit,Contract,Agent,31-90 Days,6,4,66.67,51.17,3.33
+Resort Hotel,Corporate,No Deposit,Transient,Direct,31-90 Days,11,3,27.27,63.23,2.18
+Resort Hotel,Offline TA/TO,No Deposit,Transient,Agent,365+ Days,4,1,25.0,61.04,11.25
+Resort Hotel,Online TA,No Deposit,Transient,Company,0-30 Days,9,0,0.0,46.68,1.78
+Resort Hotel,Groups,No Deposit,Transient-Party,Company,0-30 Days,151,11,7.28,49.71,3.25
+Resort Hotel,Groups,No Deposit,Transient-Party,Direct,31-90 Days,120,22,18.33,85.3,3.46
+Resort Hotel,Groups,No Deposit,Transient-Party,Direct,0-30 Days,85,25,29.41,52.48,2.82
+Resort Hotel,Groups,No Deposit,Transient,Direct,0-30 Days,42,6,14.29,45.66,2.05
+Resort Hotel,Complementary,No Deposit,Transient,Agent,0-30 Days,30,3,10.0,0.47,1.5
+Resort Hotel,Groups,Non Refund,Transient,Direct,91-180 Days,11,11,100.0,67.27,2.09
+Resort Hotel,Groups,Non Refund,Contract,Agent,91-180 Days,1,1,100.0,36.0,23.0
+Resort Hotel,Groups,No Deposit,Transient,Direct,91-180 Days,32,5,15.63,52.35,2.19
+Resort Hotel,Groups,No Deposit,Transient-Party,Direct,91-180 Days,85,21,24.71,79.67,4.44
+Resort Hotel,Groups,Non Refund,Transient-Party,Direct,91-180 Days,1,1,100.0,36.0,1.0
+Resort Hotel,Corporate,No Deposit,Transient-Party,Agent,31-90 Days,7,5,71.43,42.86,5.57
+Resort Hotel,Corporate,No Deposit,Transient-Party,Company,31-90 Days,139,25,17.99,47.99,4.92
+Resort Hotel,Direct,No Deposit,Group,Company,0-30 Days,7,0,0.0,61.25,1.57
+Resort Hotel,Online TA,Non Refund,Transient,Agent,0-30 Days,4,4,100.0,143.75,1.0
+Resort Hotel,Groups,No Deposit,Transient,Agent,91-180 Days,14,1,7.14,65.88,5.07
+Resort Hotel,Offline TA/TO,No Deposit,Transient,Company,0-30 Days,18,1,5.56,52.03,1.22
+Resort Hotel,Offline TA/TO,Non Refund,Transient,Agent,181-365 Days,10,10,100.0,54.31,5.2
+Resort Hotel,Offline TA/TO,Non Refund,Transient-Party,Agent,31-90 Days,1,1,100.0,25.0,2.0
+Resort Hotel,Offline TA/TO,No Deposit,Transient-Party,Direct,0-30 Days,9,7,77.78,48.11,4.11
+Resort Hotel,Offline TA/TO,No Deposit,Transient-Party,Direct,91-180 Days,3,1,33.33,73.0,7.0
+Resort Hotel,Groups,No Deposit,Transient-Party,Company,91-180 Days,75,3,4.0,54.84,4.52
+Resort Hotel,Groups,Refundable,Transient-Party,Company,91-180 Days,52,5,9.62,65.3,3.79
+Resort Hotel,Groups,Non Refund,Transient-Party,Company,0-30 Days,9,3,33.33,46.39,1.11
+Resort Hotel,Groups,Non Refund,Transient-Party,Agent,91-180 Days,9,2,22.22,66.72,2.0
+Resort Hotel,Groups,No Deposit,Transient,Agent,181-365 Days,29,0,0.0,66.99,4.14
+Resort Hotel,Groups,Non Refund,Transient,Agent,181-365 Days,45,45,100.0,63.07,5.22
+Resort Hotel,Groups,Non Refund,Transient-Party,Agent,181-365 Days,4,3,75.0,83.2,3.25
+Resort Hotel,Offline TA/TO,No Deposit,Transient-Party,Direct,181-365 Days,19,6,31.58,77.97,2.84
+Resort Hotel,Offline TA/TO,No Deposit,Transient,Direct,181-365 Days,10,1,10.0,103.8,8.8
+Resort Hotel,Online TA,No Deposit,Transient,Direct,31-90 Days,17,4,23.53,146.47,4.88
+Resort Hotel,Offline TA/TO,No Deposit,Transient-Party,Direct,31-90 Days,1,1,100.0,47.0,4.0
+Resort Hotel,Groups,No Deposit,Transient,Agent,0-30 Days,12,0,0.0,45.86,2.25
+Resort Hotel,Groups,No Deposit,Transient-Party,Agent,365+ Days,70,6,8.57,56.79,3.99
+Resort Hotel,Groups,Non Refund,Transient-Party,Direct,0-30 Days,1,1,100.0,8.0,1.0
+Resort Hotel,Groups,Non Refund,Transient,Direct,31-90 Days,4,4,100.0,81.25,7.0
+Resort Hotel,Groups,No Deposit,Transient,Direct,31-90 Days,13,1,7.69,85.46,2.62
+Resort Hotel,Complementary,No Deposit,Transient,Company,91-180 Days,3,1,33.33,1.73,3.67
+Resort Hotel,Groups,No Deposit,Transient-Party,Company,181-365 Days,290,10,3.45,62.87,4.44
+Resort Hotel,Groups,Refundable,Transient-Party,Company,181-365 Days,4,1,25.0,70.36,5.5
+Resort Hotel,Groups,Non Refund,Transient-Party,Company,181-365 Days,3,1,33.33,42.0,2.67
+Resort Hotel,Groups,Non Refund,Transient,Company,0-30 Days,1,1,100.0,58.0,1.0
+Resort Hotel,Groups,Non Refund,Transient,Direct,181-365 Days,3,3,100.0,103.33,5.33
+Resort Hotel,Online TA,Non Refund,Transient,Agent,91-180 Days,2,2,100.0,78.75,6.0
+Resort Hotel,Groups,No Deposit,Transient-Party,Direct,181-365 Days,64,14,21.88,80.97,4.77
+Resort Hotel,Online TA,No Deposit,Transient,Direct,181-365 Days,9,1,11.11,86.16,4.22
+Resort Hotel,Direct,No Deposit,Group,Direct,0-30 Days,19,1,5.26,106.73,1.63
+Resort Hotel,Direct,No Deposit,Transient,Company,181-365 Days,3,1,33.33,102.58,4.0
+Resort Hotel,Direct,No Deposit,Transient-Party,Agent,31-90 Days,32,1,3.13,131.51,5.28
+Resort Hotel,Offline TA/TO,No Deposit,Transient,Direct,365+ Days,1,0,0.0,105.02,10.0
+Resort Hotel,Online TA,No Deposit,Group,Agent,181-365 Days,4,1,25.0,89.78,5.0
+Resort Hotel,Corporate,No Deposit,Transient-Party,Agent,181-365 Days,7,0,0.0,78.07,4.0
+Resort Hotel,Groups,Non Refund,Transient,Direct,365+ Days,4,4,100.0,71.55,4.75
+Resort Hotel,Offline TA/TO,No Deposit,Transient-Party,Agent,365+ Days,7,1,14.29,63.82,4.0
+Resort Hotel,Complementary,No Deposit,Transient,Company,0-30 Days,13,3,23.08,0.15,2.38
+Resort Hotel,Offline TA/TO,No Deposit,Transient-Party,Company,91-180 Days,4,1,25.0,116.1,1.0
+Resort Hotel,Offline TA/TO,Non Refund,Transient,Agent,91-180 Days,1,1,100.0,52.0,4.0
+Resort Hotel,Online TA,No Deposit,Transient,Agent,365+ Days,8,7,87.5,174.95,8.75
+Resort Hotel,Groups,Refundable,Transient-Party,Agent,365+ Days,3,1,33.33,48.0,1.67
+Resort Hotel,Complementary,No Deposit,Transient,Direct,91-180 Days,4,2,50.0,0.0,1.75
+Resort Hotel,Groups,Non Refund,Transient,Agent,365+ Days,5,5,100.0,51.4,3.4
+Resort Hotel,Groups,Refundable,Transient-Party,Agent,181-365 Days,7,0,0.0,65.39,7.0
+Resort Hotel,Groups,No Deposit,Transient-Party,Direct,365+ Days,39,2,5.13,52.5,4.05
+Resort Hotel,Corporate,No Deposit,Transient-Party,Direct,0-30 Days,11,2,18.18,48.82,2.09
+Resort Hotel,Complementary,No Deposit,Transient,Agent,31-90 Days,6,2,33.33,20.8,4.17
+Resort Hotel,Offline TA/TO,No Deposit,Group,Company,0-30 Days,2,1,50.0,17.0,0.5
+Resort Hotel,Corporate,No Deposit,Transient,Agent,31-90 Days,41,37,90.24,91.98,6.59
+Resort Hotel,Complementary,No Deposit,Transient-Party,Agent,0-30 Days,6,1,16.67,9.0,2.67
+Resort Hotel,Offline TA/TO,No Deposit,Transient,Direct,91-180 Days,5,1,20.0,85.64,7.0
+Resort Hotel,Corporate,Non Refund,Transient,Company,0-30 Days,2,2,100.0,45.0,2.0
+Resort Hotel,Corporate,Non Refund,Transient,Direct,0-30 Days,5,5,100.0,100.0,1.8
+Resort Hotel,Direct,Refundable,Transient,Agent,0-30 Days,1,1,100.0,115.5,9.0
+Resort Hotel,Direct,No Deposit,Transient-Party,Direct,181-365 Days,30,2,6.67,110.93,5.33
+Resort Hotel,Online TA,Refundable,Transient,Agent,91-180 Days,2,2,100.0,169.18,4.5
+Resort Hotel,Online TA,No Deposit,Transient,Direct,91-180 Days,22,3,13.64,107.4,5.77
+Resort Hotel,Online TA,Refundable,Transient,Agent,181-365 Days,1,1,100.0,76.0,4.0
+Resort Hotel,Offline TA/TO,No Deposit,Group,Agent,0-30 Days,58,6,10.34,67.92,3.48
+Resort Hotel,Online TA,Non Refund,Transient-Party,Agent,181-365 Days,1,1,100.0,80.1,5.0
+Resort Hotel,Offline TA/TO,Refundable,Contract,Agent,181-365 Days,2,2,100.0,78.23,9.5
+Resort Hotel,Online TA,Refundable,Transient,Agent,31-90 Days,2,2,100.0,169.17,6.0
+Resort Hotel,Offline TA/TO,No Deposit,Transient,Company,31-90 Days,7,1,14.29,71.29,1.0
+Resort Hotel,Offline TA/TO,No Deposit,Transient,Company,91-180 Days,4,1,25.0,109.0,2.75
+Resort Hotel,Online TA,Refundable,Transient,Agent,0-30 Days,1,1,100.0,229.0,2.0
+Resort Hotel,Online TA,No Deposit,Group,Agent,31-90 Days,10,1,10.0,77.15,2.3
+Resort Hotel,Offline TA/TO,Non Refund,Transient,Direct,31-90 Days,1,1,100.0,198.0,3.0
+Resort Hotel,Offline TA/TO,No Deposit,Group,Agent,31-90 Days,8,2,25.0,105.0,4.63
+Resort Hotel,Corporate,No Deposit,Transient-Party,Agent,0-30 Days,9,0,0.0,51.78,1.44
+Resort Hotel,Complementary,No Deposit,Group,Company,0-30 Days,1,0,0.0,0.0,3.0
+Resort Hotel,Groups,No Deposit,Transient,Company,0-30 Days,4,0,0.0,45.0,2.5
+Resort Hotel,Direct,No Deposit,Transient,Company,31-90 Days,3,0,0.0,85.7,3.67
+Resort Hotel,Online TA,No Deposit,Transient-Party,Company,0-30 Days,5,0,0.0,77.01,2.4
+Resort Hotel,Direct,Non Refund,Transient-Party,Direct,0-30 Days,1,0,0.0,38.0,1.0
+Resort Hotel,Direct,No Deposit,Group,Agent,0-30 Days,24,0,0.0,89.64,2.29
+Resort Hotel,Groups,No Deposit,Group,Agent,31-90 Days,2,0,0.0,55.16,4.5
+Resort Hotel,Groups,Non Refund,Transient,Company,181-365 Days,2,2,100.0,36.67,3.0
+Resort Hotel,Offline TA/TO,No Deposit,Group,Agent,91-180 Days,6,0,0.0,120.39,7.5
+Resort Hotel,Groups,No Deposit,Group,Agent,181-365 Days,2,0,0.0,0.0,8.5
+Resort Hotel,Complementary,No Deposit,Transient-Party,Agent,181-365 Days,1,0,0.0,0.0,8.0
+Resort Hotel,Offline TA/TO,Non Refund,Transient,Direct,181-365 Days,2,2,100.0,36.0,3.0
+Resort Hotel,Corporate,No Deposit,Group,Direct,0-30 Days,1,0,0.0,35.0,4.0
+Resort Hotel,Complementary,No Deposit,Contract,Agent,0-30 Days,1,0,0.0,2.4,5.0
+Resort Hotel,Complementary,No Deposit,Transient-Party,Company,0-30 Days,2,0,0.0,24.0,17.5
+Resort Hotel,Complementary,No Deposit,Transient-Party,Direct,31-90 Days,1,0,0.0,0.0,2.0
+Resort Hotel,Online TA,No Deposit,Contract,Agent,31-90 Days,1,0,0.0,134.75,8.0
+Resort Hotel,Online TA,No Deposit,Group,Direct,0-30 Days,2,0,0.0,188.0,1.0
+Resort Hotel,Groups,Refundable,Transient-Party,Direct,0-30 Days,9,0,0.0,73.33,1.11
+Resort Hotel,Corporate,No Deposit,Contract,Direct,0-30 Days,1,0,0.0,50.0,2.0
+Resort Hotel,Online TA,No Deposit,Transient-Party,Company,181-365 Days,2,0,0.0,44.5,3.5
+Resort Hotel,Direct,No Deposit,Transient-Party,Company,181-365 Days,2,0,0.0,41.75,3.5
+Resort Hotel,Corporate,Non Refund,Transient-Party,Company,0-30 Days,4,0,0.0,85.5,3.25
+Resort Hotel,Groups,No Deposit,Transient,Company,181-365 Days,5,0,0.0,50.12,7.2
+Resort Hotel,Corporate,No Deposit,Group,Agent,0-30 Days,1,0,0.0,42.0,1.0
+Resort Hotel,Offline TA/TO,No Deposit,Transient-Party,Company,0-30 Days,3,0,0.0,33.67,1.33
+Resort Hotel,Corporate,No Deposit,Group,Company,0-30 Days,9,0,0.0,57.36,1.89
+Resort Hotel,Offline TA/TO,No Deposit,Group,Direct,0-30 Days,1,0,0.0,61.0,1.0
+Resort Hotel,Direct,No Deposit,Group,Agent,31-90 Days,8,1,12.5,118.3,6.13
+Resort Hotel,Groups,No Deposit,Transient,Company,91-180 Days,2,0,0.0,63.0,6.0
+Resort Hotel,Groups,Non Refund,Transient-Party,Agent,0-30 Days,7,0,0.0,56.72,3.0
+Resort Hotel,Direct,No Deposit,Group,Direct,91-180 Days,1,0,0.0,150.0,3.0
+Resort Hotel,Complementary,No Deposit,Transient,Company,31-90 Days,1,0,0.0,0.0,2.0
+Resort Hotel,Groups,No Deposit,Group,Agent,91-180 Days,1,0,0.0,0.0,7.0
+Resort Hotel,Direct,Refundable,Transient-Party,Company,0-30 Days,2,0,0.0,70.0,1.0
+Resort Hotel,Groups,No Deposit,Transient,Agent,365+ Days,1,0,0.0,69.0,2.0
+Resort Hotel,Groups,Refundable,Group,Direct,0-30 Days,3,0,0.0,72.0,1.0
+Resort Hotel,Direct,Refundable,Group,Company,0-30 Days,2,0,0.0,70.0,1.0
+Resort Hotel,Direct,No Deposit,Group,Company,181-365 Days,1,0,0.0,151.56,9.0
+Resort Hotel,Direct,No Deposit,Group,Agent,181-365 Days,2,0,0.0,161.17,5.5
+Resort Hotel,Offline TA/TO,Non Refund,Transient-Party,Agent,91-180 Days,1,0,0.0,100.8,4.0
+Resort Hotel,Online TA,No Deposit,Transient,Company,31-90 Days,3,0,0.0,106.5,3.67
+Resort Hotel,Offline TA/TO,Non Refund,Transient-Party,Agent,181-365 Days,1,0,0.0,66.3,4.0
+Resort Hotel,Direct,No Deposit,Transient,Company,91-180 Days,1,0,0.0,212.6,7.0
+Resort Hotel,Offline TA/TO,No Deposit,Contract,Direct,0-30 Days,1,0,0.0,100.0,3.0
+Resort Hotel,Groups,No Deposit,Group,Company,0-30 Days,1,0,0.0,50.0,1.0
+Resort Hotel,Groups,No Deposit,Transient,Direct,181-365 Days,4,0,0.0,92.17,4.75
+Resort Hotel,Groups,No Deposit,Transient,Direct,365+ Days,1,0,0.0,97.0,7.0
+Resort Hotel,Direct,No Deposit,Group,Agent,91-180 Days,3,0,0.0,153.03,4.33
+Resort Hotel,Complementary,No Deposit,Transient-Party,Agent,31-90 Days,1,0,0.0,7.0,2.0
+Resort Hotel,Complementary,No Deposit,Transient-Party,Agent,91-180 Days,1,0,0.0,0.0,4.0
+Resort Hotel,Corporate,No Deposit,Group,Company,91-180 Days,1,0,0.0,60.0,2.0
+Resort Hotel,Groups,No Deposit,Contract,Agent,31-90 Days,8,0,0.0,79.63,6.5
+Resort Hotel,Groups,No Deposit,Contract,Agent,91-180 Days,17,0,0.0,84.68,8.82
+Resort Hotel,Online TA,No Deposit,Transient-Party,Direct,181-365 Days,1,0,0.0,67.5,7.0
+Resort Hotel,Online TA,No Deposit,Transient-Party,Direct,31-90 Days,1,0,0.0,99.25,7.0
+Resort Hotel,Offline TA/TO,No Deposit,Group,Company,181-365 Days,1,0,0.0,87.13,7.0
+Resort Hotel,Online TA,No Deposit,Transient-Party,Direct,91-180 Days,1,0,0.0,173.67,6.0
+Resort Hotel,Offline TA/TO,No Deposit,Transient,Company,181-365 Days,1,0,0.0,96.4,7.0
+Resort Hotel,Offline TA/TO,No Deposit,Contract,Company,91-180 Days,1,0,0.0,163.4,7.0
+Resort Hotel,Online TA,Non Refund,Transient-Party,Direct,0-30 Days,1,0,0.0,245.0,1.0
+Resort Hotel,Offline TA/TO,No Deposit,Transient-Party,Company,181-365 Days,1,0,0.0,141.0,1.0
+Resort Hotel,Corporate,No Deposit,Group,Company,31-90 Days,1,0,0.0,135.0,3.0
+Resort Hotel,Offline TA/TO,No Deposit,Contract,Company,0-30 Days,2,0,0.0,135.0,10.5
+City Hotel,Offline TA/TO,No Deposit,Transient,Agent,0-30 Days,1386,137,9.88,83.28,2.88
+City Hotel,Online TA,No Deposit,Transient,Agent,31-90 Days,10100,4090,40.5,120.39,3.37
+City Hotel,Online TA,No Deposit,Transient,Agent,91-180 Days,7611,3377,44.37,122.42,3.74
+City Hotel,Groups,No Deposit,Transient-Party,Agent,0-30 Days,479,71,14.82,103.22,2.82
+City Hotel,Groups,No Deposit,Transient-Party,Agent,31-90 Days,459,67,14.6,74.15,2.79
+City Hotel,Offline TA/TO,No Deposit,Transient,Agent,91-180 Days,1084,186,17.16,86.24,4.01
+City Hotel,Online TA,No Deposit,Transient-Party,Agent,31-90 Days,365,41,11.23,105.71,3.21
+City Hotel,Offline TA/TO,No Deposit,Transient,Agent,31-90 Days,1543,189,12.25,82.72,3.54
+City Hotel,Complementary,No Deposit,Transient,Direct,31-90 Days,22,3,13.64,7.72,2.27
+City Hotel,Direct,No Deposit,Transient-Party,Direct,31-90 Days,56,23,41.07,125.05,3.23
+City Hotel,Online TA,No Deposit,Transient,Agent,0-30 Days,10555,2710,25.68,122.53,2.77
+City Hotel,Groups,No Deposit,Transient,Agent,31-90 Days,8,2,25.0,84.92,2.38
+City Hotel,Direct,No Deposit,Transient,Agent,31-90 Days,847,174,20.54,126.17,3.37
+City Hotel,Offline TA/TO,No Deposit,Transient-Party,Agent,0-30 Days,488,50,10.25,84.12,2.44
+City Hotel,Offline TA/TO,No Deposit,Transient-Party,Agent,91-180 Days,691,136,19.68,92.31,3.22
+City Hotel,Online TA,No Deposit,Transient-Party,Agent,91-180 Days,552,64,11.59,113.6,3.34
+City Hotel,Direct,No Deposit,Transient,Direct,0-30 Days,1632,205,12.56,109.98,1.95
+City Hotel,Groups,No Deposit,Transient,Agent,0-30 Days,54,13,24.07,71.88,3.04
+City Hotel,Groups,Non Refund,Transient-Party,Agent,0-30 Days,2,2,100.0,62.0,2.0
+City Hotel,Direct,No Deposit,Transient,Agent,91-180 Days,667,130,19.49,128.6,3.97
+City Hotel,Groups,No Deposit,Transient-Party,Agent,91-180 Days,321,47,14.64,72.42,2.62
+City Hotel,Corporate,No Deposit,Transient,Company,0-30 Days,1308,116,8.87,79.51,1.75
+City Hotel,Complementary,No Deposit,Transient,Direct,0-30 Days,158,17,10.76,2.38,1.53
+City Hotel,Direct,No Deposit,Transient-Party,Direct,0-30 Days,107,9,8.41,99.54,2.76
+City Hotel,Undefined,No Deposit,Transient-Party,Direct,0-30 Days,2,2,100.0,15.0,1.5
+City Hotel,Groups,Non Refund,Transient,Agent,31-90 Days,48,48,100.0,102.23,2.33
+City Hotel,Online TA,No Deposit,Contract,Agent,0-30 Days,847,144,17.0,117.85,3.02
+City Hotel,Complementary,No Deposit,Transient,Company,0-30 Days,245,26,10.61,1.93,1.41
+City Hotel,Corporate,No Deposit,Group,Company,0-30 Days,12,3,25.0,100.33,2.58
+City Hotel,Direct,No Deposit,Transient,Agent,0-30 Days,1368,200,14.62,132.45,2.84
+City Hotel,Corporate,No Deposit,Transient-Party,Company,0-30 Days,324,43,13.27,82.41,1.98
+City Hotel,Direct,No Deposit,Transient-Party,Agent,0-30 Days,39,3,7.69,115.32,2.1
+City Hotel,Direct,No Deposit,Transient-Party,Agent,91-180 Days,72,5,6.94,111.59,3.49
+City Hotel,Online TA,No Deposit,Transient,Company,0-30 Days,41,3,7.32,102.09,2.41
+City Hotel,Online TA,No Deposit,Transient-Party,Agent,0-30 Days,291,38,13.06,106.16,2.44
+City Hotel,Direct,No Deposit,Group,Agent,0-30 Days,27,1,3.7,118.59,2.78
+City Hotel,Online TA,No Deposit,Transient-Party,Direct,91-180 Days,2,0,0.0,73.53,2.0
+City Hotel,Online TA,No Deposit,Transient,Direct,91-180 Days,2,0,0.0,125.92,3.0
+City Hotel,Online TA,No Deposit,Contract,Company,0-30 Days,2,0,0.0,98.5,3.5
+City Hotel,Offline TA/TO,No Deposit,Transient,Direct,0-30 Days,9,3,33.33,70.89,2.56
+City Hotel,Online TA,No Deposit,Transient,Direct,0-30 Days,118,11,9.32,115.77,1.76
+City Hotel,Online TA,No Deposit,Transient-Party,Company,0-30 Days,4,0,0.0,89.25,1.75
+City Hotel,Online TA,No Deposit,Contract,Direct,0-30 Days,5,0,0.0,43.17,3.4
+City Hotel,Offline TA/TO,No Deposit,Transient-Party,Agent,31-90 Days,558,87,15.59,88.82,2.61
+City Hotel,Corporate,Non Refund,Transient,Company,0-30 Days,4,4,100.0,81.75,2.25
+City Hotel,Corporate,No Deposit,Transient,Agent,0-30 Days,97,10,10.31,78.78,1.96
+City Hotel,Complementary,No Deposit,Transient,Agent,0-30 Days,44,6,13.64,0.0,1.23
+City Hotel,Direct,No Deposit,Contract,Agent,0-30 Days,1,1,100.0,75.0,2.0
+City Hotel,Groups,Non Refund,Transient,Agent,91-180 Days,77,77,100.0,99.66,2.52
+City Hotel,Offline TA/TO,No Deposit,Contract,Agent,0-30 Days,54,7,12.96,84.97,2.93
+City Hotel,Online TA,No Deposit,Contract,Agent,31-90 Days,322,96,29.81,99.3,3.38
+City Hotel,Online TA,No Deposit,Group,Agent,0-30 Days,53,2,3.77,101.84,2.26
+City Hotel,Offline TA/TO,No Deposit,Group,Agent,0-30 Days,41,6,14.63,92.85,2.78
+City Hotel,Direct,No Deposit,Transient,Direct,31-90 Days,160,40,25.0,116.43,3.47
+City Hotel,Corporate,No Deposit,Transient,Direct,0-30 Days,27,3,11.11,103.29,1.74
+City Hotel,Corporate,No Deposit,Transient-Party,Company,31-90 Days,96,17,17.71,100.14,1.9
+City Hotel,Groups,No Deposit,Transient-Party,Direct,31-90 Days,96,26,27.08,84.03,2.79
+City Hotel,Groups,Non Refund,Transient,Direct,31-90 Days,17,17,100.0,101.12,2.12
+City Hotel,Groups,No Deposit,Transient,Direct,0-30 Days,20,1,5.0,85.31,1.55
+City Hotel,Offline TA/TO,No Deposit,Contract,Agent,31-90 Days,32,8,25.0,84.21,3.53
+City Hotel,Direct,No Deposit,Contract,Direct,0-30 Days,1,0,0.0,105.0,1.0
+City Hotel,Corporate,No Deposit,Transient,Company,31-90 Days,116,18,15.52,83.15,1.97
+City Hotel,Corporate,No Deposit,Transient,Agent,31-90 Days,6,0,0.0,67.67,2.33
+City Hotel,Direct,No Deposit,Transient-Party,Agent,31-90 Days,47,3,6.38,102.89,3.45
+City Hotel,Offline TA/TO,Non Refund,Transient-Party,Agent,31-90 Days,2,2,100.0,90.75,2.0
+City Hotel,Direct,No Deposit,Transient,Company,0-30 Days,52,4,7.69,89.02,1.73
+City Hotel,Offline TA/TO,No Deposit,Transient-Party,Agent,181-365 Days,547,88,16.09,88.17,3.01
+City Hotel,Direct,No Deposit,Transient,Direct,91-180 Days,94,17,18.09,129.69,3.53
+City Hotel,Online TA,No Deposit,Transient,Agent,181-365 Days,3556,1875,52.73,113.71,4.02
+City Hotel,Offline TA/TO,Non Refund,Transient,Agent,0-30 Days,19,19,100.0,112.03,1.95
+City Hotel,Online TA,No Deposit,Group,Agent,31-90 Days,16,1,6.25,97.46,2.56
+City Hotel,Groups,No Deposit,Transient-Party,Agent,181-365 Days,285,84,29.47,80.6,2.69
+City Hotel,Groups,No Deposit,Transient,Agent,91-180 Days,22,14,63.64,57.65,2.32
+City Hotel,Groups,Refundable,Transient-Party,Agent,31-90 Days,1,0,0.0,72.25,3.0
+City Hotel,Groups,No Deposit,Contract,Agent,91-180 Days,1,1,100.0,85.0,3.0
+City Hotel,Offline TA/TO,Non Refund,Transient,Agent,91-180 Days,86,86,100.0,102.96,2.86
+City Hotel,Offline TA/TO,No Deposit,Group,Agent,31-90 Days,40,4,10.0,66.66,3.23
+City Hotel,Offline TA/TO,Non Refund,Transient,Agent,181-365 Days,87,87,100.0,95.86,2.86
+City Hotel,Offline TA/TO,Non Refund,Transient-Party,Agent,91-180 Days,2,2,100.0,90.75,2.0
+City Hotel,Online TA,No Deposit,Transient-Party,Agent,181-365 Days,327,68,20.8,102.78,3.64
+City Hotel,Groups,Non Refund,Transient,Company,31-90 Days,4,4,100.0,95.25,2.75
+City Hotel,Offline TA/TO,Non Refund,Transient,Agent,31-90 Days,29,29,100.0,276.76,2.86
+City Hotel,Direct,No Deposit,Transient,Direct,181-365 Days,29,10,34.48,124.09,3.62
+City Hotel,Direct,No Deposit,Group,Agent,31-90 Days,6,1,16.67,114.16,3.0
+City Hotel,Online TA,No Deposit,Contract,Agent,91-180 Days,81,44,54.32,87.22,3.47
+City Hotel,Groups,Non Refund,Transient,Agent,181-365 Days,109,109,100.0,91.82,2.3
+City Hotel,Online TA,No Deposit,Transient,Company,31-90 Days,2,0,0.0,84.88,5.0
+City Hotel,Online TA,No Deposit,Transient-Party,Direct,0-30 Days,3,0,0.0,103.5,2.0
+City Hotel,Corporate,No Deposit,Transient-Party,Agent,31-90 Days,25,1,4.0,67.59,3.08
+City Hotel,Corporate,No Deposit,Transient-Party,Company,91-180 Days,19,3,15.79,81.79,1.26
+City Hotel,Online TA,No Deposit,Transient,Direct,31-90 Days,15,4,26.67,121.44,3.67
+City Hotel,Corporate,No Deposit,Transient-Party,Agent,0-30 Days,68,5,7.35,96.38,2.53
+City Hotel,Groups,No Deposit,Transient-Party,Direct,0-30 Days,39,10,25.64,80.69,1.97
+City Hotel,Groups,Non Refund,Transient,Agent,0-30 Days,15,15,100.0,111.84,2.53
+City Hotel,Groups,Non Refund,Transient,Agent,365+ Days,111,111,100.0,64.02,1.77
+City Hotel,Online TA,No Deposit,Contract,Agent,181-365 Days,69,27,39.13,110.89,3.68
+City Hotel,Groups,No Deposit,Transient,Agent,181-365 Days,8,4,50.0,56.44,2.25
+City Hotel,Aviation,No Deposit,Transient-Party,Company,0-30 Days,13,2,15.38,95.0,2.62
+City Hotel,Offline TA/TO,No Deposit,Transient,Agent,181-365 Days,295,46,15.59,88.59,4.11
+City Hotel,Groups,No Deposit,Transient-Party,Direct,181-365 Days,22,8,36.36,106.56,2.27
+City Hotel,Aviation,No Deposit,Transient,Agent,0-30 Days,19,2,10.53,96.37,4.16
+City Hotel,Groups,Non Refund,Transient,Direct,91-180 Days,16,16,100.0,137.31,3.81
+City Hotel,Direct,No Deposit,Transient,Agent,181-365 Days,234,56,23.93,117.46,3.76
+City Hotel,Direct,No Deposit,Group,Agent,181-365 Days,3,1,33.33,94.13,2.67
+City Hotel,Offline TA/TO,Non Refund,Transient,Agent,365+ Days,23,23,100.0,84.35,1.87
+City Hotel,Aviation,No Deposit,Transient,Company,0-30 Days,190,38,20.0,100.65,3.65
+City Hotel,Groups,No Deposit,Transient-Party,Direct,91-180 Days,12,8,66.67,94.17,2.42
+City Hotel,Direct,No Deposit,Transient-Party,Agent,181-365 Days,36,6,16.67,89.36,3.44
+City Hotel,Aviation,No Deposit,Transient-Party,Agent,0-30 Days,3,3,100.0,110.0,1.0
+City Hotel,Corporate,No Deposit,Transient,Direct,31-90 Days,2,1,50.0,103.33,5.0
+City Hotel,Corporate,Non Refund,Transient,Company,91-180 Days,2,2,100.0,105.0,3.5
+City Hotel,Offline TA/TO,No Deposit,Contract,Agent,181-365 Days,7,3,42.86,79.68,4.0
+City Hotel,Direct,No Deposit,Transient-Party,Direct,91-180 Days,38,10,26.32,116.05,4.74
+City Hotel,Corporate,Non Refund,Transient-Party,Company,91-180 Days,6,1,16.67,106.0,3.67
+City Hotel,Online TA,Non Refund,Transient,Company,0-30 Days,2,2,100.0,144.3,1.0
+City Hotel,Corporate,Non Refund,Transient-Party,Company,181-365 Days,19,18,94.74,107.63,2.79
+City Hotel,Corporate,Non Refund,Transient,Company,31-90 Days,7,7,100.0,90.71,1.86
+City Hotel,Groups,No Deposit,Transient-Party,Agent,365+ Days,84,12,14.29,98.34,2.92
+City Hotel,Direct,No Deposit,Group,Direct,0-30 Days,11,2,18.18,129.45,1.64
+City Hotel,Groups,No Deposit,Transient,Agent,365+ Days,1,0,0.0,65.0,2.0
+City Hotel,Offline TA/TO,No Deposit,Transient-Party,Agent,365+ Days,140,34,24.29,100.79,2.69
+City Hotel,Offline TA/TO,No Deposit,Transient,Agent,365+ Days,2,1,50.0,93.55,3.0
+City Hotel,Complementary,No Deposit,Transient,Company,31-90 Days,10,3,30.0,0.0,1.4
+City Hotel,Direct,Non Refund,Transient,Direct,91-180 Days,3,3,100.0,83.33,3.0
+City Hotel,Online TA,Non Refund,Transient,Agent,181-365 Days,4,4,100.0,85.0,4.0
+City Hotel,Corporate,No Deposit,Transient-Party,Agent,91-180 Days,7,1,14.29,143.29,1.71
+City Hotel,Groups,Non Refund,Transient,Direct,181-365 Days,21,21,100.0,110.1,3.62
+City Hotel,Offline TA/TO,No Deposit,Transient,Company,0-30 Days,16,1,6.25,87.82,2.56
+City Hotel,Corporate,Refundable,Transient-Party,Agent,91-180 Days,1,1,100.0,79.0,6.0
+City Hotel,Groups,No Deposit,Transient,Company,181-365 Days,77,2,2.6,77.5,2.43
+City Hotel,Groups,Non Refund,Transient-Party,Company,181-365 Days,2,1,50.0,111.0,2.0
+City Hotel,Groups,Non Refund,Transient,Company,91-180 Days,2,2,100.0,115.0,3.0
+City Hotel,Complementary,No Deposit,Transient-Party,Company,0-30 Days,11,2,18.18,0.0,1.0
+City Hotel,Online TA,No Deposit,Transient,Agent,365+ Days,6,5,83.33,101.61,2.83
+City Hotel,Offline TA/TO,No Deposit,Transient-Party,Direct,31-90 Days,9,5,55.56,156.8,2.44
+City Hotel,Groups,No Deposit,Transient-Party,Company,31-90 Days,60,10,16.67,92.95,2.72
+City Hotel,Groups,No Deposit,Transient-Party,Company,0-30 Days,43,2,4.65,87.98,2.63
+City Hotel,Corporate,No Deposit,Group,Direct,0-30 Days,1,1,100.0,80.0,1.0
+City Hotel,Groups,Non Refund,Transient,Direct,0-30 Days,3,3,100.0,95.0,1.67
+City Hotel,Corporate,No Deposit,Transient-Party,Agent,181-365 Days,7,2,28.57,92.14,8.0
+City Hotel,Offline TA/TO,Non Refund,Transient,Company,91-180 Days,3,3,100.0,95.0,2.0
+City Hotel,Online TA,Refundable,Transient,Agent,0-30 Days,3,3,100.0,138.11,2.67
+City Hotel,Online TA,Refundable,Transient,Agent,91-180 Days,3,3,100.0,136.23,3.33
+City Hotel,Direct,Non Refund,Transient,Direct,0-30 Days,4,4,100.0,102.6,1.0
+City Hotel,Online TA,Refundable,Transient,Agent,31-90 Days,1,1,100.0,172.26,5.0
+City Hotel,Offline TA/TO,No Deposit,Transient-Party,Direct,181-365 Days,3,1,33.33,97.3,3.67
+City Hotel,Offline TA/TO,Non Refund,Transient-Party,Agent,365+ Days,1,1,100.0,90.0,1.0
+City Hotel,Offline TA/TO,Non Refund,Transient,Direct,91-180 Days,3,3,100.0,146.67,3.0
+City Hotel,Groups,Non Refund,Transient,Company,181-365 Days,1,1,100.0,140.0,3.0
+City Hotel,Offline TA/TO,Non Refund,Transient,Direct,31-90 Days,2,2,100.0,135.0,2.0
+City Hotel,Groups,Non Refund,Transient-Party,Agent,365+ Days,1,1,100.0,90.0,1.0
+City Hotel,Online TA,Non Refund,Transient,Agent,0-30 Days,2,2,100.0,116.29,1.0
+City Hotel,Offline TA/TO,Non Refund,Transient,Direct,181-365 Days,1,1,100.0,120.0,5.0
+City Hotel,Corporate,Non Refund,Transient,Company,181-365 Days,2,2,100.0,115.0,4.0
+City Hotel,Direct,No Deposit,Transient,Direct,365+ Days,1,1,100.0,159.0,4.0
+City Hotel,Direct,Refundable,Transient,Agent,31-90 Days,1,1,100.0,139.5,2.0
+City Hotel,Online TA,Refundable,Transient,Agent,181-365 Days,1,1,100.0,139.5,14.0
+City Hotel,Groups,No Deposit,Contract,Agent,181-365 Days,9,9,100.0,62.0,2.0
+City Hotel,Groups,Non Refund,Contract,Agent,181-365 Days,24,24,100.0,62.0,2.0
+City Hotel,Groups,Non Refund,Contract,Agent,365+ Days,3,3,100.0,62.0,2.0
+City Hotel,Offline TA/TO,Non Refund,Transient-Party,Agent,181-365 Days,12,11,91.67,96.23,2.08
+City Hotel,Groups,Non Refund,Transient-Party,Agent,181-365 Days,41,41,100.0,63.41,2.1
+City Hotel,Groups,Non Refund,Transient-Party,Agent,91-180 Days,3,3,100.0,86.0,3.0
+City Hotel,Offline TA/TO,No Deposit,Transient-Party,Direct,0-30 Days,4,0,0.0,112.53,3.75
+City Hotel,Corporate,No Deposit,Group,Agent,0-30 Days,2,1,50.0,123.5,1.0
+City Hotel,Corporate,Non Refund,Transient,Agent,0-30 Days,4,4,100.0,95.0,2.0
+City Hotel,Direct,Non Refund,Transient-Party,Direct,0-30 Days,2,0,0.0,117.0,1.0
+City Hotel,Corporate,No Deposit,Transient,Company,91-180 Days,23,0,0.0,89.07,3.61
+City Hotel,Groups,No Deposit,Group,Agent,0-30 Days,2,0,0.0,76.66,2.5
+City Hotel,Offline TA/TO,Refundable,Transient-Party,Agent,0-30 Days,2,0,0.0,74.0,2.5
+City Hotel,Online TA,No Deposit,Group,Agent,181-365 Days,4,1,25.0,88.63,2.25
+City Hotel,Complementary,No Deposit,Group,Agent,0-30 Days,3,0,0.0,26.33,2.0
+City Hotel,Online TA,No Deposit,Contract,Agent,365+ Days,1,1,100.0,81.0,3.0
+City Hotel,Complementary,No Deposit,Group,Company,0-30 Days,2,0,0.0,0.0,1.0
+City Hotel,Corporate,Non Refund,Transient-Party,Company,0-30 Days,5,0,0.0,92.6,1.6
+City Hotel,Offline TA/TO,No Deposit,Group,Agent,91-180 Days,12,0,0.0,74.76,3.5
+City Hotel,Direct,No Deposit,Group,Company,0-30 Days,1,0,0.0,50.0,1.0
+City Hotel,Corporate,No Deposit,Transient,Company,181-365 Days,2,0,0.0,64.5,4.5
+City Hotel,Online TA,No Deposit,Group,Agent,91-180 Days,14,0,0.0,93.0,2.43
+City Hotel,Groups,No Deposit,Transient,Direct,31-90 Days,5,0,0.0,77.4,3.0
+City Hotel,Corporate,Non Refund,Transient-Party,Company,31-90 Days,4,0,0.0,106.0,2.25
+City Hotel,Offline TA/TO,No Deposit,Contract,Agent,91-180 Days,11,0,0.0,79.5,4.55
+City Hotel,Groups,Non Refund,Transient-Party,Direct,0-30 Days,2,0,0.0,78.83,1.0
+City Hotel,Groups,Non Refund,Transient-Party,Direct,31-90 Days,1,0,0.0,75.0,3.0
+City Hotel,Corporate,Refundable,Transient-Party,Company,31-90 Days,2,0,0.0,81.25,1.0
+City Hotel,Direct,No Deposit,Group,Agent,91-180 Days,3,0,0.0,80.28,3.0
+City Hotel,Complementary,No Deposit,Contract,Direct,91-180 Days,1,0,0.0,6.0,1.0
+City Hotel,Complementary,No Deposit,Transient,Direct,91-180 Days,6,0,0.0,0.0,2.0
+City Hotel,Offline TA/TO,No Deposit,Group,Agent,181-365 Days,8,0,0.0,89.37,2.38
+City Hotel,Groups,No Deposit,Transient,Company,0-30 Days,2,0,0.0,37.5,1.5
+City Hotel,Direct,No Deposit,Transient-Party,Direct,181-365 Days,10,2,20.0,90.89,3.1
+City Hotel,Offline TA/TO,No Deposit,Group,Company,0-30 Days,2,0,0.0,102.5,2.5
+City Hotel,Offline TA/TO,No Deposit,Transient-Party,Company,0-30 Days,1,0,0.0,95.0,3.0
+City Hotel,Online TA,Non Refund,Transient-Party,Agent,91-180 Days,1,0,0.0,173.95,4.0
+City Hotel,Online TA,No Deposit,Transient,Company,91-180 Days,1,0,0.0,101.15,5.0
+City Hotel,Offline TA/TO,No Deposit,Transient,Direct,31-90 Days,3,0,0.0,106.96,5.67
+City Hotel,Offline TA/TO,No Deposit,Transient,Direct,91-180 Days,3,0,0.0,93.6,4.67
+City Hotel,Corporate,No Deposit,Transient-Party,Direct,0-30 Days,24,0,0.0,85.11,1.71
+City Hotel,Online TA,Non Refund,Transient-Party,Agent,181-365 Days,1,0,0.0,83.83,4.0
+City Hotel,Complementary,No Deposit,Transient,Company,91-180 Days,2,0,0.0,0.0,1.0
+City Hotel,Direct,No Deposit,Transient-Party,Company,31-90 Days,1,0,0.0,0.0,4.0
+City Hotel,Complementary,No Deposit,Transient-Party,Direct,31-90 Days,4,0,0.0,68.5,2.0
+City Hotel,Direct,No Deposit,Transient-Party,Company,0-30 Days,2,0,0.0,145.0,2.5
+City Hotel,Online TA,No Deposit,Transient-Party,Company,181-365 Days,3,0,0.0,100.75,5.0
+City Hotel,Complementary,No Deposit,Transient-Party,Agent,365+ Days,1,0,0.0,3.0,2.0
+City Hotel,Complementary,No Deposit,Transient,Agent,31-90 Days,2,0,0.0,0.0,1.5
+City Hotel,Corporate,No Deposit,Transient,Agent,91-180 Days,1,0,0.0,71.4,4.0
+City Hotel,Complementary,No Deposit,Transient,Direct,181-365 Days,1,0,0.0,9.0,2.0
+City Hotel,Groups,No Deposit,Transient,Company,31-90 Days,4,0,0.0,95.5,2.75
+City Hotel,Groups,No Deposit,Transient-Party,Company,181-365 Days,4,0,0.0,111.17,5.75
+City Hotel,Corporate,No Deposit,Transient-Party,Direct,31-90 Days,4,0,0.0,70.0,3.5
+City Hotel,Groups,No Deposit,Group,Direct,31-90 Days,1,0,0.0,65.0,1.0
+City Hotel,Complementary,No Deposit,Transient-Party,Agent,181-365 Days,1,0,0.0,20.0,5.0
+City Hotel,Online TA,No Deposit,Transient,Company,181-365 Days,2,0,0.0,106.98,5.5
+City Hotel,Groups,No Deposit,Group,Agent,31-90 Days,1,0,0.0,85.0,3.0
+City Hotel,Groups,No Deposit,Transient-Party,Company,91-180 Days,11,0,0.0,92.82,3.55
+City Hotel,Online TA,No Deposit,Group,Direct,0-30 Days,1,0,0.0,130.5,2.0
+City Hotel,Offline TA/TO,No Deposit,Transient-Party,Company,31-90 Days,9,0,0.0,103.33,2.67
+City Hotel,Aviation,No Deposit,Group,Agent,0-30 Days,2,0,0.0,110.0,1.0
+City Hotel,Direct,No Deposit,Transient,Company,181-365 Days,1,0,0.0,135.0,1.0
+City Hotel,Groups,No Deposit,Transient,Direct,181-365 Days,1,0,0.0,118.13,3.0
+City Hotel,Direct,No Deposit,Transient,Company,31-90 Days,2,0,0.0,205.0,2.0
+City Hotel,Online TA,No Deposit,Group,Direct,31-90 Days,2,0,0.0,120.0,1.0
+City Hotel,Offline TA/TO,No Deposit,Group,Agent,365+ Days,1,0,0.0,0.0,3.0
+City Hotel,Online TA,No Deposit,Transient-Party,Direct,31-90 Days,2,0,0.0,116.1,2.0
+City Hotel,Online TA,No Deposit,Transient-Party,Direct,181-365 Days,1,0,0.0,104.05,3.0
+City Hotel,Direct,No Deposit,Transient,Company,91-180 Days,1,0,0.0,300.0,4.0

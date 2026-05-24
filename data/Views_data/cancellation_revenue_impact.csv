@@ -1,0 +1,1549 @@
+hotel,arrival_date_year,arrival_date_month,market_segment,customer_type,deposit_type,lead_time_category,canceled_bookings,lost_revenue,avg_adr,avg_stay_duration
+Resort Hotel,2015,July,Online TA,Transient,No Deposit,31-90 Days,99,61502.98,137.18,4.46
+Resort Hotel,2015,July,Offline TA/TO,Transient,No Deposit,31-90 Days,19,14179.52,112.34,6.58
+Resort Hotel,2015,July,Online TA,Transient,No Deposit,0-30 Days,33,15065.21,150.25,3.0
+Resort Hotel,2015,July,Direct,Transient,No Deposit,91-180 Days,4,2276.1,74.43,7.25
+Resort Hotel,2015,July,Online TA,Transient,No Deposit,91-180 Days,48,40666.6,133.35,6.15
+Resort Hotel,2015,July,Offline TA/TO,Contract,No Deposit,365+ Days,1,556.8,55.68,10.0
+Resort Hotel,2015,July,Direct,Transient,No Deposit,31-90 Days,13,8585.96,132.87,4.62
+Resort Hotel,2015,July,Offline TA/TO,Transient,No Deposit,91-180 Days,9,5972.54,111.03,6.22
+Resort Hotel,2015,July,Offline TA/TO,Contract,No Deposit,181-365 Days,5,4619.44,91.01,9.8
+Resort Hotel,2015,July,Corporate,Transient,No Deposit,0-30 Days,3,446.72,110.91,1.33
+Resort Hotel,2015,July,Offline TA/TO,Contract,No Deposit,31-90 Days,4,4683.74,108.79,10.25
+Resort Hotel,2015,July,Direct,Transient,No Deposit,181-365 Days,2,2484.0,131.4,9.5
+Resort Hotel,2015,July,Groups,Transient-Party,No Deposit,31-90 Days,1,0.0,0.0,2.0
+Resort Hotel,2015,July,Direct,Transient,No Deposit,0-30 Days,11,6757.78,136.04,3.91
+Resort Hotel,2015,July,Offline TA/TO,Transient,No Deposit,0-30 Days,2,2415.2,153.8,6.5
+Resort Hotel,2015,July,Online TA,Transient,No Deposit,181-365 Days,12,7654.6,114.91,5.67
+Resort Hotel,2015,July,Offline TA/TO,Transient,No Deposit,181-365 Days,3,3113.23,147.99,7.0
+Resort Hotel,2015,August,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,1,354.18,118.06,3.0
+Resort Hotel,2015,August,Direct,Transient,No Deposit,31-90 Days,28,27859.39,170.74,5.64
+Resort Hotel,2015,August,Direct,Transient-Party,No Deposit,0-30 Days,2,454.0,227.0,1.0
+Resort Hotel,2015,August,Online TA,Transient,No Deposit,31-90 Days,109,100924.71,166.04,5.67
+Resort Hotel,2015,August,Online TA,Transient,No Deposit,0-30 Days,32,26216.12,204.77,3.94
+Resort Hotel,2015,August,Direct,Transient,No Deposit,0-30 Days,16,11809.99,180.21,3.88
+Resort Hotel,2015,August,Online TA,Transient,No Deposit,91-180 Days,59,52664.72,145.76,6.03
+Resort Hotel,2015,August,Offline TA/TO,Transient,No Deposit,91-180 Days,14,11704.63,124.14,6.93
+Resort Hotel,2015,August,Offline TA/TO,Contract,No Deposit,181-365 Days,4,4931.05,112.88,11.25
+Resort Hotel,2015,August,Offline TA/TO,Contract,No Deposit,31-90 Days,2,1242.4,115.1,5.5
+Resort Hotel,2015,August,Offline TA/TO,Contract,No Deposit,0-30 Days,1,1102.75,220.55,5.0
+Resort Hotel,2015,August,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,9,9179.66,129.71,8.0
+Resort Hotel,2015,August,Offline TA/TO,Transient,No Deposit,31-90 Days,18,16072.95,146.67,6.11
+Resort Hotel,2015,August,Direct,Transient,No Deposit,91-180 Days,8,8227.4,172.93,6.13
+Resort Hotel,2015,August,Groups,Transient-Party,No Deposit,31-90 Days,1,191.0,191.0,1.0
+Resort Hotel,2015,August,Corporate,Transient,No Deposit,0-30 Days,6,1049.15,174.86,1.0
+Resort Hotel,2015,August,Direct,Transient-Party,No Deposit,31-90 Days,1,1603.0,229.0,7.0
+Resort Hotel,2015,August,Offline TA/TO,Transient,No Deposit,0-30 Days,1,745.0,149.0,5.0
+Resort Hotel,2015,August,Offline TA/TO,Transient,No Deposit,181-365 Days,4,3601.75,111.44,8.25
+Resort Hotel,2015,September,Direct,Transient,No Deposit,31-90 Days,10,7219.62,112.46,6.7
+Resort Hotel,2015,September,Online TA,Transient,No Deposit,31-90 Days,63,32031.52,98.88,5.21
+Resort Hotel,2015,September,Online TA,Transient,No Deposit,91-180 Days,44,23891.72,96.09,5.59
+Resort Hotel,2015,September,Online TA,Transient,No Deposit,0-30 Days,12,6889.94,138.21,3.92
+Resort Hotel,2015,September,Direct,Transient,No Deposit,91-180 Days,4,3728.96,128.32,7.25
+Resort Hotel,2015,September,Online TA,Transient-Party,No Deposit,91-180 Days,4,2150.0,102.5,6.0
+Resort Hotel,2015,September,Groups,Transient-Party,No Deposit,0-30 Days,2,527.0,60.5,4.5
+Resort Hotel,2015,September,Direct,Group,No Deposit,181-365 Days,4,0.0,0.0,3.5
+Resort Hotel,2015,September,Direct,Transient,No Deposit,181-365 Days,7,3163.5,78.62,5.43
+Resort Hotel,2015,September,Offline TA/TO,Contract,No Deposit,0-30 Days,4,1462.5,111.47,3.25
+Resort Hotel,2015,September,Direct,Transient,No Deposit,0-30 Days,11,5916.64,136.97,3.91
+Resort Hotel,2015,September,Offline TA/TO,Transient,No Deposit,0-30 Days,3,1175.7,82.24,4.33
+Resort Hotel,2015,September,Offline TA/TO,Group,No Deposit,181-365 Days,4,0.0,0.0,7.0
+Resort Hotel,2015,September,Offline TA/TO,Transient-Party,No Deposit,181-365 Days,7,2318.3,52.2,5.43
+Resort Hotel,2015,September,Offline TA/TO,Transient,No Deposit,31-90 Days,3,595.4,99.2,2.33
+Resort Hotel,2015,September,Offline TA/TO,Contract,No Deposit,91-180 Days,3,1877.89,89.42,7.0
+Resort Hotel,2015,September,Offline TA/TO,Transient,No Deposit,181-365 Days,9,3287.35,56.16,6.0
+Resort Hotel,2015,September,Online TA,Group,No Deposit,91-180 Days,1,164.0,82.0,2.0
+Resort Hotel,2015,September,Offline TA/TO,Contract,No Deposit,181-365 Days,5,2452.57,65.59,8.2
+Resort Hotel,2015,September,Groups,Transient-Party,No Deposit,91-180 Days,2,144.0,18.0,4.0
+Resort Hotel,2015,September,Offline TA/TO,Transient,No Deposit,91-180 Days,2,1290.6,69.35,8.5
+Resort Hotel,2015,September,Groups,Transient-Party,No Deposit,181-365 Days,6,918.0,44.83,4.5
+Resort Hotel,2015,September,Groups,Transient-Party,No Deposit,31-90 Days,3,488.0,81.33,2.0
+Resort Hotel,2015,September,Corporate,Transient,No Deposit,0-30 Days,4,552.65,104.66,1.25
+Resort Hotel,2015,September,Corporate,Transient-Party,No Deposit,0-30 Days,1,75.65,75.65,1.0
+Resort Hotel,2015,September,Offline TA/TO,Contract,No Deposit,31-90 Days,1,380.8,54.4,7.0
+Resort Hotel,2015,September,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,1,202.5,67.5,3.0
+Resort Hotel,2015,September,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,1,39.0,13.0,3.0
+Resort Hotel,2015,October,Online TA,Transient,No Deposit,31-90 Days,26,8709.8,66.55,4.92
+Resort Hotel,2015,October,Online TA,Transient,No Deposit,0-30 Days,10,2779.2,75.03,3.6
+Resort Hotel,2015,October,Online TA,Transient,No Deposit,91-180 Days,22,6882.9,63.78,4.86
+Resort Hotel,2015,October,Direct,Transient,No Deposit,0-30 Days,12,2180.02,67.24,2.92
+Resort Hotel,2015,October,Offline TA/TO,Transient,No Deposit,0-30 Days,4,626.5,48.38,3.25
+Resort Hotel,2015,October,Groups,Transient,Non Refund,31-90 Days,2,312.05,64.03,2.0
+Resort Hotel,2015,October,Online TA,Transient,No Deposit,181-365 Days,3,1211.58,59.79,7.0
+Resort Hotel,2015,October,Offline TA/TO,Group,No Deposit,181-365 Days,1,0.0,0.0,7.0
+Resort Hotel,2015,October,Direct,Group,No Deposit,181-365 Days,7,0.0,0.0,6.29
+Resort Hotel,2015,October,Groups,Transient,Non Refund,91-180 Days,6,1736.35,39.76,7.5
+Resort Hotel,2015,October,Corporate,Transient,No Deposit,0-30 Days,8,1021.95,46.74,3.25
+Resort Hotel,2015,October,Direct,Transient,No Deposit,31-90 Days,3,873.62,60.47,5.0
+Resort Hotel,2015,October,Offline TA/TO,Transient,No Deposit,181-365 Days,5,1115.2,39.52,5.2
+Resort Hotel,2015,October,Corporate,Contract,No Deposit,31-90 Days,1,100.0,50.0,2.0
+Resort Hotel,2015,October,Direct,Contract,No Deposit,31-90 Days,1,100.0,50.0,2.0
+Resort Hotel,2015,October,Corporate,Transient,No Deposit,31-90 Days,1,67.5,67.5,1.0
+Resort Hotel,2015,October,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,4,234.4,29.3,2.0
+Resort Hotel,2015,October,Offline TA/TO,Transient,No Deposit,365+ Days,1,28.0,4.0,7.0
+Resort Hotel,2015,October,Offline TA/TO,Transient,No Deposit,91-180 Days,2,749.0,64.5,6.0
+Resort Hotel,2015,October,Offline TA/TO,Contract,No Deposit,91-180 Days,1,605.5,86.5,7.0
+Resort Hotel,2015,October,Direct,Transient,No Deposit,91-180 Days,1,475.0,95.0,5.0
+Resort Hotel,2015,October,Offline TA/TO,Contract,No Deposit,31-90 Days,1,145.8,48.6,3.0
+Resort Hotel,2015,October,Offline TA/TO,Contract,No Deposit,0-30 Days,1,145.8,48.6,3.0
+Resort Hotel,2015,October,Groups,Contract,Non Refund,91-180 Days,1,828.0,36.0,23.0
+Resort Hotel,2015,October,Groups,Transient,No Deposit,0-30 Days,3,108.0,36.0,1.0
+Resort Hotel,2015,October,Groups,Transient,No Deposit,91-180 Days,5,236.0,40.0,1.2
+Resort Hotel,2015,October,Groups,Transient-Party,Non Refund,91-180 Days,1,36.0,36.0,1.0
+Resort Hotel,2015,November,Corporate,Transient,No Deposit,31-90 Days,2,50.0,25.0,1.0
+Resort Hotel,2015,November,Online TA,Transient,No Deposit,0-30 Days,11,2881.44,60.14,4.09
+Resort Hotel,2015,November,Online TA,Transient,No Deposit,91-180 Days,16,4055.95,40.51,6.25
+Resort Hotel,2015,November,Corporate,Transient-Party,No Deposit,31-90 Days,16,3334.4,39.72,5.25
+Resort Hotel,2015,November,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,3,338.4,28.2,4.0
+Resort Hotel,2015,November,Offline TA/TO,Contract,No Deposit,31-90 Days,1,123.95,24.79,5.0
+Resort Hotel,2015,November,Corporate,Transient-Party,No Deposit,0-30 Days,6,1544.0,39.33,5.83
+Resort Hotel,2015,November,Offline TA/TO,Transient,No Deposit,0-30 Days,7,710.24,38.61,2.14
+Resort Hotel,2015,November,Online TA,Transient,No Deposit,181-365 Days,5,1205.52,51.14,4.2
+Resort Hotel,2015,November,Offline TA/TO,Transient,No Deposit,181-365 Days,1,324.0,54.0,6.0
+Resort Hotel,2015,November,Corporate,Transient,No Deposit,0-30 Days,4,142.0,35.5,1.0
+Resort Hotel,2015,November,Direct,Transient,No Deposit,31-90 Days,4,668.2,68.3,3.25
+Resort Hotel,2015,November,Online TA,Transient,No Deposit,31-90 Days,13,2943.85,46.04,5.0
+Resort Hotel,2015,November,Corporate,Contract,No Deposit,31-90 Days,3,603.0,54.67,3.67
+Resort Hotel,2015,November,Offline TA/TO,Transient,No Deposit,31-90 Days,2,652.34,65.24,5.0
+Resort Hotel,2015,November,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,1,438.0,73.0,6.0
+Resort Hotel,2015,November,Offline TA/TO,Contract,No Deposit,91-180 Days,1,928.48,66.32,14.0
+Resort Hotel,2015,November,Groups,Transient-Party,No Deposit,31-90 Days,2,256.0,64.0,2.0
+Resort Hotel,2015,November,Offline TA/TO,Transient,No Deposit,91-180 Days,1,67.5,22.5,3.0
+Resort Hotel,2015,December,Online TA,Transient,No Deposit,31-90 Days,38,10311.39,64.89,4.24
+Resort Hotel,2015,December,Online TA,Transient,No Deposit,0-30 Days,26,5460.43,63.71,3.19
+Resort Hotel,2015,December,Online TA,Transient,No Deposit,91-180 Days,23,7653.08,53.42,7.26
+Resort Hotel,2015,December,Direct,Transient,No Deposit,31-90 Days,8,2493.2,119.86,2.63
+Resort Hotel,2015,December,Groups,Transient-Party,No Deposit,31-90 Days,6,878.0,61.67,2.33
+Resort Hotel,2015,December,Groups,Transient,Non Refund,91-180 Days,2,284.0,74.0,2.0
+Resort Hotel,2015,December,Offline TA/TO,Transient,No Deposit,31-90 Days,6,1924.54,56.85,5.83
+Resort Hotel,2015,December,Online TA,Transient,No Deposit,181-365 Days,6,3048.78,48.85,11.0
+Resort Hotel,2015,December,Offline TA/TO,Contract,No Deposit,181-365 Days,1,378.0,54.0,7.0
+Resort Hotel,2015,December,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,1,385.0,55.0,7.0
+Resort Hotel,2015,December,Offline TA/TO,Transient,No Deposit,0-30 Days,5,741.0,57.4,2.8
+Resort Hotel,2015,December,Direct,Transient,No Deposit,91-180 Days,4,1871.84,73.5,7.0
+Resort Hotel,2015,December,Online TA,Transient,Non Refund,0-30 Days,3,245.0,81.67,1.0
+Resort Hotel,2015,December,Direct,Transient,No Deposit,0-30 Days,10,1767.0,61.72,2.7
+Resort Hotel,2015,December,Groups,Transient-Party,No Deposit,91-180 Days,1,0.0,0.0,4.0
+Resort Hotel,2016,January,Online TA,Transient,No Deposit,0-30 Days,35,6601.63,60.15,3.03
+Resort Hotel,2016,January,Online TA,Transient,No Deposit,31-90 Days,12,2542.7,61.6,3.33
+Resort Hotel,2016,January,Groups,Transient,Non Refund,91-180 Days,1,72.0,72.0,1.0
+Resort Hotel,2016,January,Online TA,Transient,No Deposit,91-180 Days,12,3681.42,46.83,6.42
+Resort Hotel,2016,January,Groups,Transient-Party,No Deposit,0-30 Days,2,516.0,64.5,4.0
+Resort Hotel,2016,January,Online TA,Transient,No Deposit,181-365 Days,3,1698.75,35.97,12.67
+Resort Hotel,2016,January,Offline TA/TO,Transient,No Deposit,0-30 Days,3,1907.0,31.33,10.33
+Resort Hotel,2016,January,Direct,Transient,No Deposit,91-180 Days,2,965.6,60.35,8.0
+Resort Hotel,2016,January,Offline TA/TO,Transient,No Deposit,181-365 Days,2,1479.8,66.55,17.5
+Resort Hotel,2016,January,Offline TA/TO,Transient,No Deposit,91-180 Days,2,1160.18,27.59,24.5
+Resort Hotel,2016,January,Direct,Transient,No Deposit,0-30 Days,4,427.6,52.45,2.0
+Resort Hotel,2016,January,Direct,Transient-Party,No Deposit,0-30 Days,1,44.0,44.0,1.0
+Resort Hotel,2016,January,Complementary,Transient,No Deposit,0-30 Days,1,0.0,0.0,1.0
+Resort Hotel,2016,January,Corporate,Transient,No Deposit,0-30 Days,4,137.0,34.25,1.0
+Resort Hotel,2016,January,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,2,81.0,40.5,1.0
+Resort Hotel,2016,January,Offline TA/TO,Transient,No Deposit,31-90 Days,1,110.0,55.0,2.0
+Resort Hotel,2016,February,Corporate,Transient-Party,No Deposit,0-30 Days,2,78.0,39.0,1.0
+Resort Hotel,2016,February,Direct,Transient,No Deposit,0-30 Days,10,836.0,63.0,1.4
+Resort Hotel,2016,February,Corporate,Transient,No Deposit,0-30 Days,3,207.0,42.0,2.0
+Resort Hotel,2016,February,Online TA,Transient,No Deposit,0-30 Days,34,7205.89,69.17,3.03
+Resort Hotel,2016,February,Online TA,Transient,No Deposit,181-365 Days,3,415.26,35.82,3.33
+Resort Hotel,2016,February,Offline TA/TO,Transient,No Deposit,91-180 Days,2,733.7,25.52,14.5
+Resort Hotel,2016,February,Direct,Transient,No Deposit,91-180 Days,2,339.36,47.21,3.5
+Resort Hotel,2016,February,Offline TA/TO,Transient,No Deposit,31-90 Days,5,1492.0,51.4,5.6
+Resort Hotel,2016,February,Direct,Transient-Party,No Deposit,31-90 Days,2,1768.0,34.0,26.0
+Resort Hotel,2016,February,Online TA,Transient,No Deposit,91-180 Days,13,4659.13,45.58,7.23
+Resort Hotel,2016,February,Online TA,Transient,No Deposit,31-90 Days,42,10463.54,63.14,3.93
+Resort Hotel,2016,February,Offline TA/TO,Transient,No Deposit,0-30 Days,10,1048.05,35.35,3.1
+Resort Hotel,2016,February,Groups,Transient-Party,No Deposit,31-90 Days,5,791.99,71.87,2.2
+Resort Hotel,2016,February,Groups,Transient-Party,No Deposit,91-180 Days,5,650.0,60.0,2.2
+Resort Hotel,2016,February,Offline TA/TO,Transient,No Deposit,181-365 Days,1,365.4,26.1,14.0
+Resort Hotel,2016,February,Groups,Transient,Non Refund,31-90 Days,4,526.0,43.5,3.25
+Resort Hotel,2016,February,Groups,Transient,No Deposit,31-90 Days,1,0.0,0.0,4.0
+Resort Hotel,2016,February,Groups,Transient,Non Refund,91-180 Days,4,577.0,62.25,2.25
+Resort Hotel,2016,February,Direct,Transient,No Deposit,31-90 Days,4,952.0,84.5,2.5
+Resort Hotel,2016,March,Online TA,Transient,No Deposit,0-30 Days,41,7418.29,61.37,2.95
+Resort Hotel,2016,March,Online TA,Transient,No Deposit,91-180 Days,23,7449.92,67.27,4.78
+Resort Hotel,2016,March,Groups,Transient-Party,No Deposit,31-90 Days,9,2557.0,61.44,4.44
+Resort Hotel,2016,March,Direct,Transient,No Deposit,31-90 Days,3,1015.0,87.25,4.0
+Resort Hotel,2016,March,Online TA,Transient,No Deposit,31-90 Days,74,24102.62,70.63,4.64
+Resort Hotel,2016,March,Offline TA/TO,Transient,No Deposit,31-90 Days,12,3310.03,59.4,5.17
+Resort Hotel,2016,March,Corporate,Transient,No Deposit,0-30 Days,9,438.0,35.44,1.33
+Resort Hotel,2016,March,Offline TA/TO,Transient,Non Refund,181-365 Days,2,728.0,52.0,7.0
+Resort Hotel,2016,March,Direct,Transient,No Deposit,0-30 Days,13,2151.74,54.68,3.08
+Resort Hotel,2016,March,Offline TA/TO,Transient,No Deposit,0-30 Days,11,2578.0,44.18,4.73
+Resort Hotel,2016,March,Groups,Transient,Non Refund,91-180 Days,2,2058.0,83.0,12.5
+Resort Hotel,2016,March,Online TA,Transient,No Deposit,181-365 Days,17,4257.91,45.9,5.71
+Resort Hotel,2016,March,Groups,Transient-Party,No Deposit,0-30 Days,2,587.4,63.7,4.5
+Resort Hotel,2016,March,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,2,50.0,25.0,1.0
+Resort Hotel,2016,March,Direct,Transient,No Deposit,181-365 Days,1,117.3,39.1,3.0
+Resort Hotel,2016,March,Offline TA/TO,Transient-Party,Non Refund,31-90 Days,1,50.0,25.0,2.0
+Resort Hotel,2016,March,Offline TA/TO,Contract,No Deposit,31-90 Days,3,621.5,37.57,5.67
+Resort Hotel,2016,March,Direct,Transient,No Deposit,91-180 Days,2,1030.0,59.5,7.5
+Resort Hotel,2016,March,Direct,Transient-Party,No Deposit,0-30 Days,1,36.0,36.0,1.0
+Resort Hotel,2016,March,Complementary,Transient,No Deposit,0-30 Days,2,0.0,0.0,2.0
+Resort Hotel,2016,March,Complementary,Transient,No Deposit,31-90 Days,1,40.0,20.0,2.0
+Resort Hotel,2016,March,Groups,Transient-Party,No Deposit,91-180 Days,2,252.0,42.0,3.0
+Resort Hotel,2016,March,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,2,658.0,71.0,5.0
+Resort Hotel,2016,March,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,2,574.0,47.0,5.0
+Resort Hotel,2016,March,Groups,Transient-Party,Refundable,91-180 Days,2,448.0,56.0,4.0
+Resort Hotel,2016,April,Online TA,Transient,No Deposit,31-90 Days,63,23034.83,85.89,4.24
+Resort Hotel,2016,April,Online TA,Transient,No Deposit,0-30 Days,38,10150.25,83.68,2.95
+Resort Hotel,2016,April,Groups,Transient-Party,Non Refund,91-180 Days,2,340.0,85.0,2.0
+Resort Hotel,2016,April,Online TA,Transient,No Deposit,91-180 Days,37,13745.49,71.83,5.38
+Resort Hotel,2016,April,Groups,Transient,Non Refund,91-180 Days,8,2722.95,74.23,4.75
+Resort Hotel,2016,April,Groups,Transient-Party,No Deposit,31-90 Days,10,4249.52,69.54,6.3
+Resort Hotel,2016,April,Groups,Transient-Party,No Deposit,0-30 Days,3,516.99,67.44,2.33
+Resort Hotel,2016,April,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,2,92.1,27.05,2.0
+Resort Hotel,2016,April,Direct,Transient,No Deposit,0-30 Days,17,2637.3,73.09,2.06
+Resort Hotel,2016,April,Offline TA/TO,Transient,No Deposit,31-90 Days,8,2605.8,51.99,6.25
+Resort Hotel,2016,April,Groups,Transient-Party,No Deposit,181-365 Days,8,1518.62,73.46,2.63
+Resort Hotel,2016,April,Groups,Transient,Non Refund,181-365 Days,7,3151.95,62.25,7.29
+Resort Hotel,2016,April,Online TA,Transient,No Deposit,181-365 Days,10,3044.52,57.19,5.1
+Resort Hotel,2016,April,Groups,Transient-Party,Non Refund,181-365 Days,3,762.1,76.77,3.67
+Resort Hotel,2016,April,Direct,Transient,No Deposit,31-90 Days,7,2531.77,81.57,4.43
+Resort Hotel,2016,April,Corporate,Transient-Party,No Deposit,31-90 Days,3,109.0,36.33,0.67
+Resort Hotel,2016,April,Offline TA/TO,Transient,No Deposit,91-180 Days,4,1259.1,56.25,5.5
+Resort Hotel,2016,April,Corporate,Transient-Party,No Deposit,0-30 Days,2,117.0,58.5,1.0
+Resort Hotel,2016,April,Corporate,Transient,No Deposit,0-30 Days,7,3595.5,60.21,7.0
+Resort Hotel,2016,April,Corporate,Transient,No Deposit,31-90 Days,1,84.0,42.0,2.0
+Resort Hotel,2016,April,Offline TA/TO,Transient-Party,No Deposit,181-365 Days,2,552.0,92.0,3.0
+Resort Hotel,2016,April,Groups,Transient,Non Refund,31-90 Days,12,4270.0,50.83,7.0
+Resort Hotel,2016,April,Offline TA/TO,Transient,No Deposit,181-365 Days,1,313.2,52.2,6.0
+Resort Hotel,2016,April,Groups,Transient-Party,No Deposit,91-180 Days,5,1848.0,41.8,9.8
+Resort Hotel,2016,April,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,1,188.0,47.0,4.0
+Resort Hotel,2016,April,Offline TA/TO,Transient,No Deposit,0-30 Days,2,600.8,87.1,3.5
+Resort Hotel,2016,April,Direct,Transient-Party,No Deposit,0-30 Days,2,144.0,72.0,1.0
+Resort Hotel,2016,May,Online TA,Transient,No Deposit,31-90 Days,66,24948.52,87.2,4.21
+Resort Hotel,2016,May,Online TA,Transient,No Deposit,0-30 Days,22,8251.57,109.05,3.32
+Resort Hotel,2016,May,Offline TA/TO,Transient,No Deposit,181-365 Days,8,3228.69,64.35,6.5
+Resort Hotel,2016,May,Online TA,Transient,No Deposit,181-365 Days,31,14446.56,69.96,6.32
+Resort Hotel,2016,May,Offline TA/TO,Transient,No Deposit,0-30 Days,2,396.0,67.6,3.0
+Resort Hotel,2016,May,Groups,Transient-Party,No Deposit,181-365 Days,13,1961.0,68.04,2.31
+Resort Hotel,2016,May,Corporate,Transient,No Deposit,0-30 Days,8,3070.4,71.05,5.0
+Resort Hotel,2016,May,Offline TA/TO,Transient,No Deposit,31-90 Days,8,2190.2,53.16,4.63
+Resort Hotel,2016,May,Online TA,Transient,No Deposit,91-180 Days,66,29020.97,77.8,5.59
+Resort Hotel,2016,May,Offline TA/TO,Transient,No Deposit,91-180 Days,13,6449.96,70.66,7.23
+Resort Hotel,2016,May,Direct,Transient,No Deposit,91-180 Days,8,3347.05,84.23,4.63
+Resort Hotel,2016,May,Online TA,Transient-Party,No Deposit,91-180 Days,3,723.9,73.13,3.33
+Resort Hotel,2016,May,Direct,Transient,No Deposit,0-30 Days,15,3030.5,88.58,1.87
+Resort Hotel,2016,May,Direct,Transient,No Deposit,31-90 Days,1,498.0,124.5,4.0
+Resort Hotel,2016,May,Groups,Transient-Party,No Deposit,0-30 Days,2,665.0,77.5,4.0
+Resort Hotel,2016,May,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,1,97.2,48.6,2.0
+Resort Hotel,2016,May,Direct,Transient-Party,No Deposit,31-90 Days,1,95.0,95.0,1.0
+Resort Hotel,2016,May,Direct,Transient-Party,No Deposit,0-30 Days,1,70.0,70.0,1.0
+Resort Hotel,2016,May,Groups,Transient-Party,No Deposit,365+ Days,5,454.0,45.4,2.0
+Resort Hotel,2016,May,Corporate,Transient,No Deposit,31-90 Days,1,160.0,80.0,2.0
+Resort Hotel,2016,May,Groups,Transient-Party,No Deposit,31-90 Days,1,134.0,67.0,2.0
+Resort Hotel,2016,May,Online TA,Transient-Party,No Deposit,0-30 Days,1,270.0,135.0,2.0
+Resort Hotel,2016,May,Online TA,Transient-Party,No Deposit,31-90 Days,2,646.44,53.87,6.0
+Resort Hotel,2016,May,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,6,2775.8,57.17,8.0
+Resort Hotel,2016,May,Groups,Transient-Party,Non Refund,0-30 Days,2,102.5,51.25,1.0
+Resort Hotel,2016,May,Offline TA/TO,Contract,No Deposit,91-180 Days,3,1142.4,42.78,9.33
+Resort Hotel,2016,May,Groups,Transient,Non Refund,91-180 Days,1,184.0,46.0,4.0
+Resort Hotel,2016,May,Groups,Transient,Non Refund,31-90 Days,1,110.0,55.0,2.0
+Resort Hotel,2016,May,Groups,Transient,No Deposit,31-90 Days,1,0.0,0.0,2.0
+Resort Hotel,2016,May,Complementary,Transient,No Deposit,31-90 Days,1,35.0,17.5,2.0
+Resort Hotel,2016,May,Complementary,Transient,No Deposit,91-180 Days,1,0.0,0.0,1.0
+Resort Hotel,2016,May,Direct,Transient,No Deposit,181-365 Days,1,639.2,63.92,10.0
+Resort Hotel,2016,May,Groups,Transient,Non Refund,0-30 Days,1,58.0,58.0,1.0
+Resort Hotel,2016,May,Groups,Transient-Party,Non Refund,181-365 Days,1,60.0,60.0,1.0
+Resort Hotel,2016,June,Corporate,Transient,No Deposit,0-30 Days,7,741.0,66.71,1.57
+Resort Hotel,2016,June,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,2,676.5,81.75,4.0
+Resort Hotel,2016,June,Groups,Transient,Non Refund,181-365 Days,4,1353.8,103.65,3.25
+Resort Hotel,2016,June,Online TA,Transient,No Deposit,91-180 Days,88,62217.65,114.4,6.2
+Resort Hotel,2016,June,Online TA,Transient,No Deposit,0-30 Days,34,12900.79,140.34,2.62
+Resort Hotel,2016,June,Online TA,Transient,No Deposit,31-90 Days,46,27985.51,144.56,4.24
+Resort Hotel,2016,June,Direct,Transient,No Deposit,31-90 Days,10,5676.15,122.47,4.0
+Resort Hotel,2016,June,Online TA,Transient,No Deposit,181-365 Days,58,37473.24,92.8,6.67
+Resort Hotel,2016,June,Offline TA/TO,Transient-Party,No Deposit,181-365 Days,2,1737.0,74.0,11.5
+Resort Hotel,2016,June,Direct,Transient,No Deposit,91-180 Days,9,7908.67,129.84,6.44
+Resort Hotel,2016,June,Offline TA/TO,Contract,No Deposit,181-365 Days,4,2789.1,60.37,11.25
+Resort Hotel,2016,June,Direct,Transient,No Deposit,181-365 Days,3,1865.75,97.75,5.67
+Resort Hotel,2016,June,Online TA,Transient-Party,No Deposit,91-180 Days,1,302.0,151.0,2.0
+Resort Hotel,2016,June,Online TA,Transient-Party,No Deposit,0-30 Days,2,774.0,129.0,3.0
+Resort Hotel,2016,June,Offline TA/TO,Transient,No Deposit,181-365 Days,7,3533.55,62.85,8.0
+Resort Hotel,2016,June,Offline TA/TO,Transient,No Deposit,91-180 Days,7,3005.84,67.65,6.57
+Resort Hotel,2016,June,Direct,Transient,No Deposit,0-30 Days,8,2279.0,124.75,2.13
+Resort Hotel,2016,June,Online TA,Transient,Non Refund,91-180 Days,2,945.0,78.75,6.0
+Resort Hotel,2016,June,Groups,Transient-Party,No Deposit,181-365 Days,1,276.0,92.0,3.0
+Resort Hotel,2016,June,Groups,Transient-Party,No Deposit,0-30 Days,1,276.0,92.0,3.0
+Resort Hotel,2016,June,Groups,Transient,No Deposit,0-30 Days,1,32.0,8.0,4.0
+Resort Hotel,2016,June,Offline TA/TO,Contract,No Deposit,91-180 Days,2,1978.9,70.67,14.0
+Resort Hotel,2016,July,Online TA,Transient,No Deposit,31-90 Days,63,49149.26,200.23,3.9
+Resort Hotel,2016,July,Online TA,Transient,No Deposit,0-30 Days,45,31701.63,188.24,3.71
+Resort Hotel,2016,July,Online TA,Transient,No Deposit,181-365 Days,78,77650.48,128.98,7.63
+Resort Hotel,2016,July,Online TA,Transient,No Deposit,91-180 Days,113,116632.12,174.04,6.04
+Resort Hotel,2016,July,Offline TA/TO,Transient,No Deposit,91-180 Days,30,24020.55,129.33,6.2
+Resort Hotel,2016,July,Offline TA/TO,Contract,No Deposit,91-180 Days,5,4904.42,90.87,10.4
+Resort Hotel,2016,July,Online TA,Transient-Party,No Deposit,31-90 Days,1,109.5,36.5,3.0
+Resort Hotel,2016,July,Direct,Transient,No Deposit,181-365 Days,7,8748.24,152.6,7.71
+Resort Hotel,2016,July,Offline TA/TO,Contract,No Deposit,365+ Days,1,1347.3,134.73,10.0
+Resort Hotel,2016,July,Corporate,Transient,No Deposit,0-30 Days,8,1056.0,96.5,1.5
+Resort Hotel,2016,July,Offline TA/TO,Transient,No Deposit,0-30 Days,3,2288.15,143.32,4.33
+Resort Hotel,2016,July,Direct,Transient,No Deposit,91-180 Days,15,19999.01,189.79,7.33
+Resort Hotel,2016,July,Offline TA/TO,Transient,No Deposit,181-365 Days,9,7346.46,112.5,7.11
+Resort Hotel,2016,July,Direct,Transient,No Deposit,0-30 Days,17,11757.97,175.45,3.59
+Resort Hotel,2016,July,Direct,Transient,No Deposit,31-90 Days,5,3807.58,175.89,4.6
+Resort Hotel,2016,July,Complementary,Transient,No Deposit,0-30 Days,1,0.0,0.0,1.0
+Resort Hotel,2016,July,Direct,Transient-Party,No Deposit,0-30 Days,3,798.0,144.67,1.67
+Resort Hotel,2016,July,Online TA,Transient-Party,No Deposit,91-180 Days,1,1170.0,195.0,6.0
+Resort Hotel,2016,July,Direct,Transient-Party,No Deposit,31-90 Days,1,1120.0,160.0,7.0
+Resort Hotel,2016,July,Groups,Transient-Party,No Deposit,91-180 Days,4,3381.0,141.5,6.0
+Resort Hotel,2016,July,Direct,Group,No Deposit,0-30 Days,1,910.0,130.0,7.0
+Resort Hotel,2016,July,Groups,Transient,No Deposit,91-180 Days,1,1112.0,139.0,8.0
+Resort Hotel,2016,August,Online TA,Transient,No Deposit,91-180 Days,159,192224.27,214.06,5.68
+Resort Hotel,2016,August,Direct,Transient,No Deposit,181-365 Days,13,10075.87,147.37,4.92
+Resort Hotel,2016,August,Online TA,Transient,No Deposit,181-365 Days,78,79389.02,156.78,6.54
+Resort Hotel,2016,August,Offline TA/TO,Transient,No Deposit,91-180 Days,14,16185.55,148.19,7.71
+Resort Hotel,2016,August,Online TA,Transient,No Deposit,31-90 Days,113,115348.68,217.8,4.71
+Resort Hotel,2016,August,Online TA,Transient,No Deposit,0-30 Days,69,52599.18,229.78,3.29
+Resort Hotel,2016,August,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,2,2397.5,171.25,7.0
+Resort Hotel,2016,August,Direct,Transient,No Deposit,91-180 Days,15,20275.85,223.38,6.07
+Resort Hotel,2016,August,Direct,Transient,No Deposit,0-30 Days,13,5343.53,189.56,2.08
+Resort Hotel,2016,August,Direct,Transient,No Deposit,31-90 Days,17,18590.5,210.06,5.29
+Resort Hotel,2016,August,Offline TA/TO,Contract,No Deposit,365+ Days,2,2361.1,124.45,10.5
+Resort Hotel,2016,August,Offline TA/TO,Transient,No Deposit,181-365 Days,18,18584.44,123.73,8.22
+Resort Hotel,2016,August,Online TA,Transient-Party,No Deposit,31-90 Days,2,836.0,209.0,2.0
+Resort Hotel,2016,August,Corporate,Transient,No Deposit,0-30 Days,1,197.1,197.1,1.0
+Resort Hotel,2016,August,Direct,Transient-Party,No Deposit,31-90 Days,1,3039.96,217.14,14.0
+Resort Hotel,2016,August,Offline TA/TO,Transient-Party,No Deposit,181-365 Days,6,4916.49,121.98,6.83
+Resort Hotel,2016,August,Online TA,Transient-Party,No Deposit,91-180 Days,4,5265.0,216.5,5.75
+Resort Hotel,2016,August,Offline TA/TO,Transient,No Deposit,0-30 Days,1,1459.36,208.48,7.0
+Resort Hotel,2016,August,Offline TA/TO,Transient,No Deposit,31-90 Days,2,1536.0,144.0,5.5
+Resort Hotel,2016,September,Online TA,Transient,No Deposit,181-365 Days,74,52561.61,106.16,6.73
+Resort Hotel,2016,September,Online TA,Transient,No Deposit,31-90 Days,72,36216.05,149.3,3.26
+Resort Hotel,2016,September,Online TA,Transient,No Deposit,0-30 Days,27,10100.59,149.48,2.44
+Resort Hotel,2016,September,Online TA,Transient,No Deposit,91-180 Days,49,31149.69,129.85,4.96
+Resort Hotel,2016,September,Direct,Transient,No Deposit,181-365 Days,5,2667.3,116.61,4.2
+Resort Hotel,2016,September,Offline TA/TO,Transient,No Deposit,91-180 Days,9,6192.1,96.17,7.11
+Resort Hotel,2016,September,Offline TA/TO,Contract,No Deposit,181-365 Days,7,5646.45,72.32,10.86
+Resort Hotel,2016,September,Direct,Transient,No Deposit,0-30 Days,17,8098.58,132.95,3.06
+Resort Hotel,2016,September,Offline TA/TO,Transient,No Deposit,181-365 Days,23,13390.27,79.56,7.09
+Resort Hotel,2016,September,Direct,Transient,No Deposit,91-180 Days,6,5790.18,160.51,6.67
+Resort Hotel,2016,September,Groups,Transient,Non Refund,181-365 Days,4,1720.2,81.15,5.5
+Resort Hotel,2016,September,Direct,Transient,No Deposit,31-90 Days,6,3569.2,151.88,4.0
+Resort Hotel,2016,September,Groups,Transient-Party,No Deposit,181-365 Days,4,1106.0,64.5,4.25
+Resort Hotel,2016,September,Corporate,Transient,No Deposit,0-30 Days,5,527.1,105.42,1.0
+Resort Hotel,2016,September,Online TA,Group,No Deposit,181-365 Days,1,665.0,95.0,7.0
+Resort Hotel,2016,September,Groups,Transient,Non Refund,365+ Days,1,264.0,66.0,4.0
+Resort Hotel,2016,September,Offline TA/TO,Transient-Party,No Deposit,365+ Days,1,256.0,64.0,4.0
+Resort Hotel,2016,September,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,2,372.1,90.05,2.5
+Resort Hotel,2016,September,Offline TA/TO,Transient,No Deposit,0-30 Days,2,708.0,84.0,4.0
+Resort Hotel,2016,September,Online TA,Transient-Party,No Deposit,91-180 Days,3,2248.96,107.09,7.0
+Resort Hotel,2016,September,Complementary,Transient,No Deposit,0-30 Days,1,0.0,0.0,7.0
+Resort Hotel,2016,September,Groups,Transient-Party,No Deposit,91-180 Days,1,810.0,81.0,10.0
+Resort Hotel,2016,September,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,1,304.0,76.0,4.0
+Resort Hotel,2016,September,Offline TA/TO,Transient,Non Refund,181-365 Days,2,345.6,57.6,3.0
+Resort Hotel,2016,October,Online TA,Transient,No Deposit,31-90 Days,79,28634.0,82.68,4.38
+Resort Hotel,2016,October,Online TA,Transient,No Deposit,0-30 Days,41,12115.34,94.93,3.07
+Resort Hotel,2016,October,Offline TA/TO,Transient,Non Refund,91-180 Days,1,208.0,52.0,4.0
+Resort Hotel,2016,October,Online TA,Transient,No Deposit,181-365 Days,34,16302.19,76.16,6.18
+Resort Hotel,2016,October,Online TA,Transient,No Deposit,365+ Days,2,2192.4,52.2,21.0
+Resort Hotel,2016,October,Offline TA/TO,Transient,No Deposit,91-180 Days,2,368.0,46.0,4.0
+Resort Hotel,2016,October,Online TA,Transient,No Deposit,91-180 Days,76,24435.51,81.12,4.13
+Resort Hotel,2016,October,Offline TA/TO,Transient,No Deposit,181-365 Days,9,3933.12,68.47,6.78
+Resort Hotel,2016,October,Groups,Transient-Party,No Deposit,0-30 Days,15,1732.0,39.87,3.2
+Resort Hotel,2016,October,Groups,Transient-Party,No Deposit,181-365 Days,9,4294.89,67.04,7.11
+Resort Hotel,2016,October,Groups,Transient-Party,No Deposit,365+ Days,3,535.0,48.67,3.67
+Resort Hotel,2016,October,Direct,Transient,No Deposit,181-365 Days,2,1263.6,64.94,9.0
+Resort Hotel,2016,October,Complementary,Transient,No Deposit,91-180 Days,2,0.0,0.0,2.0
+Resort Hotel,2016,October,Direct,Transient,No Deposit,0-30 Days,16,1619.7,67.78,1.5
+Resort Hotel,2016,October,Groups,Transient-Party,No Deposit,91-180 Days,15,3763.85,65.59,3.6
+Resort Hotel,2016,October,Groups,Transient-Party,Refundable,365+ Days,1,48.0,48.0,1.0
+Resort Hotel,2016,October,Groups,Transient,Non Refund,365+ Days,1,288.0,72.0,4.0
+Resort Hotel,2016,October,Online TA,Transient-Party,No Deposit,91-180 Days,7,2415.18,62.25,5.57
+Resort Hotel,2016,October,Offline TA/TO,Contract,No Deposit,365+ Days,3,2197.0,61.37,12.0
+Resort Hotel,2016,October,Corporate,Transient-Party,No Deposit,0-30 Days,2,101.4,50.7,1.0
+Resort Hotel,2016,October,Corporate,Transient,No Deposit,0-30 Days,6,375.0,49.83,1.33
+Resort Hotel,2016,October,Complementary,Transient,No Deposit,0-30 Days,2,0.0,0.0,2.0
+Resort Hotel,2016,October,Online TA,Transient-Party,No Deposit,181-365 Days,9,4783.31,75.93,7.0
+Resort Hotel,2016,October,Groups,Transient,Non Refund,181-365 Days,1,111.0,37.0,3.0
+Resort Hotel,2016,October,Direct,Transient,No Deposit,91-180 Days,1,652.05,93.15,7.0
+Resort Hotel,2016,October,Groups,Transient-Party,No Deposit,31-90 Days,4,1008.0,72.75,3.25
+Resort Hotel,2016,October,Direct,Transient,No Deposit,365+ Days,2,403.2,50.4,4.0
+Resort Hotel,2016,October,Online TA,Transient-Party,No Deposit,0-30 Days,2,105.6,52.8,1.0
+Resort Hotel,2016,October,Offline TA/TO,Transient,No Deposit,31-90 Days,4,718.52,55.97,3.25
+Resort Hotel,2016,October,Offline TA/TO,Transient,No Deposit,0-30 Days,3,270.0,44.0,2.0
+Resort Hotel,2016,October,Direct,Transient,No Deposit,31-90 Days,6,3694.38,81.19,7.5
+Resort Hotel,2016,October,Complementary,Transient,No Deposit,31-90 Days,1,0.0,0.0,1.0
+Resort Hotel,2016,October,Groups,Transient,No Deposit,0-30 Days,2,36.0,18.0,1.0
+Resort Hotel,2016,October,Online TA,Transient-Party,No Deposit,31-90 Days,1,264.6,37.8,7.0
+Resort Hotel,2016,November,Online TA,Transient,No Deposit,0-30 Days,31,4911.5,55.52,2.87
+Resort Hotel,2016,November,Groups,Transient,Non Refund,365+ Days,3,276.0,46.0,2.0
+Resort Hotel,2016,November,Online TA,Transient,No Deposit,31-90 Days,86,17889.49,51.07,4.29
+Resort Hotel,2016,November,Online TA,Transient,No Deposit,91-180 Days,30,6788.24,48.28,4.57
+Resort Hotel,2016,November,Direct,Transient,No Deposit,31-90 Days,7,1798.18,54.89,4.43
+Resort Hotel,2016,November,Groups,Transient-Party,No Deposit,181-365 Days,2,76.0,38.0,1.0
+Resort Hotel,2016,November,Groups,Transient-Party,No Deposit,0-30 Days,1,38.0,38.0,1.0
+Resort Hotel,2016,November,Online TA,Transient,No Deposit,181-365 Days,12,2798.1,53.77,4.08
+Resort Hotel,2016,November,Direct,Transient,No Deposit,0-30 Days,6,785.55,46.55,2.83
+Resort Hotel,2016,November,Complementary,Transient,No Deposit,0-30 Days,1,0.0,0.0,2.0
+Resort Hotel,2016,November,Groups,Transient,Non Refund,181-365 Days,4,360.0,30.0,3.0
+Resort Hotel,2016,November,Direct,Transient-Party,No Deposit,0-30 Days,1,85.0,85.0,1.0
+Resort Hotel,2016,November,Offline TA/TO,Transient,No Deposit,181-365 Days,1,188.51,26.93,7.0
+Resort Hotel,2016,November,Online TA,Transient-Party,No Deposit,31-90 Days,1,187.2,46.8,4.0
+Resort Hotel,2016,November,Corporate,Transient,No Deposit,0-30 Days,3,245.0,36.67,2.0
+Resort Hotel,2016,November,Offline TA/TO,Transient,No Deposit,0-30 Days,3,718.0,43.33,5.0
+Resort Hotel,2016,November,Groups,Transient-Party,No Deposit,91-180 Days,2,272.0,34.0,4.0
+Resort Hotel,2016,November,Groups,Transient-Party,No Deposit,31-90 Days,2,292.0,57.0,2.5
+Resort Hotel,2016,November,Offline TA/TO,Group,No Deposit,0-30 Days,1,0.0,0.0,0.0
+Resort Hotel,2016,November,Corporate,Transient-Party,No Deposit,0-30 Days,3,95.0,31.67,1.0
+Resort Hotel,2016,November,Corporate,Transient,No Deposit,31-90 Days,1,16.0,8.0,2.0
+Resort Hotel,2016,November,Complementary,Transient,No Deposit,31-90 Days,1,0.0,0.0,1.0
+Resort Hotel,2016,December,Online TA,Transient-Party,No Deposit,0-30 Days,2,191.0,64.0,1.5
+Resort Hotel,2016,December,Online TA,Transient,No Deposit,0-30 Days,27,5304.49,64.29,2.89
+Resort Hotel,2016,December,Online TA,Transient,No Deposit,31-90 Days,53,11681.3,70.13,3.36
+Resort Hotel,2016,December,Online TA,Transient,No Deposit,91-180 Days,45,13411.21,72.91,4.47
+Resort Hotel,2016,December,Direct,Transient,No Deposit,31-90 Days,8,2866.98,129.38,3.88
+Resort Hotel,2016,December,Groups,Transient-Party,No Deposit,91-180 Days,2,128.0,64.0,1.0
+Resort Hotel,2016,December,Groups,Transient,Non Refund,181-365 Days,2,432.0,72.0,3.0
+Resort Hotel,2016,December,Offline TA/TO,Transient,No Deposit,91-180 Days,2,160.2,34.2,2.5
+Resort Hotel,2016,December,Groups,Transient-Party,No Deposit,0-30 Days,9,2244.75,83.14,3.0
+Resort Hotel,2016,December,Complementary,Transient-Party,No Deposit,0-30 Days,1,0.0,0.0,3.0
+Resort Hotel,2016,December,Online TA,Transient,No Deposit,181-365 Days,41,19760.32,80.75,7.02
+Resort Hotel,2016,December,Groups,Transient-Party,No Deposit,31-90 Days,2,813.2,186.65,3.0
+Resort Hotel,2016,December,Offline TA/TO,Transient,No Deposit,31-90 Days,4,1191.6,112.5,3.25
+Resort Hotel,2016,December,Offline TA/TO,Transient,No Deposit,0-30 Days,4,1219.6,56.95,6.0
+Resort Hotel,2016,December,Direct,Transient,No Deposit,0-30 Days,11,1545.56,60.83,2.09
+Resort Hotel,2016,December,Direct,Transient-Party,No Deposit,0-30 Days,1,95.0,95.0,1.0
+Resort Hotel,2016,December,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,1,54.0,27.0,2.0
+Resort Hotel,2016,December,Direct,Transient,No Deposit,181-365 Days,5,2580.51,89.61,5.8
+Resort Hotel,2016,December,Corporate,Transient,No Deposit,0-30 Days,4,177.0,33.0,1.25
+Resort Hotel,2016,December,Direct,Transient,No Deposit,91-180 Days,3,2229.3,106.37,9.33
+Resort Hotel,2016,December,Direct,Transient-Party,No Deposit,91-180 Days,1,251.1,50.22,5.0
+Resort Hotel,2016,December,Online TA,Transient-Party,No Deposit,31-90 Days,2,739.6,92.45,4.0
+Resort Hotel,2016,December,Online TA,Transient-Party,No Deposit,91-180 Days,6,2902.88,77.79,6.33
+Resort Hotel,2016,December,Offline TA/TO,Transient,No Deposit,181-365 Days,4,963.07,69.75,3.25
+Resort Hotel,2016,December,Groups,Transient-Party,No Deposit,181-365 Days,4,1764.0,147.0,3.0
+Resort Hotel,2016,December,Complementary,Transient,No Deposit,31-90 Days,1,0.0,0.0,3.0
+Resort Hotel,2016,December,Direct,Transient-Party,No Deposit,31-90 Days,1,550.0,275.0,2.0
+Resort Hotel,2017,January,Online TA,Transient,No Deposit,31-90 Days,58,15379.46,52.35,5.28
+Resort Hotel,2017,January,Online TA,Transient,No Deposit,91-180 Days,31,10037.94,54.24,5.81
+Resort Hotel,2017,January,Offline TA/TO,Transient,No Deposit,0-30 Days,3,740.6,47.47,5.67
+Resort Hotel,2017,January,Direct,Transient,No Deposit,91-180 Days,2,307.04,40.91,3.5
+Resort Hotel,2017,January,Online TA,Transient,No Deposit,0-30 Days,38,5923.53,64.46,2.37
+Resort Hotel,2017,January,Direct,Transient,No Deposit,31-90 Days,5,1358.54,62.29,4.4
+Resort Hotel,2017,January,Direct,Transient,No Deposit,0-30 Days,11,1202.84,37.77,3.55
+Resort Hotel,2017,January,Online TA,Transient,No Deposit,181-365 Days,8,2167.8,48.3,5.75
+Resort Hotel,2017,January,Offline TA/TO,Transient,No Deposit,181-365 Days,1,1428.0,25.5,56.0
+Resort Hotel,2017,January,Corporate,Transient,No Deposit,0-30 Days,7,319.0,35.57,1.29
+Resort Hotel,2017,January,Complementary,Transient,No Deposit,0-30 Days,3,0.0,0.0,1.33
+Resort Hotel,2017,January,Groups,Transient-Party,No Deposit,31-90 Days,9,1430.0,55.0,2.89
+Resort Hotel,2017,January,Groups,Transient-Party,No Deposit,0-30 Days,6,740.0,47.5,2.5
+Resort Hotel,2017,January,Online TA,Transient-Party,No Deposit,91-180 Days,1,522.0,87.0,6.0
+Resort Hotel,2017,January,Online TA,Transient-Party,No Deposit,31-90 Days,1,144.0,48.0,3.0
+Resort Hotel,2017,January,Groups,Transient-Party,Non Refund,0-30 Days,2,68.0,34.0,1.0
+Resort Hotel,2017,January,Direct,Transient,No Deposit,181-365 Days,1,200.88,50.22,4.0
+Resort Hotel,2017,February,Online TA,Transient,No Deposit,31-90 Days,71,15244.9,58.58,3.49
+Resort Hotel,2017,February,Online TA,Transient,No Deposit,0-30 Days,70,12710.22,62.24,2.79
+Resort Hotel,2017,February,Online TA,Transient,No Deposit,91-180 Days,38,10873.03,54.05,5.26
+Resort Hotel,2017,February,Direct,Transient,No Deposit,0-30 Days,17,2329.0,52.91,2.35
+Resort Hotel,2017,February,Online TA,Transient-Party,No Deposit,31-90 Days,4,650.0,41.0,4.0
+Resort Hotel,2017,February,Offline TA/TO,Transient,No Deposit,0-30 Days,8,1917.45,49.48,4.5
+Resort Hotel,2017,February,Offline TA/TO,Transient,No Deposit,31-90 Days,5,1067.0,44.2,5.4
+Resort Hotel,2017,February,Offline TA/TO,Transient,No Deposit,181-365 Days,3,677.97,40.17,5.67
+Resort Hotel,2017,February,Complementary,Transient,No Deposit,0-30 Days,1,0.0,0.0,1.0
+Resort Hotel,2017,February,Online TA,Transient,No Deposit,181-365 Days,16,8047.88,59.28,9.13
+Resort Hotel,2017,February,Direct,Transient,No Deposit,31-90 Days,14,2673.07,60.53,3.21
+Resort Hotel,2017,February,Offline TA/TO,Transient,No Deposit,91-180 Days,3,1787.8,36.27,16.33
+Resort Hotel,2017,February,Groups,Transient,Non Refund,181-365 Days,2,202.0,50.5,2.0
+Resort Hotel,2017,February,Online TA,Transient-Party,No Deposit,0-30 Days,2,228.0,54.0,2.0
+Resort Hotel,2017,February,Direct,Transient,No Deposit,91-180 Days,1,305.1,101.7,3.0
+Resort Hotel,2017,February,Corporate,Transient,No Deposit,0-30 Days,7,355.0,35.71,1.43
+Resort Hotel,2017,February,Corporate,Transient-Party,No Deposit,0-30 Days,6,584.0,44.83,2.17
+Resort Hotel,2017,February,Corporate,Transient-Party,No Deposit,31-90 Days,7,1236.0,45.71,3.71
+Resort Hotel,2017,February,Direct,Transient-Party,No Deposit,0-30 Days,1,80.0,80.0,1.0
+Resort Hotel,2017,February,Groups,Transient-Party,No Deposit,0-30 Days,6,736.0,37.33,3.67
+Resort Hotel,2017,February,Complementary,Transient,No Deposit,31-90 Days,1,0.0,0.0,1.0
+Resort Hotel,2017,February,Groups,Transient,Non Refund,31-90 Days,3,210.0,35.0,2.0
+Resort Hotel,2017,February,Direct,Transient,No Deposit,181-365 Days,1,279.0,55.8,5.0
+Resort Hotel,2017,March,Online TA,Transient,No Deposit,181-365 Days,25,14649.18,56.52,8.88
+Resort Hotel,2017,March,Groups,Transient-Party,No Deposit,181-365 Days,17,9721.4,49.51,11.12
+Resort Hotel,2017,March,Groups,Transient-Party,No Deposit,0-30 Days,11,3435.0,45.0,5.82
+Resort Hotel,2017,March,Groups,Transient-Party,No Deposit,31-90 Days,7,4491.0,50.66,12.14
+Resort Hotel,2017,March,Online TA,Transient,No Deposit,0-30 Days,36,6910.04,72.36,2.69
+Resort Hotel,2017,March,Direct,Transient,No Deposit,31-90 Days,4,1550.81,91.84,4.25
+Resort Hotel,2017,March,Direct,Transient,No Deposit,0-30 Days,13,2926.1,68.36,2.46
+Resort Hotel,2017,March,Online TA,Transient,No Deposit,31-90 Days,33,12011.99,79.68,4.48
+Resort Hotel,2017,March,Online TA,Transient,No Deposit,91-180 Days,31,8964.3,53.2,5.52
+Resort Hotel,2017,March,Offline TA/TO,Transient,No Deposit,0-30 Days,6,768.0,39.0,3.17
+Resort Hotel,2017,March,Offline TA/TO,Transient,No Deposit,181-365 Days,1,223.2,55.8,4.0
+Resort Hotel,2017,March,Groups,Transient-Party,No Deposit,91-180 Days,12,6401.0,45.98,10.75
+Resort Hotel,2017,March,Complementary,Transient,No Deposit,0-30 Days,1,0.0,0.0,2.0
+Resort Hotel,2017,March,Corporate,Transient,No Deposit,0-30 Days,5,205.0,41.0,1.0
+Resort Hotel,2017,March,Online TA,Transient-Party,No Deposit,181-365 Days,1,113.4,37.8,3.0
+Resort Hotel,2017,March,Direct,Transient,No Deposit,181-365 Days,3,335.6,48.13,2.33
+Resort Hotel,2017,March,Groups,Transient,Non Refund,31-90 Days,1,138.0,46.0,3.0
+Resort Hotel,2017,March,Groups,Transient,Non Refund,91-180 Days,5,615.99,53.07,2.4
+Resort Hotel,2017,March,Direct,Transient,No Deposit,91-180 Days,3,794.1,60.1,4.33
+Resort Hotel,2017,March,Corporate,Transient-Party,No Deposit,0-30 Days,1,48.0,48.0,1.0
+Resort Hotel,2017,March,Online TA,Transient-Party,No Deposit,91-180 Days,1,168.0,42.0,4.0
+Resort Hotel,2017,March,Direct,Transient-Party,No Deposit,0-30 Days,2,725.0,72.5,5.0
+Resort Hotel,2017,March,Offline TA/TO,Transient,No Deposit,91-180 Days,2,1586.4,52.95,12.5
+Resort Hotel,2017,March,Corporate,Transient-Party,No Deposit,91-180 Days,1,120.0,40.0,3.0
+Resort Hotel,2017,March,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,1,45.0,45.0,1.0
+Resort Hotel,2017,March,Groups,Transient,Non Refund,181-365 Days,2,120.0,30.0,2.0
+Resort Hotel,2017,March,Offline TA/TO,Transient,No Deposit,31-90 Days,1,265.65,37.95,7.0
+Resort Hotel,2017,April,Online TA,Transient,No Deposit,31-90 Days,109,49396.02,107.42,4.07
+Resort Hotel,2017,April,Online TA,Transient,No Deposit,91-180 Days,77,39667.89,96.22,5.03
+Resort Hotel,2017,April,Direct,Transient,No Deposit,31-90 Days,6,4343.37,128.69,5.17
+Resort Hotel,2017,April,Online TA,Transient,No Deposit,0-30 Days,45,17317.0,127.04,2.89
+Resort Hotel,2017,April,Online TA,Transient,No Deposit,181-365 Days,72,30078.45,79.91,5.17
+Resort Hotel,2017,April,Corporate,Transient,Non Refund,0-30 Days,7,1080.0,84.29,1.86
+Resort Hotel,2017,April,Complementary,Transient,No Deposit,0-30 Days,2,0.0,0.0,2.5
+Resort Hotel,2017,April,Online TA,Transient-Party,No Deposit,181-365 Days,3,1630.33,121.5,5.0
+Resort Hotel,2017,April,Corporate,Transient,No Deposit,0-30 Days,4,285.0,46.88,1.5
+Resort Hotel,2017,April,Groups,Transient-Party,No Deposit,91-180 Days,6,2109.0,71.17,4.83
+Resort Hotel,2017,April,Groups,Transient-Party,No Deposit,181-365 Days,15,7097.04,75.91,6.27
+Resort Hotel,2017,April,Direct,Transient,No Deposit,0-30 Days,7,2850.5,134.5,3.14
+Resort Hotel,2017,April,Offline TA/TO,Transient,No Deposit,31-90 Days,7,3348.47,81.32,5.57
+Resort Hotel,2017,April,Groups,Transient,Non Refund,91-180 Days,5,3255.0,93.0,7.0
+Resort Hotel,2017,April,Offline TA/TO,Transient,No Deposit,0-30 Days,2,672.0,61.5,5.5
+Resort Hotel,2017,April,Direct,Transient,Refundable,0-30 Days,1,1039.5,115.5,9.0
+Resort Hotel,2017,April,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,1,286.2,95.4,3.0
+Resort Hotel,2017,April,Online TA,Transient-Party,No Deposit,91-180 Days,3,2430.0,90.0,9.0
+Resort Hotel,2017,April,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,1,80.0,80.0,1.0
+Resort Hotel,2017,April,Direct,Transient-Party,No Deposit,181-365 Days,2,460.02,76.67,3.0
+Resort Hotel,2017,April,Direct,Transient,No Deposit,181-365 Days,3,1736.63,82.7,7.0
+Resort Hotel,2017,April,Online TA,Transient,Refundable,91-180 Days,1,433.44,108.36,4.0
+Resort Hotel,2017,April,Direct,Transient,No Deposit,91-180 Days,2,778.8,70.8,5.5
+Resort Hotel,2017,April,Offline TA/TO,Transient,No Deposit,91-180 Days,2,981.84,76.12,6.5
+Resort Hotel,2017,April,Corporate,Transient-Party,No Deposit,0-30 Days,1,100.0,50.0,2.0
+Resort Hotel,2017,April,Groups,Transient-Party,No Deposit,31-90 Days,2,414.0,79.5,2.5
+Resort Hotel,2017,April,Offline TA/TO,Contract,No Deposit,91-180 Days,1,286.65,40.95,7.0
+Resort Hotel,2017,April,Groups,Transient-Party,No Deposit,0-30 Days,2,890.0,71.0,5.0
+Resort Hotel,2017,April,Offline TA/TO,Contract,No Deposit,181-365 Days,2,1128.75,57.52,9.0
+Resort Hotel,2017,April,Offline TA/TO,Contract,No Deposit,31-90 Days,2,769.3,54.95,7.0
+Resort Hotel,2017,April,Offline TA/TO,Transient,No Deposit,181-365 Days,1,172.8,43.2,4.0
+Resort Hotel,2017,May,Online TA,Transient,No Deposit,31-90 Days,72,41356.0,129.16,4.29
+Resort Hotel,2017,May,Online TA,Transient,No Deposit,181-365 Days,96,53391.32,86.95,6.26
+Resort Hotel,2017,May,Online TA,Transient,No Deposit,0-30 Days,51,21290.44,109.66,3.53
+Resort Hotel,2017,May,Direct,Transient,No Deposit,31-90 Days,5,2823.51,147.83,4.2
+Resort Hotel,2017,May,Online TA,Transient,No Deposit,91-180 Days,65,34945.82,114.22,4.65
+Resort Hotel,2017,May,Offline TA/TO,Transient,No Deposit,31-90 Days,2,476.0,43.75,5.5
+Resort Hotel,2017,May,Offline TA/TO,Transient,No Deposit,0-30 Days,5,1290.0,56.8,4.2
+Resort Hotel,2017,May,Direct,Transient,No Deposit,91-180 Days,8,5663.99,97.95,7.13
+Resort Hotel,2017,May,Online TA,Transient-Party,No Deposit,181-365 Days,10,3504.4,89.98,4.2
+Resort Hotel,2017,May,Groups,Transient,Non Refund,31-90 Days,2,2640.0,110.0,12.0
+Resort Hotel,2017,May,Groups,Transient-Party,No Deposit,181-365 Days,7,2027.0,78.29,3.71
+Resort Hotel,2017,May,Corporate,Transient-Party,No Deposit,31-90 Days,4,420.0,52.5,2.0
+Resort Hotel,2017,May,Offline TA/TO,Transient,No Deposit,181-365 Days,13,4573.6,63.9,5.92
+Resort Hotel,2017,May,Offline TA/TO,Contract,No Deposit,181-365 Days,7,3205.21,53.9,8.14
+Resort Hotel,2017,May,Direct,Transient,No Deposit,0-30 Days,8,3628.76,126.47,3.25
+Resort Hotel,2017,May,Online TA,Transient,Refundable,181-365 Days,1,304.0,76.0,4.0
+Resort Hotel,2017,May,Complementary,Transient,No Deposit,31-90 Days,1,0.0,0.0,3.0
+Resort Hotel,2017,May,Offline TA/TO,Transient,No Deposit,91-180 Days,10,2300.3,44.94,5.2
+Resort Hotel,2017,May,Groups,Transient-Party,No Deposit,91-180 Days,3,820.0,38.67,7.33
+Resort Hotel,2017,May,Online TA,Transient-Party,No Deposit,91-180 Days,2,624.99,104.16,3.0
+Resort Hotel,2017,May,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,2,106.0,53.0,1.0
+Resort Hotel,2017,May,Corporate,Transient,No Deposit,0-30 Days,4,254.0,63.5,1.0
+Resort Hotel,2017,May,Groups,Transient,Non Refund,365+ Days,4,1416.2,66.8,5.5
+Resort Hotel,2017,May,Direct,Transient,No Deposit,181-365 Days,7,5112.34,91.32,7.71
+Resort Hotel,2017,May,Complementary,Transient,No Deposit,0-30 Days,1,0.0,0.0,2.0
+Resort Hotel,2017,May,Offline TA/TO,Group,No Deposit,0-30 Days,1,42.0,42.0,1.0
+Resort Hotel,2017,May,Groups,Transient-Party,Refundable,181-365 Days,1,180.0,60.0,3.0
+Resort Hotel,2017,May,Online TA,Transient-Party,Non Refund,181-365 Days,1,400.5,80.1,5.0
+Resort Hotel,2017,May,Groups,Transient-Party,Refundable,91-180 Days,3,819.0,39.0,7.0
+Resort Hotel,2017,May,Offline TA/TO,Contract,Refundable,181-365 Days,1,1004.64,71.76,14.0
+Resort Hotel,2017,May,Online TA,Transient,Refundable,31-90 Days,1,1424.97,158.33,9.0
+Resort Hotel,2017,June,Online TA,Transient,No Deposit,0-30 Days,50,19942.41,144.79,2.64
+Resort Hotel,2017,June,Online TA,Transient,No Deposit,31-90 Days,55,40594.2,180.84,4.05
+Resort Hotel,2017,June,Online TA,Transient,No Deposit,181-365 Days,151,120063.5,108.67,7.17
+Resort Hotel,2017,June,Online TA,Transient,No Deposit,91-180 Days,120,87005.31,145.96,4.86
+Resort Hotel,2017,June,Direct,Transient,No Deposit,91-180 Days,9,8013.7,152.9,5.78
+Resort Hotel,2017,June,Offline TA/TO,Contract,No Deposit,91-180 Days,2,1080.9,62.55,8.5
+Resort Hotel,2017,June,Offline TA/TO,Contract,No Deposit,181-365 Days,25,23365.34,83.17,11.96
+Resort Hotel,2017,June,Corporate,Transient,No Deposit,31-90 Days,17,8790.3,83.19,6.24
+Resort Hotel,2017,June,Online TA,Transient-Party,No Deposit,181-365 Days,6,5585.83,105.31,8.83
+Resort Hotel,2017,June,Groups,Transient,Non Refund,181-365 Days,8,3144.0,75.0,5.25
+Resort Hotel,2017,June,Offline TA/TO,Transient,No Deposit,91-180 Days,21,5390.7,63.38,4.05
+Resort Hotel,2017,June,Corporate,Transient,No Deposit,0-30 Days,7,1895.01,86.81,3.14
+Resort Hotel,2017,June,Direct,Transient,No Deposit,0-30 Days,13,5588.7,126.21,2.77
+Resort Hotel,2017,June,Offline TA/TO,Transient,No Deposit,181-365 Days,18,10348.43,71.86,8.28
+Resort Hotel,2017,June,Offline TA/TO,Transient,No Deposit,31-90 Days,6,5527.29,126.46,6.83
+Resort Hotel,2017,June,Direct,Transient,No Deposit,181-365 Days,12,9411.68,125.47,6.17
+Resort Hotel,2017,June,Complementary,Transient,No Deposit,0-30 Days,1,0.0,0.0,1.0
+Resort Hotel,2017,June,Offline TA/TO,Group,No Deposit,0-30 Days,1,66.0,66.0,1.0
+Resort Hotel,2017,June,Online TA,Transient-Party,No Deposit,91-180 Days,1,758.4,126.4,6.0
+Resort Hotel,2017,June,Offline TA/TO,Transient,No Deposit,0-30 Days,2,243.95,121.97,1.0
+Resort Hotel,2017,June,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,1,95.0,95.0,1.0
+Resort Hotel,2017,June,Online TA,Transient,No Deposit,365+ Days,1,200.0,200.0,1.0
+Resort Hotel,2017,June,Direct,Transient,No Deposit,31-90 Days,1,2177.0,311.0,7.0
+Resort Hotel,2017,June,Offline TA/TO,Contract,No Deposit,31-90 Days,1,342.0,68.4,5.0
+Resort Hotel,2017,June,Direct,Transient-Party,No Deposit,91-180 Days,2,2569.0,183.5,7.0
+Resort Hotel,2017,June,Offline TA/TO,Contract,Refundable,181-365 Days,1,423.5,84.7,5.0
+Resort Hotel,2017,June,Offline TA/TO,Transient-Party,No Deposit,181-365 Days,2,363.75,116.25,1.5
+Resort Hotel,2017,July,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,2,775.2,129.2,3.0
+Resort Hotel,2017,July,Online TA,Transient,No Deposit,181-365 Days,169,231215.26,181.07,7.47
+Resort Hotel,2017,July,Online TA,Transient,No Deposit,31-90 Days,70,77157.52,225.81,4.79
+Resort Hotel,2017,July,Online TA,Transient,No Deposit,91-180 Days,161,180945.6,196.44,5.76
+Resort Hotel,2017,July,Direct,Transient,No Deposit,91-180 Days,26,30136.03,195.93,5.96
+Resort Hotel,2017,July,Offline TA/TO,Transient,No Deposit,181-365 Days,4,4630.42,132.95,8.25
+Resort Hotel,2017,July,Online TA,Transient-Party,No Deposit,181-365 Days,2,1499.4,107.1,7.0
+Resort Hotel,2017,July,Corporate,Transient,No Deposit,31-90 Days,21,17566.0,115.24,7.43
+Resort Hotel,2017,July,Offline TA/TO,Contract,No Deposit,181-365 Days,7,7221.15,120.19,8.71
+Resort Hotel,2017,July,Offline TA/TO,Transient,No Deposit,91-180 Days,12,10955.53,146.46,5.75
+Resort Hotel,2017,July,Direct,Transient-Party,No Deposit,91-180 Days,1,962.99,137.57,7.0
+Resort Hotel,2017,July,Complementary,Transient,No Deposit,0-30 Days,1,0.0,0.0,1.0
+Resort Hotel,2017,July,Direct,Transient,No Deposit,181-365 Days,16,20488.88,193.68,6.69
+Resort Hotel,2017,July,Corporate,Transient,No Deposit,0-30 Days,8,2415.2,134.19,2.13
+Resort Hotel,2017,July,Online TA,Transient,No Deposit,0-30 Days,53,45320.22,215.04,3.74
+Resort Hotel,2017,July,Direct,Transient-Party,No Deposit,181-365 Days,1,616.9,123.38,5.0
+Resort Hotel,2017,July,Direct,Transient,No Deposit,0-30 Days,21,11282.94,198.34,2.48
+Resort Hotel,2017,July,Direct,Transient,No Deposit,31-90 Days,16,18455.0,233.84,4.81
+Resort Hotel,2017,July,Direct,Transient-Party,No Deposit,0-30 Days,3,653.95,121.32,1.67
+Resort Hotel,2017,July,Offline TA/TO,Contract,No Deposit,91-180 Days,1,910.35,130.05,7.0
+Resort Hotel,2017,July,Online TA,Transient,Refundable,31-90 Days,1,540.0,180.0,3.0
+Resort Hotel,2017,July,Complementary,Transient,No Deposit,31-90 Days,1,0.0,0.0,2.0
+Resort Hotel,2017,July,Offline TA/TO,Contract,No Deposit,365+ Days,1,733.95,104.85,7.0
+Resort Hotel,2017,July,Offline TA/TO,Contract,No Deposit,31-90 Days,2,1165.0,116.5,5.0
+Resort Hotel,2017,July,Online TA,Transient,No Deposit,365+ Days,2,900.0,180.0,2.5
+Resort Hotel,2017,July,Offline TA/TO,Transient,No Deposit,0-30 Days,2,1579.35,165.53,4.0
+Resort Hotel,2017,July,Online TA,Transient-Party,No Deposit,91-180 Days,2,1284.99,214.17,3.0
+Resort Hotel,2017,July,Online TA,Transient-Party,No Deposit,0-30 Days,2,2500.0,250.0,5.0
+Resort Hotel,2017,August,Online TA,Transient,No Deposit,91-180 Days,139,182178.22,243.82,5.39
+Resort Hotel,2017,August,Online TA,Transient,No Deposit,31-90 Days,113,132272.46,241.75,4.83
+Resort Hotel,2017,August,Online TA,Transient,No Deposit,181-365 Days,203,244559.98,194.63,6.11
+Resort Hotel,2017,August,Online TA,Transient,No Deposit,0-30 Days,59,48107.38,234.21,3.37
+Resort Hotel,2017,August,Offline TA/TO,Transient,No Deposit,91-180 Days,12,14286.47,170.81,6.5
+Resort Hotel,2017,August,Offline TA/TO,Transient,No Deposit,181-365 Days,12,14404.6,140.64,8.83
+Resort Hotel,2017,August,Online TA,Transient,No Deposit,365+ Days,1,6300.0,450.0,14.0
+Resort Hotel,2017,August,Direct,Transient,No Deposit,181-365 Days,17,24408.07,191.67,7.41
+Resort Hotel,2017,August,Offline TA/TO,Transient,No Deposit,31-90 Days,3,5198.4,210.78,8.0
+Resort Hotel,2017,August,Direct,Transient,No Deposit,91-180 Days,12,16212.9,253.56,5.0
+Resort Hotel,2017,August,Online TA,Transient,Refundable,0-30 Days,1,458.0,229.0,2.0
+Resort Hotel,2017,August,Direct,Transient,No Deposit,0-30 Days,17,10916.52,220.91,2.65
+Resort Hotel,2017,August,Direct,Transient,No Deposit,31-90 Days,11,12830.78,273.05,3.91
+Resort Hotel,2017,August,Online TA,Transient,Non Refund,0-30 Days,1,330.0,330.0,1.0
+Resort Hotel,2017,August,Online TA,Transient-Party,No Deposit,181-365 Days,2,1691.25,153.75,5.5
+Resort Hotel,2017,August,Offline TA/TO,Contract,No Deposit,91-180 Days,3,3054.15,161.52,6.67
+Resort Hotel,2017,August,Offline TA/TO,Contract,No Deposit,181-365 Days,6,4979.1,122.4,7.0
+Resort Hotel,2017,August,Offline TA/TO,Contract,No Deposit,0-30 Days,1,1495.0,149.5,10.0
+Resort Hotel,2017,August,Offline TA/TO,Group,No Deposit,0-30 Days,3,3557.0,149.67,8.0
+Resort Hotel,2017,August,Corporate,Transient,No Deposit,0-30 Days,1,1113.0,159.0,7.0
+Resort Hotel,2017,August,Offline TA/TO,Contract,No Deposit,365+ Days,1,1048.5,104.85,10.0
+Resort Hotel,2017,August,Online TA,Transient-Party,No Deposit,31-90 Days,1,230.0,230.0,1.0
+Resort Hotel,2017,August,Online TA,Group,No Deposit,31-90 Days,1,754.4,188.6,4.0
+Resort Hotel,2017,August,Offline TA/TO,Transient,No Deposit,0-30 Days,3,3577.91,170.38,7.0
+Resort Hotel,2017,August,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,4,6129.2,218.9,7.0
+Resort Hotel,2017,August,Online TA,Transient-Party,No Deposit,91-180 Days,3,3423.99,275.68,4.33
+Resort Hotel,2017,August,Offline TA/TO,Transient,Non Refund,31-90 Days,1,594.0,198.0,3.0
+Resort Hotel,2017,August,Offline TA/TO,Contract,No Deposit,31-90 Days,1,540.0,135.0,4.0
+Resort Hotel,2017,August,Offline TA/TO,Transient-Party,No Deposit,181-365 Days,1,128.7,128.7,1.0
+Resort Hotel,2017,August,Online TA,Transient,Refundable,91-180 Days,1,1150.0,230.0,5.0
+Resort Hotel,2017,August,Offline TA/TO,Group,No Deposit,31-90 Days,2,846.0,141.0,3.0
+Resort Hotel,2017,August,Direct,Transient-Party,No Deposit,0-30 Days,2,379.5,189.75,1.0
+Resort Hotel,2015,July,Offline TA/TO,Contract,No Deposit,91-180 Days,7,6887.68,100.04,10.43
+Resort Hotel,2015,December,Online TA,Transient,No Deposit,365+ Days,1,36.0,36.0,1.0
+Resort Hotel,2015,September,Groups,Transient,Non Refund,181-365 Days,8,1841.05,58.71,4.13
+Resort Hotel,2015,September,Online TA,Transient,No Deposit,181-365 Days,11,7492.79,100.12,7.64
+Resort Hotel,2015,August,Direct,Transient,No Deposit,181-365 Days,1,930.0,186.0,5.0
+Resort Hotel,2015,August,Online TA,Transient,No Deposit,181-365 Days,21,18478.26,149.0,5.9
+Resort Hotel,2015,October,Offline TA/TO,Transient,Non Refund,181-365 Days,2,200.0,50.0,2.0
+Resort Hotel,2015,November,Online TA,Transient-Party,No Deposit,181-365 Days,2,396.0,49.5,4.0
+Resort Hotel,2015,August,Online TA,Transient-Party,No Deposit,181-365 Days,4,5690.2,158.3,9.0
+Resort Hotel,2015,July,Groups,Transient,Non Refund,91-180 Days,2,486.0,121.5,2.0
+Resort Hotel,2015,September,Offline TA/TO,Transient,Non Refund,181-365 Days,6,1783.44,49.32,5.67
+Resort Hotel,2015,September,Online TA,Transient-Party,No Deposit,181-365 Days,6,1503.9,94.65,2.67
+Resort Hotel,2015,October,Groups,Transient-Party,No Deposit,181-365 Days,6,2483.94,62.32,6.5
+Resort Hotel,2015,July,Direct,Transient-Party,No Deposit,91-180 Days,1,498.5,99.7,5.0
+Resort Hotel,2015,October,Groups,Transient,Non Refund,181-365 Days,7,3814.7,55.3,8.86
+Resort Hotel,2015,July,Online TA,Transient-Party,No Deposit,181-365 Days,1,554.4,79.2,7.0
+Resort Hotel,2015,October,Offline TA/TO,Transient-Party,No Deposit,181-365 Days,2,193.0,48.25,2.0
+Resort Hotel,2015,October,Direct,Transient,No Deposit,181-365 Days,1,333.2,47.6,7.0
+Resort Hotel,2015,November,Groups,Transient-Party,No Deposit,181-365 Days,3,585.0,65.0,3.0
+Resort Hotel,2015,November,Direct,Transient,No Deposit,0-30 Days,2,116.0,58.0,1.0
+Resort Hotel,2015,December,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,4,504.0,51.0,2.25
+Resort Hotel,2016,August,Groups,Transient,Non Refund,181-365 Days,1,640.0,128.0,5.0
+Resort Hotel,2015,December,Groups,Transient-Party,No Deposit,0-30 Days,2,408.0,68.0,3.0
+Resort Hotel,2015,December,Offline TA/TO,Group,No Deposit,0-30 Days,1,90.0,45.0,2.0
+Resort Hotel,2015,December,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,2,285.0,71.25,2.0
+Resort Hotel,2015,December,Complementary,Transient,No Deposit,0-30 Days,1,0.0,0.0,2.0
+Resort Hotel,2015,December,Corporate,Transient,No Deposit,0-30 Days,1,35.0,35.0,1.0
+Resort Hotel,2016,August,Direct,Group,No Deposit,31-90 Days,1,3039.96,217.14,14.0
+Resort Hotel,2017,August,Corporate,Transient,No Deposit,31-90 Days,1,135.0,135.0,1.0
+Resort Hotel,2017,February,Corporate,Transient,No Deposit,31-90 Days,1,35.0,35.0,1.0
+City Hotel,2015,July,Online TA,Transient,No Deposit,31-90 Days,44,16551.68,71.55,5.5
+City Hotel,2015,July,Online TA,Transient,No Deposit,91-180 Days,71,23597.55,74.74,4.58
+City Hotel,2015,July,Groups,Transient-Party,No Deposit,31-90 Days,4,596.0,74.5,2.0
+City Hotel,2015,July,Offline TA/TO,Transient,No Deposit,91-180 Days,1,127.5,63.75,2.0
+City Hotel,2015,July,Online TA,Transient-Party,No Deposit,31-90 Days,7,2520.0,79.07,4.57
+City Hotel,2015,July,Complementary,Transient,No Deposit,31-90 Days,1,111.99,37.33,3.0
+City Hotel,2015,July,Direct,Transient-Party,No Deposit,31-90 Days,2,630.0,45.0,7.0
+City Hotel,2015,July,Online TA,Transient,No Deposit,0-30 Days,1,200.0,100.0,2.0
+City Hotel,2015,July,Groups,Transient,No Deposit,31-90 Days,1,63.75,63.75,1.0
+City Hotel,2015,July,Direct,Transient,No Deposit,31-90 Days,5,555.81,80.56,1.4
+City Hotel,2015,July,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,5,1325.25,88.35,3.0
+City Hotel,2015,July,Online TA,Transient-Party,No Deposit,91-180 Days,12,2363.0,72.96,2.67
+City Hotel,2015,July,Direct,Transient,No Deposit,0-30 Days,1,0.0,0.0,1.0
+City Hotel,2015,July,Groups,Transient-Party,No Deposit,0-30 Days,6,982.4,58.27,3.0
+City Hotel,2015,July,Groups,Transient-Party,Non Refund,0-30 Days,2,248.0,62.0,2.0
+City Hotel,2015,July,Direct,Transient,No Deposit,91-180 Days,1,205.5,68.5,3.0
+City Hotel,2015,July,Groups,Transient-Party,No Deposit,91-180 Days,2,598.0,85.5,3.5
+City Hotel,2015,August,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,8,2093.25,87.22,3.0
+City Hotel,2015,August,Online TA,Transient-Party,No Deposit,91-180 Days,6,1557.0,78.0,3.33
+City Hotel,2015,August,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,6,1543.0,97.42,2.67
+City Hotel,2015,August,Undefined,Transient-Party,No Deposit,0-30 Days,2,48.0,15.0,1.5
+City Hotel,2015,August,Groups,Transient,Non Refund,31-90 Days,2,48.0,12.0,2.0
+City Hotel,2015,August,Groups,Transient-Party,No Deposit,0-30 Days,6,1048.6,62.03,2.83
+City Hotel,2015,August,Online TA,Transient,No Deposit,31-90 Days,7,4078.6,72.76,7.71
+City Hotel,2015,August,Direct,Transient,No Deposit,0-30 Days,14,3103.0,85.61,2.71
+City Hotel,2015,August,Corporate,Group,No Deposit,0-30 Days,1,130.0,65.0,2.0
+City Hotel,2015,August,Groups,Transient-Party,No Deposit,31-90 Days,11,1858.0,63.82,2.64
+City Hotel,2015,August,Corporate,Transient-Party,No Deposit,0-30 Days,2,186.0,33.0,2.0
+City Hotel,2015,August,Direct,Transient-Party,No Deposit,0-30 Days,1,24.0,12.0,2.0
+City Hotel,2015,August,Online TA,Transient-Party,No Deposit,31-90 Days,1,270.0,67.5,4.0
+City Hotel,2015,August,Online TA,Transient,No Deposit,0-30 Days,23,7579.06,103.19,3.35
+City Hotel,2015,August,Online TA,Transient,No Deposit,91-180 Days,24,6348.92,75.57,3.5
+City Hotel,2015,August,Offline TA/TO,Transient,No Deposit,91-180 Days,3,637.5,63.75,3.33
+City Hotel,2015,August,Offline TA/TO,Transient,No Deposit,0-30 Days,2,590.0,92.5,3.0
+City Hotel,2015,August,Online TA,Contract,No Deposit,0-30 Days,32,12064.86,101.65,3.69
+City Hotel,2015,August,Corporate,Transient,No Deposit,0-30 Days,12,4401.6,92.62,3.67
+City Hotel,2015,August,Groups,Transient,No Deposit,0-30 Days,1,62.8,62.8,1.0
+City Hotel,2015,August,Online TA,Transient-Party,No Deposit,0-30 Days,2,821.49,85.91,5.0
+City Hotel,2015,August,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,2,406.0,101.5,2.0
+City Hotel,2015,August,Corporate,Transient,Non Refund,0-30 Days,2,284.0,71.0,2.0
+City Hotel,2015,August,Direct,Contract,No Deposit,0-30 Days,1,150.0,75.0,2.0
+City Hotel,2015,August,Complementary,Transient,No Deposit,0-30 Days,1,0.0,0.0,1.0
+City Hotel,2015,August,Groups,Transient,Non Refund,91-180 Days,6,756.0,56.0,2.0
+City Hotel,2015,August,Groups,Transient-Party,No Deposit,91-180 Days,2,510.0,85.0,3.0
+City Hotel,2015,September,Online TA,Contract,No Deposit,0-30 Days,41,16436.38,133.66,3.07
+City Hotel,2015,September,Online TA,Contract,No Deposit,31-90 Days,10,2870.5,103.25,2.9
+City Hotel,2015,September,Online TA,Transient,No Deposit,0-30 Days,34,13908.73,133.49,3.03
+City Hotel,2015,September,Online TA,Transient,No Deposit,31-90 Days,11,3363.28,92.68,3.09
+City Hotel,2015,September,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,15,2347.7,79.25,2.0
+City Hotel,2015,September,Online TA,Transient,No Deposit,91-180 Days,5,1571.01,91.98,3.4
+City Hotel,2015,September,Groups,Transient,Non Refund,31-90 Days,15,5174.0,138.27,2.47
+City Hotel,2015,September,Groups,Transient-Party,No Deposit,31-90 Days,14,2572.0,78.93,2.43
+City Hotel,2015,September,Groups,Transient-Party,No Deposit,0-30 Days,10,3226.0,77.3,3.3
+City Hotel,2015,September,Direct,Transient,No Deposit,0-30 Days,13,2739.79,137.19,1.46
+City Hotel,2015,September,Offline TA/TO,Transient,No Deposit,0-30 Days,11,3510.82,98.32,3.36
+City Hotel,2015,September,Corporate,Transient-Party,No Deposit,31-90 Days,6,890.0,98.33,1.5
+City Hotel,2015,September,Groups,Transient-Party,No Deposit,91-180 Days,3,240.0,40.0,2.0
+City Hotel,2015,September,Direct,Transient,No Deposit,31-90 Days,1,300.0,100.0,3.0
+City Hotel,2015,September,Online TA,Transient-Party,No Deposit,0-30 Days,2,1593.06,113.79,7.0
+City Hotel,2015,September,Groups,Transient,No Deposit,0-30 Days,1,196.0,98.0,2.0
+City Hotel,2015,September,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,10,1999.0,97.95,2.1
+City Hotel,2015,September,Corporate,Transient,No Deposit,0-30 Days,7,1020.0,63.57,2.29
+City Hotel,2015,September,Corporate,Transient,No Deposit,31-90 Days,1,65.0,65.0,1.0
+City Hotel,2015,September,Offline TA/TO,Transient,No Deposit,31-90 Days,2,483.4,61.26,4.0
+City Hotel,2015,September,Offline TA/TO,Transient,No Deposit,91-180 Days,4,2111.56,114.52,4.5
+City Hotel,2015,September,Offline TA/TO,Transient-Party,Non Refund,31-90 Days,2,363.0,90.75,2.0
+City Hotel,2015,September,Online TA,Transient-Party,No Deposit,91-180 Days,2,576.3,96.05,3.0
+City Hotel,2015,September,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,2,208.2,80.1,1.5
+City Hotel,2015,September,Offline TA/TO,Contract,No Deposit,0-30 Days,2,227.4,113.7,1.0
+City Hotel,2015,September,Offline TA/TO,Group,No Deposit,0-30 Days,1,480.0,160.0,3.0
+City Hotel,2015,September,Offline TA/TO,Transient-Party,No Deposit,181-365 Days,11,2477.25,71.6,3.18
+City Hotel,2015,September,Offline TA/TO,Contract,No Deposit,31-90 Days,1,836.1,167.22,5.0
+City Hotel,2015,September,Groups,Transient,Non Refund,91-180 Days,2,340.0,170.0,1.0
+City Hotel,2015,September,Offline TA/TO,Transient,Non Refund,0-30 Days,4,859.4,107.42,2.0
+City Hotel,2015,October,Direct,Transient,No Deposit,31-90 Days,7,1296.29,101.11,1.86
+City Hotel,2015,October,Online TA,Transient,No Deposit,181-365 Days,5,2147.24,90.27,4.6
+City Hotel,2015,October,Online TA,Group,No Deposit,31-90 Days,1,111.6,111.6,1.0
+City Hotel,2015,October,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,8,1559.0,97.44,2.0
+City Hotel,2015,October,Groups,Transient-Party,No Deposit,181-365 Days,6,1012.4,52.8,3.17
+City Hotel,2015,October,Groups,Transient-Party,No Deposit,31-90 Days,3,502.0,69.33,2.33
+City Hotel,2015,October,Groups,Transient,Non Refund,31-90 Days,4,784.0,85.75,2.75
+City Hotel,2015,October,Online TA,Contract,No Deposit,31-90 Days,43,16235.32,96.87,3.88
+City Hotel,2015,October,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,7,2759.42,78.14,3.71
+City Hotel,2015,October,Online TA,Transient,No Deposit,0-30 Days,19,7729.82,116.27,3.74
+City Hotel,2015,October,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,10,1182.0,75.2,2.1
+City Hotel,2015,October,Groups,Transient,No Deposit,31-90 Days,1,295.2,147.6,2.0
+City Hotel,2015,October,Groups,Transient,Non Refund,91-180 Days,1,560.0,140.0,4.0
+City Hotel,2015,October,Online TA,Transient,No Deposit,31-90 Days,12,3511.86,96.47,3.0
+City Hotel,2015,October,Groups,Transient-Party,No Deposit,91-180 Days,3,368.0,61.33,2.0
+City Hotel,2015,October,Online TA,Transient,No Deposit,91-180 Days,1,357.0,89.25,4.0
+City Hotel,2015,October,Offline TA/TO,Transient,No Deposit,0-30 Days,9,1559.9,81.34,2.33
+City Hotel,2015,October,Offline TA/TO,Transient,No Deposit,31-90 Days,8,1889.96,75.97,3.38
+City Hotel,2015,October,Offline TA/TO,Transient-Party,No Deposit,181-365 Days,10,1892.0,64.17,3.2
+City Hotel,2015,October,Groups,Contract,No Deposit,91-180 Days,1,255.0,85.0,3.0
+City Hotel,2015,October,Online TA,Transient-Party,No Deposit,31-90 Days,2,769.32,78.98,5.0
+City Hotel,2015,October,Offline TA/TO,Transient,Non Refund,91-180 Days,5,908.0,84.6,2.2
+City Hotel,2015,October,Offline TA/TO,Group,No Deposit,31-90 Days,2,235.2,79.8,1.5
+City Hotel,2015,October,Offline TA/TO,Transient,Non Refund,181-365 Days,1,195.0,65.0,3.0
+City Hotel,2015,October,Offline TA/TO,Transient-Party,Non Refund,91-180 Days,2,363.0,90.75,2.0
+City Hotel,2015,October,Offline TA/TO,Contract,No Deposit,31-90 Days,2,529.2,75.6,3.5
+City Hotel,2015,November,Groups,Transient,Non Refund,31-90 Days,2,444.0,111.0,2.0
+City Hotel,2015,November,Online TA,Contract,No Deposit,31-90 Days,18,4937.3,91.71,2.94
+City Hotel,2015,November,Groups,Transient-Party,No Deposit,91-180 Days,11,2694.0,73.0,3.36
+City Hotel,2015,November,Groups,Transient-Party,No Deposit,181-365 Days,1,120.0,60.0,2.0
+City Hotel,2015,November,Online TA,Transient,No Deposit,91-180 Days,2,361.25,72.25,2.5
+City Hotel,2015,November,Offline TA/TO,Transient,Non Refund,31-90 Days,2,290.0,72.5,2.0
+City Hotel,2015,November,Direct,Transient,No Deposit,181-365 Days,1,361.25,72.25,5.0
+City Hotel,2015,November,Online TA,Transient,No Deposit,31-90 Days,5,1934.05,85.71,4.6
+City Hotel,2015,November,Online TA,Transient-Party,No Deposit,31-90 Days,1,191.25,63.75,3.0
+City Hotel,2015,November,Groups,Transient,No Deposit,0-30 Days,2,560.0,70.0,4.0
+City Hotel,2015,November,Direct,Transient,No Deposit,31-90 Days,5,1045.98,92.53,2.2
+City Hotel,2015,November,Online TA,Contract,No Deposit,91-180 Days,4,650.25,72.25,2.25
+City Hotel,2015,November,Groups,Transient-Party,No Deposit,31-90 Days,6,1352.0,59.0,3.83
+City Hotel,2015,November,Online TA,Transient,No Deposit,181-365 Days,1,216.75,72.25,3.0
+City Hotel,2015,December,Online TA,Transient,No Deposit,181-365 Days,3,960.23,86.04,3.67
+City Hotel,2015,December,Online TA,Contract,No Deposit,91-180 Days,12,4152.1,75.08,4.83
+City Hotel,2015,December,Online TA,Transient,No Deposit,91-180 Days,19,5213.09,88.75,3.16
+City Hotel,2015,December,Offline TA/TO,Transient,Non Refund,91-180 Days,5,1365.0,68.4,4.0
+City Hotel,2015,December,Groups,Transient-Party,No Deposit,91-180 Days,1,102.8,51.4,2.0
+City Hotel,2015,December,Groups,Transient,Non Refund,181-365 Days,3,856.5,95.17,3.0
+City Hotel,2015,December,Groups,Transient,Non Refund,91-180 Days,3,600.0,74.17,2.67
+City Hotel,2015,December,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,5,1352.5,82.6,3.2
+City Hotel,2015,December,Online TA,Transient-Party,No Deposit,0-30 Days,5,945.5,94.0,2.0
+City Hotel,2015,December,Online TA,Transient,No Deposit,0-30 Days,31,10137.88,103.93,3.1
+City Hotel,2015,December,Direct,Transient,No Deposit,0-30 Days,21,7340.27,88.33,3.86
+City Hotel,2016,January,Direct,Transient,No Deposit,91-180 Days,1,74.25,74.25,1.0
+City Hotel,2016,January,Online TA,Transient,No Deposit,0-30 Days,110,43362.11,79.33,5.02
+City Hotel,2016,January,Offline TA/TO,Transient,Non Refund,91-180 Days,2,498.0,83.0,3.0
+City Hotel,2016,January,Direct,Transient,No Deposit,0-30 Days,19,13169.8,82.22,9.0
+City Hotel,2016,January,Offline TA/TO,Transient,No Deposit,31-90 Days,4,892.0,68.5,3.25
+City Hotel,2016,January,Online TA,Transient,No Deposit,31-90 Days,17,3423.17,75.57,2.65
+City Hotel,2016,January,Online TA,Transient-Party,No Deposit,31-90 Days,3,780.75,86.75,3.0
+City Hotel,2016,January,Online TA,Transient-Party,No Deposit,0-30 Days,10,3353.06,77.8,4.3
+City Hotel,2016,January,Complementary,Transient,No Deposit,0-30 Days,2,0.0,0.0,1.0
+City Hotel,2016,January,Online TA,Transient,No Deposit,91-180 Days,4,966.4,75.8,3.0
+City Hotel,2016,January,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,7,1760.0,80.0,3.14
+City Hotel,2016,January,Corporate,Transient,No Deposit,0-30 Days,4,366.0,71.75,1.25
+City Hotel,2016,January,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,5,949.0,69.0,2.6
+City Hotel,2016,January,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,6,875.01,65.28,2.17
+City Hotel,2016,January,Corporate,Transient-Party,No Deposit,31-90 Days,1,124.0,62.0,2.0
+City Hotel,2016,January,Offline TA/TO,Transient,No Deposit,91-180 Days,1,350.0,70.0,5.0
+City Hotel,2016,January,Corporate,Transient-Party,No Deposit,0-30 Days,1,66.0,66.0,1.0
+City Hotel,2016,January,Direct,Transient,No Deposit,31-90 Days,2,1306.0,91.0,7.0
+City Hotel,2016,January,Offline TA/TO,Transient,No Deposit,0-30 Days,3,948.0,70.07,5.33
+City Hotel,2016,February,Online TA,Transient-Party,No Deposit,0-30 Days,11,4302.56,96.51,3.82
+City Hotel,2016,February,Online TA,Transient,No Deposit,0-30 Days,166,74293.85,90.58,4.83
+City Hotel,2016,February,Online TA,Transient,No Deposit,31-90 Days,94,25627.0,75.63,3.64
+City Hotel,2016,February,Direct,Transient,No Deposit,0-30 Days,17,4293.0,84.36,2.88
+City Hotel,2016,February,Direct,Transient,No Deposit,31-90 Days,7,1675.65,74.29,3.14
+City Hotel,2016,February,Corporate,Transient-Party,No Deposit,31-90 Days,2,282.0,70.5,2.0
+City Hotel,2016,February,Offline TA/TO,Contract,No Deposit,31-90 Days,1,114.0,57.0,2.0
+City Hotel,2016,February,Groups,Transient-Party,No Deposit,31-90 Days,1,200.0,50.0,4.0
+City Hotel,2016,February,Online TA,Transient-Party,No Deposit,31-90 Days,3,1011.6,71.87,4.67
+City Hotel,2016,February,Complementary,Transient,No Deposit,0-30 Days,3,4.0,0.67,1.67
+City Hotel,2016,February,Online TA,Transient,No Deposit,91-180 Days,6,1464.05,68.7,3.67
+City Hotel,2016,February,Groups,Transient,No Deposit,0-30 Days,1,240.0,60.0,4.0
+City Hotel,2016,February,Online TA,Contract,No Deposit,31-90 Days,1,87.0,87.0,1.0
+City Hotel,2016,February,Offline TA/TO,Transient,No Deposit,0-30 Days,8,1491.62,53.79,3.13
+City Hotel,2016,February,Direct,Transient-Party,No Deposit,0-30 Days,2,477.0,79.5,3.0
+City Hotel,2016,February,Corporate,Transient,No Deposit,0-30 Days,4,277.0,69.25,1.0
+City Hotel,2016,February,Offline TA/TO,Transient,Non Refund,31-90 Days,1,225.0,75.0,3.0
+City Hotel,2016,February,Corporate,Transient-Party,No Deposit,0-30 Days,3,227.0,75.67,1.0
+City Hotel,2016,February,Corporate,Transient-Party,No Deposit,91-180 Days,3,250.0,83.33,1.0
+City Hotel,2016,February,Offline TA/TO,Transient,No Deposit,31-90 Days,3,836.08,53.15,5.33
+City Hotel,2016,February,Offline TA/TO,Transient,No Deposit,91-180 Days,1,540.0,60.0,9.0
+City Hotel,2016,February,Groups,Transient,Non Refund,31-90 Days,3,758.0,78.33,3.0
+City Hotel,2016,February,Corporate,Transient,No Deposit,31-90 Days,1,79.0,79.0,1.0
+City Hotel,2016,February,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,3,520.0,63.33,2.67
+City Hotel,2016,February,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,21,4718.0,59.99,3.71
+City Hotel,2016,March,Online TA,Transient,No Deposit,31-90 Days,326,112092.1,97.74,3.57
+City Hotel,2016,March,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,4,471.0,59.5,2.0
+City Hotel,2016,March,Groups,Transient-Party,No Deposit,0-30 Days,4,903.0,75.25,3.0
+City Hotel,2016,March,Online TA,Transient,No Deposit,0-30 Days,149,60930.0,118.64,3.38
+City Hotel,2016,March,Direct,Transient,No Deposit,0-30 Days,13,4914.0,145.78,2.46
+City Hotel,2016,March,Corporate,Transient-Party,No Deposit,0-30 Days,6,740.0,77.5,1.67
+City Hotel,2016,March,Offline TA/TO,Transient,No Deposit,0-30 Days,9,1293.21,64.7,2.22
+City Hotel,2016,March,Online TA,Transient-Party,No Deposit,0-30 Days,4,901.68,96.48,2.5
+City Hotel,2016,March,Online TA,Transient-Party,No Deposit,31-90 Days,12,4404.28,93.97,3.75
+City Hotel,2016,March,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,4,872.48,78.19,2.75
+City Hotel,2016,March,Corporate,Transient,No Deposit,0-30 Days,5,695.0,78.2,1.8
+City Hotel,2016,March,Complementary,Transient,No Deposit,0-30 Days,3,0.0,0.0,1.33
+City Hotel,2016,March,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,2,546.0,91.0,3.0
+City Hotel,2016,March,Direct,Transient,No Deposit,31-90 Days,11,6720.36,125.7,4.45
+City Hotel,2016,March,Online TA,Transient,No Deposit,91-180 Days,23,9855.57,92.37,4.57
+City Hotel,2016,March,Offline TA/TO,Transient,No Deposit,31-90 Days,22,6217.19,78.94,3.64
+City Hotel,2016,March,Groups,Transient,No Deposit,0-30 Days,1,237.0,79.0,3.0
+City Hotel,2016,March,Offline TA/TO,Transient,Non Refund,31-90 Days,5,6600.0,1145.0,3.2
+City Hotel,2016,March,Groups,Transient,Non Refund,91-180 Days,4,974.01,72.11,3.25
+City Hotel,2016,March,Groups,Transient-Party,No Deposit,91-180 Days,1,224.4,112.2,2.0
+City Hotel,2016,March,Groups,Transient,Non Refund,0-30 Days,2,360.0,90.0,2.0
+City Hotel,2016,March,Groups,Transient,Non Refund,365+ Days,5,1011.57,67.44,3.0
+City Hotel,2016,March,Groups,Transient,Non Refund,181-365 Days,4,775.0,70.75,2.25
+City Hotel,2016,March,Online TA,Contract,No Deposit,91-180 Days,8,2384.11,106.0,2.75
+City Hotel,2016,March,Offline TA/TO,Transient,Non Refund,91-180 Days,8,2345.0,104.38,2.75
+City Hotel,2016,March,Offline TA/TO,Transient,No Deposit,91-180 Days,3,528.0,61.5,3.0
+City Hotel,2016,March,Groups,Transient,Non Refund,31-90 Days,1,192.0,96.0,2.0
+City Hotel,2016,March,Online TA,Contract,No Deposit,181-365 Days,1,678.58,96.94,7.0
+City Hotel,2016,March,Online TA,Transient-Party,No Deposit,91-180 Days,4,922.2,68.88,3.5
+City Hotel,2016,March,Groups,Transient,No Deposit,181-365 Days,1,0.0,0.0,1.0
+City Hotel,2016,March,Groups,Transient-Party,No Deposit,31-90 Days,1,260.0,65.0,4.0
+City Hotel,2016,April,Online TA,Transient,No Deposit,31-90 Days,323,125338.52,115.62,3.31
+City Hotel,2016,April,Direct,Transient,No Deposit,91-180 Days,8,3347.67,90.82,4.5
+City Hotel,2016,April,Online TA,Transient,No Deposit,0-30 Days,168,71496.14,131.72,3.12
+City Hotel,2016,April,Online TA,Transient-Party,No Deposit,31-90 Days,9,2776.16,101.65,3.0
+City Hotel,2016,April,Direct,Transient,No Deposit,0-30 Days,12,3255.65,129.8,2.0
+City Hotel,2016,April,Direct,Transient,No Deposit,31-90 Days,8,3011.83,109.6,3.13
+City Hotel,2016,April,Online TA,Transient,No Deposit,91-180 Days,92,34158.02,93.56,3.97
+City Hotel,2016,April,Online TA,Transient-Party,No Deposit,0-30 Days,1,133.8,44.6,3.0
+City Hotel,2016,April,Offline TA/TO,Transient,Non Refund,91-180 Days,12,3045.0,97.5,2.67
+City Hotel,2016,April,Online TA,Transient-Party,No Deposit,91-180 Days,3,591.8,64.47,3.33
+City Hotel,2016,April,Aviation,Transient-Party,No Deposit,0-30 Days,1,380.0,95.0,4.0
+City Hotel,2016,April,Groups,Transient,Non Refund,91-180 Days,8,2501.5,92.06,3.38
+City Hotel,2016,April,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,4,484.0,64.75,1.75
+City Hotel,2016,April,Online TA,Contract,No Deposit,91-180 Days,8,2089.56,89.07,3.0
+City Hotel,2016,April,Offline TA/TO,Transient,No Deposit,0-30 Days,8,1690.6,96.83,2.25
+City Hotel,2016,April,Groups,Transient,Non Refund,181-365 Days,9,1083.0,59.11,1.78
+City Hotel,2016,April,Groups,Transient-Party,No Deposit,91-180 Days,11,1398.0,78.82,1.64
+City Hotel,2016,April,Offline TA/TO,Transient,No Deposit,91-180 Days,4,1142.19,69.8,3.75
+City Hotel,2016,April,Offline TA/TO,Transient-Party,No Deposit,181-365 Days,4,1032.4,68.4,3.75
+City Hotel,2016,April,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,7,2122.0,81.86,3.86
+City Hotel,2016,April,Groups,Transient-Party,No Deposit,181-365 Days,9,1176.0,54.11,2.22
+City Hotel,2016,April,Offline TA/TO,Transient,No Deposit,31-90 Days,8,1760.26,77.56,3.38
+City Hotel,2016,April,Offline TA/TO,Transient,Non Refund,31-90 Days,1,300.0,100.0,3.0
+City Hotel,2016,April,Aviation,Transient,No Deposit,0-30 Days,2,855.0,95.0,4.5
+City Hotel,2016,April,Corporate,Transient,No Deposit,0-30 Days,6,3164.0,94.0,4.33
+City Hotel,2016,April,Online TA,Contract,No Deposit,181-365 Days,5,1620.0,108.0,3.0
+City Hotel,2016,April,Direct,Transient-Party,No Deposit,31-90 Days,1,323.0,80.75,4.0
+City Hotel,2016,April,Direct,Transient,No Deposit,181-365 Days,1,605.2,151.3,4.0
+City Hotel,2016,April,Offline TA/TO,Transient,Non Refund,181-365 Days,2,520.0,92.5,3.0
+City Hotel,2016,April,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,3,473.0,86.33,1.67
+City Hotel,2016,April,Groups,Transient-Party,No Deposit,0-30 Days,2,222.0,74.0,1.5
+City Hotel,2016,April,Complementary,Transient,No Deposit,0-30 Days,2,0.0,0.0,0.5
+City Hotel,2016,April,Direct,Group,No Deposit,181-365 Days,1,381.6,95.4,4.0
+City Hotel,2016,April,Offline TA/TO,Transient,Non Refund,365+ Days,2,125.0,62.5,1.0
+City Hotel,2016,April,Online TA,Transient,No Deposit,181-365 Days,2,363.31,99.88,2.0
+City Hotel,2016,May,Online TA,Transient,No Deposit,0-30 Days,125,49559.03,140.31,2.77
+City Hotel,2016,May,Online TA,Transient,No Deposit,91-180 Days,145,61744.41,118.83,3.6
+City Hotel,2016,May,Online TA,Transient,No Deposit,31-90 Days,190,78957.94,135.88,3.02
+City Hotel,2016,May,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,4,1098.0,85.25,3.25
+City Hotel,2016,May,Aviation,Transient,No Deposit,0-30 Days,6,4270.0,105.0,6.83
+City Hotel,2016,May,Complementary,Transient,No Deposit,0-30 Days,2,0.0,0.0,1.5
+City Hotel,2016,May,Groups,Transient,Non Refund,365+ Days,2,360.0,60.0,3.0
+City Hotel,2016,May,Online TA,Contract,No Deposit,181-365 Days,5,1783.0,108.2,3.4
+City Hotel,2016,May,Offline TA/TO,Transient,No Deposit,31-90 Days,9,2756.09,100.33,3.11
+City Hotel,2016,May,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,4,919.5,82.88,2.75
+City Hotel,2016,May,Groups,Transient-Party,No Deposit,91-180 Days,2,415.0,80.0,2.5
+City Hotel,2016,May,Offline TA/TO,Transient,Non Refund,181-365 Days,15,4890.0,98.4,3.4
+City Hotel,2016,May,Offline TA/TO,Transient,No Deposit,91-180 Days,5,1736.93,105.22,3.2
+City Hotel,2016,May,Groups,Transient,Non Refund,181-365 Days,9,797.0,61.0,1.44
+City Hotel,2016,May,Groups,Transient-Party,No Deposit,181-365 Days,11,2064.0,78.27,2.18
+City Hotel,2016,May,Direct,Transient,No Deposit,91-180 Days,6,2784.93,113.16,4.17
+City Hotel,2016,May,Online TA,Transient-Party,No Deposit,91-180 Days,10,4751.91,145.81,3.3
+City Hotel,2016,May,Direct,Transient-Party,No Deposit,181-365 Days,1,286.2,95.4,3.0
+City Hotel,2016,May,Groups,Transient-Party,No Deposit,31-90 Days,8,1335.0,109.37,1.63
+City Hotel,2016,May,Direct,Transient-Party,No Deposit,91-180 Days,2,567.0,94.5,3.0
+City Hotel,2016,May,Direct,Transient,No Deposit,31-90 Days,12,5534.73,162.47,2.92
+City Hotel,2016,May,Direct,Transient,No Deposit,0-30 Days,17,10603.73,132.3,4.12
+City Hotel,2016,May,Offline TA/TO,Transient-Party,No Deposit,181-365 Days,8,2164.0,80.94,3.38
+City Hotel,2016,May,Online TA,Contract,No Deposit,91-180 Days,2,522.0,126.0,2.0
+City Hotel,2016,May,Groups,Transient,Non Refund,91-180 Days,3,644.0,107.33,2.0
+City Hotel,2016,May,Online TA,Transient,No Deposit,181-365 Days,3,563.8,111.13,1.67
+City Hotel,2016,May,Corporate,Transient-Party,No Deposit,31-90 Days,4,1210.0,135.0,2.25
+City Hotel,2016,May,Direct,Transient,No Deposit,181-365 Days,1,190.8,95.4,2.0
+City Hotel,2016,May,Corporate,Transient-Party,No Deposit,0-30 Days,6,1163.18,110.53,1.83
+City Hotel,2016,May,Offline TA/TO,Transient,No Deposit,0-30 Days,5,910.6,133.67,1.6
+City Hotel,2016,May,Corporate,Transient,No Deposit,31-90 Days,5,1342.6,98.28,2.6
+City Hotel,2016,May,Corporate,Transient,No Deposit,0-30 Days,5,796.0,86.6,1.6
+City Hotel,2016,May,Offline TA/TO,Transient,Non Refund,0-30 Days,1,280.0,140.0,2.0
+City Hotel,2016,May,Offline TA/TO,Transient,Non Refund,31-90 Days,1,280.0,140.0,2.0
+City Hotel,2016,May,Direct,Transient-Party,No Deposit,31-90 Days,2,340.0,85.0,2.0
+City Hotel,2016,May,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,2,960.0,160.0,3.0
+City Hotel,2016,May,Aviation,Transient-Party,No Deposit,0-30 Days,3,330.0,110.0,1.0
+City Hotel,2016,May,Corporate,Transient,Non Refund,91-180 Days,1,300.0,100.0,3.0
+City Hotel,2016,June,Offline TA/TO,Transient,No Deposit,0-30 Days,4,846.25,99.94,2.25
+City Hotel,2016,June,Direct,Transient,No Deposit,31-90 Days,11,8908.03,127.34,4.91
+City Hotel,2016,June,Online TA,Transient,No Deposit,31-90 Days,185,67826.13,124.35,2.89
+City Hotel,2016,June,Online TA,Transient,No Deposit,0-30 Days,127,52628.71,137.68,2.85
+City Hotel,2016,June,Online TA,Transient,No Deposit,91-180 Days,138,57993.06,117.31,3.57
+City Hotel,2016,June,Offline TA/TO,Transient,No Deposit,31-90 Days,7,2283.75,96.79,3.43
+City Hotel,2016,June,Groups,Transient,Non Refund,181-365 Days,16,2385.0,79.69,1.81
+City Hotel,2016,June,Offline TA/TO,Transient,Non Refund,0-30 Days,3,550.0,106.67,1.67
+City Hotel,2016,June,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,13,3329.75,101.98,2.62
+City Hotel,2016,June,Offline TA/TO,Transient,Non Refund,31-90 Days,4,2080.0,125.0,4.25
+City Hotel,2016,June,Offline TA/TO,Transient,No Deposit,91-180 Days,11,4111.6,93.88,4.18
+City Hotel,2016,June,Offline TA/TO,Transient,No Deposit,181-365 Days,2,803.93,80.5,5.0
+City Hotel,2016,June,Direct,Transient-Party,No Deposit,91-180 Days,1,510.0,127.5,4.0
+City Hotel,2016,June,Online TA,Transient-Party,No Deposit,91-180 Days,4,1109.22,122.48,2.5
+City Hotel,2016,June,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,10,2670.93,100.39,2.7
+City Hotel,2016,June,Direct,Transient,No Deposit,0-30 Days,13,10963.94,145.2,5.46
+City Hotel,2016,June,Offline TA/TO,Transient,Non Refund,181-365 Days,11,2731.2,100.96,2.45
+City Hotel,2016,June,Groups,Transient-Party,No Deposit,181-365 Days,3,544.99,67.78,2.67
+City Hotel,2016,June,Groups,Transient-Party,No Deposit,91-180 Days,2,305.0,92.5,1.5
+City Hotel,2016,June,Offline TA/TO,Transient,Non Refund,91-180 Days,7,2180.0,110.0,3.14
+City Hotel,2016,June,Corporate,Transient,No Deposit,31-90 Days,1,770.0,110.0,7.0
+City Hotel,2016,June,Offline TA/TO,Transient-Party,No Deposit,181-365 Days,6,1234.0,96.83,2.17
+City Hotel,2016,June,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,4,790.0,113.75,1.75
+City Hotel,2016,June,Online TA,Transient-Party,No Deposit,181-365 Days,1,691.92,115.32,6.0
+City Hotel,2016,June,Groups,Transient,No Deposit,0-30 Days,1,92.65,92.65,1.0
+City Hotel,2016,June,Groups,Transient-Party,No Deposit,0-30 Days,1,92.65,92.65,1.0
+City Hotel,2016,June,Corporate,Transient,No Deposit,0-30 Days,5,617.5,83.5,1.4
+City Hotel,2016,June,Corporate,Transient,Non Refund,0-30 Days,1,270.0,90.0,3.0
+City Hotel,2016,June,Complementary,Transient,No Deposit,0-30 Days,2,0.0,0.0,1.0
+City Hotel,2016,June,Direct,Transient-Party,No Deposit,31-90 Days,2,500.88,62.61,4.0
+City Hotel,2016,June,Groups,Transient,Non Refund,91-180 Days,4,2064.0,118.0,4.0
+City Hotel,2016,June,Aviation,Transient,No Deposit,0-30 Days,1,380.0,95.0,4.0
+City Hotel,2016,June,Corporate,Transient-Party,No Deposit,0-30 Days,1,200.0,100.0,2.0
+City Hotel,2016,June,Online TA,Contract,No Deposit,181-365 Days,5,1892.6,124.3,3.0
+City Hotel,2016,June,Online TA,Transient,No Deposit,181-365 Days,3,1318.3,92.9,4.67
+City Hotel,2016,June,Direct,Transient,No Deposit,181-365 Days,1,551.64,91.94,6.0
+City Hotel,2016,June,Direct,Transient,No Deposit,91-180 Days,1,538.5,89.75,6.0
+City Hotel,2016,July,Online TA,Transient,No Deposit,91-180 Days,266,131170.64,117.39,4.24
+City Hotel,2016,July,Online TA,Transient,No Deposit,0-30 Days,78,28107.13,155.03,2.29
+City Hotel,2016,July,Online TA,Transient,No Deposit,31-90 Days,157,64598.73,133.36,3.08
+City Hotel,2016,July,Groups,Transient,Non Refund,91-180 Days,1,130.0,65.0,2.0
+City Hotel,2016,July,Direct,Transient-Party,No Deposit,31-90 Days,6,2248.75,129.95,2.83
+City Hotel,2016,July,Online TA,Transient-Party,No Deposit,91-180 Days,11,3966.9,104.91,3.36
+City Hotel,2016,July,Offline TA/TO,Transient,Non Refund,91-180 Days,3,675.0,75.0,3.0
+City Hotel,2016,July,Offline TA/TO,Transient,No Deposit,91-180 Days,20,6661.79,74.95,4.5
+City Hotel,2016,July,Direct,Transient,No Deposit,31-90 Days,9,4841.1,126.13,4.33
+City Hotel,2016,July,Direct,Transient,No Deposit,0-30 Days,9,4232.87,185.1,2.44
+City Hotel,2016,July,Online TA,Contract,No Deposit,181-365 Days,7,3442.35,106.71,4.71
+City Hotel,2016,July,Online TA,Transient,No Deposit,181-365 Days,31,15967.62,98.17,5.42
+City Hotel,2016,July,Offline TA/TO,Transient,No Deposit,31-90 Days,14,7841.28,88.55,5.57
+City Hotel,2016,July,Direct,Transient,No Deposit,91-180 Days,3,1214.75,113.25,3.67
+City Hotel,2016,July,Offline TA/TO,Transient,Non Refund,181-365 Days,1,660.0,110.0,6.0
+City Hotel,2016,July,Offline TA/TO,Transient,No Deposit,181-365 Days,3,184.96,30.83,4.67
+City Hotel,2016,July,Direct,Transient-Party,No Deposit,91-180 Days,2,775.5,96.13,4.0
+City Hotel,2016,July,Groups,Transient,Non Refund,181-365 Days,3,567.0,72.33,2.33
+City Hotel,2016,July,Corporate,Transient-Party,No Deposit,31-90 Days,1,79.0,79.0,1.0
+City Hotel,2016,July,Online TA,Transient-Party,No Deposit,181-365 Days,8,2845.15,90.42,3.88
+City Hotel,2016,July,Offline TA/TO,Transient,No Deposit,0-30 Days,6,1033.3,82.4,2.17
+City Hotel,2016,July,Complementary,Transient,No Deposit,0-30 Days,1,0.0,0.0,2.0
+City Hotel,2016,July,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,9,2661.49,91.49,3.22
+City Hotel,2016,July,Direct,Transient,No Deposit,181-365 Days,6,2342.28,97.84,4.5
+City Hotel,2016,July,Groups,Transient,Non Refund,365+ Days,8,809.0,61.63,1.63
+City Hotel,2016,July,Groups,Transient-Party,No Deposit,181-365 Days,2,320.0,80.0,2.0
+City Hotel,2016,July,Corporate,Transient,No Deposit,0-30 Days,3,845.0,91.0,2.33
+City Hotel,2016,July,Offline TA/TO,Contract,No Deposit,181-365 Days,1,290.19,96.73,3.0
+City Hotel,2016,July,Offline TA/TO,Transient-Party,No Deposit,181-365 Days,2,436.0,109.0,2.0
+City Hotel,2016,July,Corporate,Transient-Party,No Deposit,0-30 Days,3,495.0,95.0,1.67
+City Hotel,2016,July,Groups,Transient-Party,No Deposit,31-90 Days,1,128.0,64.0,2.0
+City Hotel,2016,July,Online TA,Transient-Party,No Deposit,0-30 Days,1,93.5,93.5,1.0
+City Hotel,2016,July,Direct,Transient-Party,No Deposit,181-365 Days,1,341.0,85.25,4.0
+City Hotel,2016,August,Online TA,Transient,No Deposit,0-30 Days,108,44499.34,144.29,2.85
+City Hotel,2016,August,Online TA,Transient,No Deposit,31-90 Days,167,77969.53,146.25,3.22
+City Hotel,2016,August,Online TA,Transient,No Deposit,91-180 Days,323,167884.35,124.65,4.18
+City Hotel,2016,August,Corporate,Transient-Party,Non Refund,91-180 Days,1,318.0,106.0,3.0
+City Hotel,2016,August,Direct,Transient,No Deposit,91-180 Days,20,13902.89,126.79,4.95
+City Hotel,2016,August,Direct,Transient,No Deposit,31-90 Days,14,6211.95,126.84,3.5
+City Hotel,2016,August,Online TA,Transient,No Deposit,181-365 Days,157,79626.06,105.13,4.8
+City Hotel,2016,August,Corporate,Transient,No Deposit,0-30 Days,1,130.0,65.0,2.0
+City Hotel,2016,August,Offline TA/TO,Transient,No Deposit,91-180 Days,19,6065.74,92.48,3.63
+City Hotel,2016,August,Direct,Transient,No Deposit,181-365 Days,4,2047.25,88.06,6.0
+City Hotel,2016,August,Groups,Transient,Non Refund,365+ Days,9,862.0,61.0,1.56
+City Hotel,2016,August,Direct,Transient-Party,No Deposit,181-365 Days,2,361.0,90.25,2.0
+City Hotel,2016,August,Offline TA/TO,Transient,No Deposit,31-90 Days,5,1593.52,88.71,3.6
+City Hotel,2016,August,Online TA,Transient-Party,No Deposit,181-365 Days,19,4419.52,122.24,2.05
+City Hotel,2016,August,Direct,Transient,No Deposit,0-30 Days,10,3864.4,146.97,3.0
+City Hotel,2016,August,Corporate,Transient-Party,No Deposit,0-30 Days,2,130.0,65.0,1.0
+City Hotel,2016,August,Offline TA/TO,Transient-Party,No Deposit,181-365 Days,10,2632.45,90.94,3.0
+City Hotel,2016,August,Offline TA/TO,Transient,No Deposit,0-30 Days,3,1246.0,97.67,4.0
+City Hotel,2016,August,Groups,Transient,Non Refund,181-365 Days,4,514.0,80.5,1.5
+City Hotel,2016,August,Offline TA/TO,Contract,No Deposit,181-365 Days,2,720.8,72.08,5.0
+City Hotel,2016,August,Offline TA/TO,Transient,No Deposit,181-365 Days,3,936.0,104.0,3.0
+City Hotel,2016,August,Groups,Transient,No Deposit,0-30 Days,2,2094.5,179.45,6.0
+City Hotel,2016,August,Online TA,Transient-Party,No Deposit,91-180 Days,7,1866.28,119.79,2.29
+City Hotel,2016,August,Direct,Transient-Party,No Deposit,91-180 Days,5,1241.49,133.24,1.8
+City Hotel,2016,August,Offline TA/TO,Transient,Non Refund,181-365 Days,1,230.0,115.0,2.0
+City Hotel,2016,August,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,1,390.0,78.0,5.0
+City Hotel,2016,August,Direct,Transient-Party,No Deposit,31-90 Days,3,404.0,134.67,1.0
+City Hotel,2016,August,Online TA,Transient,Non Refund,0-30 Days,2,288.6,144.3,1.0
+City Hotel,2016,August,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,1,290.7,96.9,3.0
+City Hotel,2016,August,Corporate,Transient,No Deposit,31-90 Days,2,1599.92,124.37,5.0
+City Hotel,2016,August,Online TA,Contract,No Deposit,181-365 Days,2,1233.05,88.08,7.0
+City Hotel,2016,September,Online TA,Transient,No Deposit,31-90 Days,205,93090.05,142.6,3.11
+City Hotel,2016,September,Groups,Transient,Non Refund,365+ Days,11,1215.0,61.82,1.73
+City Hotel,2016,September,Offline TA/TO,Transient,No Deposit,31-90 Days,11,2851.14,98.4,2.64
+City Hotel,2016,September,Online TA,Transient,No Deposit,0-30 Days,142,58288.19,149.85,2.58
+City Hotel,2016,September,Online TA,Transient,No Deposit,181-365 Days,87,43364.83,114.41,4.33
+City Hotel,2016,September,Online TA,Contract,No Deposit,181-365 Days,1,318.6,106.2,3.0
+City Hotel,2016,September,Online TA,Transient,No Deposit,91-180 Days,129,70336.77,138.67,3.95
+City Hotel,2016,September,Direct,Transient,No Deposit,91-180 Days,3,1119.0,124.33,3.0
+City Hotel,2016,September,Direct,Transient,No Deposit,0-30 Days,28,15777.95,157.21,3.11
+City Hotel,2016,September,Groups,Transient,Non Refund,91-180 Days,2,615.0,125.0,2.5
+City Hotel,2016,September,Online TA,Transient-Party,No Deposit,91-180 Days,2,1631.14,116.51,7.0
+City Hotel,2016,September,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,10,2670.0,90.0,3.0
+City Hotel,2016,September,Groups,Transient-Party,No Deposit,31-90 Days,9,2792.0,114.0,2.78
+City Hotel,2016,September,Direct,Transient,No Deposit,31-90 Days,5,3963.36,139.44,5.2
+City Hotel,2016,September,Complementary,Transient,No Deposit,0-30 Days,1,0.0,0.0,0.0
+City Hotel,2016,September,Corporate,Transient-Party,Non Refund,181-365 Days,4,1272.0,106.0,3.0
+City Hotel,2016,September,Direct,Transient,No Deposit,181-365 Days,4,1648.2,136.16,3.0
+City Hotel,2016,September,Offline TA/TO,Transient-Party,No Deposit,181-365 Days,10,3856.0,105.9,3.7
+City Hotel,2016,September,Offline TA/TO,Transient,No Deposit,91-180 Days,9,3148.89,97.19,3.56
+City Hotel,2016,September,Groups,Transient,Non Refund,181-365 Days,6,1547.0,104.33,2.33
+City Hotel,2016,September,Offline TA/TO,Transient,Non Refund,365+ Days,1,210.0,70.0,3.0
+City Hotel,2016,September,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,13,3924.6,111.78,2.77
+City Hotel,2016,September,Offline TA/TO,Transient,Non Refund,181-365 Days,12,3465.0,101.67,2.83
+City Hotel,2016,September,Aviation,Transient,No Deposit,0-30 Days,4,660.0,110.0,1.5
+City Hotel,2016,September,Groups,Transient-Party,No Deposit,0-30 Days,3,597.2,63.53,2.67
+City Hotel,2016,September,Corporate,Transient,Non Refund,31-90 Days,3,530.0,105.0,1.67
+City Hotel,2016,September,Corporate,Transient-Party,No Deposit,0-30 Days,2,320.0,105.0,1.5
+City Hotel,2016,September,Groups,Transient-Party,No Deposit,365+ Days,2,260.0,65.0,2.0
+City Hotel,2016,September,Direct,Group,No Deposit,0-30 Days,1,159.0,159.0,1.0
+City Hotel,2016,September,Groups,Transient-Party,No Deposit,181-365 Days,1,130.0,65.0,2.0
+City Hotel,2016,September,Offline TA/TO,Transient,No Deposit,0-30 Days,8,1978.1,102.36,2.38
+City Hotel,2016,September,Offline TA/TO,Transient,Non Refund,91-180 Days,1,125.0,125.0,1.0
+City Hotel,2016,September,Corporate,Transient,No Deposit,0-30 Days,8,2813.15,114.95,3.0
+City Hotel,2016,September,Offline TA/TO,Transient,Non Refund,0-30 Days,4,490.45,122.61,1.0
+City Hotel,2016,September,Online TA,Transient-Party,No Deposit,181-365 Days,5,1647.9,109.86,3.0
+City Hotel,2016,September,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,2,294.3,98.1,1.5
+City Hotel,2016,September,Groups,Transient,Non Refund,31-90 Days,1,315.0,105.0,3.0
+City Hotel,2016,September,Offline TA/TO,Transient-Party,No Deposit,365+ Days,3,675.0,75.0,3.0
+City Hotel,2016,October,Corporate,Transient-Party,No Deposit,0-30 Days,1,110.0,110.0,1.0
+City Hotel,2016,October,Direct,Transient,No Deposit,0-30 Days,19,6786.12,153.63,2.21
+City Hotel,2016,October,Complementary,Transient,No Deposit,0-30 Days,2,0.0,0.0,1.5
+City Hotel,2016,October,Online TA,Transient-Party,No Deposit,181-365 Days,13,4184.35,101.81,3.23
+City Hotel,2016,October,Groups,Transient-Party,No Deposit,181-365 Days,5,1050.0,95.4,2.2
+City Hotel,2016,October,Online TA,Transient,No Deposit,181-365 Days,144,55564.3,106.47,3.67
+City Hotel,2016,October,Online TA,Transient,No Deposit,91-180 Days,187,80897.86,122.7,3.42
+City Hotel,2016,October,Direct,Transient,No Deposit,91-180 Days,10,5982.86,145.98,4.1
+City Hotel,2016,October,Online TA,Transient,No Deposit,0-30 Days,93,39050.89,140.44,2.97
+City Hotel,2016,October,Online TA,Transient,No Deposit,31-90 Days,220,89654.98,128.56,3.1
+City Hotel,2016,October,Offline TA/TO,Transient,No Deposit,0-30 Days,8,2151.15,104.64,2.38
+City Hotel,2016,October,Corporate,Transient-Party,Non Refund,181-365 Days,5,1590.0,106.0,3.0
+City Hotel,2016,October,Offline TA/TO,Transient,Non Refund,181-365 Days,12,3261.0,97.42,2.83
+City Hotel,2016,October,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,10,2378.0,91.65,2.7
+City Hotel,2016,October,Offline TA/TO,Transient,No Deposit,91-180 Days,12,4204.05,94.55,3.92
+City Hotel,2016,October,Corporate,Transient,No Deposit,0-30 Days,8,2017.13,119.48,2.0
+City Hotel,2016,October,Offline TA/TO,Transient-Party,No Deposit,181-365 Days,7,2300.0,111.43,3.57
+City Hotel,2016,October,Groups,Transient,Non Refund,31-90 Days,2,355.0,117.5,1.5
+City Hotel,2016,October,Groups,Transient,Non Refund,365+ Days,14,1562.0,62.07,1.79
+City Hotel,2016,October,Groups,Transient-Party,No Deposit,31-90 Days,2,684.0,114.0,3.0
+City Hotel,2016,October,Direct,Transient,No Deposit,181-365 Days,4,1273.1,102.0,3.25
+City Hotel,2016,October,Offline TA/TO,Transient,No Deposit,31-90 Days,8,1938.65,84.54,2.88
+City Hotel,2016,October,Aviation,Transient,No Deposit,0-30 Days,3,725.0,105.0,2.33
+City Hotel,2016,October,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,9,1705.0,111.67,1.78
+City Hotel,2016,October,Groups,Transient,No Deposit,0-30 Days,1,120.0,120.0,1.0
+City Hotel,2016,October,Online TA,Transient-Party,No Deposit,91-180 Days,1,98.1,98.1,1.0
+City Hotel,2016,October,Direct,Transient-Party,No Deposit,31-90 Days,1,199.42,99.71,2.0
+City Hotel,2016,October,Groups,Transient-Party,No Deposit,0-30 Days,4,730.0,152.5,1.25
+City Hotel,2016,October,Direct,Transient,No Deposit,31-90 Days,6,1800.2,146.02,2.17
+City Hotel,2016,October,Online TA,Contract,No Deposit,181-365 Days,1,213.4,106.7,2.0
+City Hotel,2016,October,Offline TA/TO,Transient,Non Refund,91-180 Days,5,1380.0,115.0,2.4
+City Hotel,2016,October,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,1,357.0,119.0,3.0
+City Hotel,2016,October,Complementary,Transient,No Deposit,31-90 Days,1,0.0,0.0,1.0
+City Hotel,2016,October,Groups,Transient,Non Refund,181-365 Days,6,1312.0,91.0,2.33
+City Hotel,2016,October,Offline TA/TO,Transient,No Deposit,181-365 Days,1,390.4,97.6,4.0
+City Hotel,2016,October,Direct,Transient,Non Refund,91-180 Days,3,750.0,83.33,3.0
+City Hotel,2016,October,Online TA,Transient,Non Refund,181-365 Days,4,1360.0,85.0,4.0
+City Hotel,2016,October,Offline TA/TO,Transient-Party,No Deposit,365+ Days,2,460.0,115.0,2.0
+City Hotel,2016,October,Offline TA/TO,Transient,Non Refund,31-90 Days,3,780.0,98.33,2.67
+City Hotel,2016,November,Online TA,Transient,No Deposit,31-90 Days,240,88322.12,100.31,3.61
+City Hotel,2016,November,Offline TA/TO,Transient,Non Refund,91-180 Days,2,720.0,120.0,3.0
+City Hotel,2016,November,Online TA,Transient,No Deposit,0-30 Days,125,57806.0,104.79,4.48
+City Hotel,2016,November,Online TA,Transient,No Deposit,91-180 Days,78,25807.93,95.32,3.47
+City Hotel,2016,November,Direct,Transient,No Deposit,181-365 Days,3,868.25,80.98,3.67
+City Hotel,2016,November,Direct,Transient,No Deposit,0-30 Days,19,13449.21,128.43,4.79
+City Hotel,2016,November,Aviation,Transient,No Deposit,0-30 Days,3,789.0,89.33,3.0
+City Hotel,2016,November,Corporate,Transient,No Deposit,0-30 Days,12,1155.0,69.0,2.5
+City Hotel,2016,November,Online TA,Transient,No Deposit,181-365 Days,32,12700.12,93.89,3.78
+City Hotel,2016,November,Groups,Transient,Non Refund,365+ Days,9,896.4,57.73,1.67
+City Hotel,2016,November,Offline TA/TO,Transient,Non Refund,181-365 Days,4,742.0,70.5,2.5
+City Hotel,2016,November,Direct,Transient,No Deposit,31-90 Days,14,6347.56,106.57,4.07
+City Hotel,2016,November,Groups,Transient-Party,No Deposit,91-180 Days,3,225.0,75.0,1.0
+City Hotel,2016,November,Direct,Transient-Party,No Deposit,0-30 Days,1,89.0,89.0,1.0
+City Hotel,2016,November,Corporate,Transient-Party,No Deposit,91-180 Days,1,474.0,79.0,6.0
+City Hotel,2016,November,Offline TA/TO,Transient,No Deposit,91-180 Days,7,2932.9,88.17,4.86
+City Hotel,2016,November,Groups,Transient,Non Refund,181-365 Days,2,430.0,82.5,2.5
+City Hotel,2016,November,Corporate,Transient-Party,Non Refund,181-365 Days,5,1409.0,112.2,2.6
+City Hotel,2016,November,Offline TA/TO,Transient,No Deposit,0-30 Days,6,1653.3,93.12,3.33
+City Hotel,2016,November,Corporate,Transient-Party,No Deposit,0-30 Days,3,565.0,85.67,2.33
+City Hotel,2016,November,Aviation,Transient-Party,No Deposit,0-30 Days,1,95.0,95.0,1.0
+City Hotel,2016,November,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,2,324.0,87.0,2.0
+City Hotel,2016,November,Complementary,Transient,No Deposit,0-30 Days,1,0.0,0.0,2.0
+City Hotel,2016,November,Offline TA/TO,Transient,No Deposit,31-90 Days,5,1406.0,80.0,3.4
+City Hotel,2016,November,Complementary,Transient,No Deposit,31-90 Days,2,0.0,0.0,1.5
+City Hotel,2016,November,Online TA,Transient-Party,No Deposit,181-365 Days,4,1477.8,75.15,5.0
+City Hotel,2016,November,Offline TA/TO,Transient,No Deposit,181-365 Days,2,314.16,61.54,2.5
+City Hotel,2016,November,Corporate,Transient-Party,Refundable,91-180 Days,1,474.0,79.0,6.0
+City Hotel,2016,November,Corporate,Transient,No Deposit,31-90 Days,1,205.5,68.5,3.0
+City Hotel,2016,November,Groups,Transient,No Deposit,181-365 Days,2,431.0,142.0,1.5
+City Hotel,2016,November,Groups,Transient-Party,Non Refund,181-365 Days,1,294.0,147.0,2.0
+City Hotel,2016,November,Groups,Transient-Party,No Deposit,31-90 Days,7,1070.0,77.86,2.0
+City Hotel,2016,November,Groups,Transient,Non Refund,31-90 Days,3,810.0,90.0,3.0
+City Hotel,2016,November,Groups,Transient,Non Refund,91-180 Days,1,270.0,90.0,3.0
+City Hotel,2016,November,Groups,Transient-Party,No Deposit,0-30 Days,3,356.0,59.33,2.0
+City Hotel,2016,December,Groups,Transient,Non Refund,365+ Days,10,885.0,57.1,1.5
+City Hotel,2016,December,Online TA,Transient,No Deposit,31-90 Days,213,80121.23,103.93,3.74
+City Hotel,2016,December,Online TA,Transient,No Deposit,0-30 Days,158,67688.88,104.38,4.34
+City Hotel,2016,December,Online TA,Transient,No Deposit,181-365 Days,157,71170.74,90.79,4.98
+City Hotel,2016,December,Online TA,Transient,No Deposit,91-180 Days,115,44687.94,108.35,3.54
+City Hotel,2016,December,Offline TA/TO,Transient,No Deposit,181-365 Days,6,1908.7,80.35,4.17
+City Hotel,2016,December,Online TA,Transient-Party,No Deposit,181-365 Days,4,1226.45,69.24,4.5
+City Hotel,2016,December,Offline TA/TO,Transient,Non Refund,181-365 Days,3,358.0,59.67,2.0
+City Hotel,2016,December,Direct,Transient,No Deposit,31-90 Days,8,2530.05,97.73,3.38
+City Hotel,2016,December,Direct,Transient,No Deposit,0-30 Days,26,10038.01,120.96,3.73
+City Hotel,2016,December,Offline TA/TO,Transient-Party,No Deposit,181-365 Days,3,869.9,81.1,3.67
+City Hotel,2016,December,Corporate,Transient,No Deposit,0-30 Days,8,743.0,76.38,1.25
+City Hotel,2016,December,Offline TA/TO,Transient,No Deposit,31-90 Days,7,1803.68,94.9,2.86
+City Hotel,2016,December,Corporate,Transient-Party,Non Refund,181-365 Days,4,1272.0,106.0,3.0
+City Hotel,2016,December,Offline TA/TO,Transient,No Deposit,91-180 Days,2,549.95,80.33,3.5
+City Hotel,2016,December,Complementary,Transient,No Deposit,0-30 Days,3,0.0,0.0,0.67
+City Hotel,2016,December,Direct,Transient-Party,No Deposit,181-365 Days,2,510.0,63.75,4.0
+City Hotel,2016,December,Complementary,Transient-Party,No Deposit,0-30 Days,1,0.0,0.0,1.0
+City Hotel,2016,December,Direct,Transient-Party,No Deposit,31-90 Days,2,202.0,101.0,1.0
+City Hotel,2016,December,Groups,Transient,Non Refund,0-30 Days,2,985.02,75.84,6.5
+City Hotel,2016,December,Direct,Transient,No Deposit,181-365 Days,5,1552.74,87.37,3.6
+City Hotel,2016,December,Online TA,Transient,No Deposit,365+ Days,3,724.05,80.45,3.0
+City Hotel,2016,December,Direct,Transient,No Deposit,91-180 Days,1,243.5,121.75,2.0
+City Hotel,2016,December,Offline TA/TO,Transient,No Deposit,0-30 Days,2,305.0,72.5,2.0
+City Hotel,2016,December,Online TA,Transient-Party,No Deposit,91-180 Days,2,846.72,105.84,4.0
+City Hotel,2016,December,Groups,Transient-Party,No Deposit,0-30 Days,2,130.0,65.0,1.0
+City Hotel,2016,December,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,6,3519.22,170.2,3.67
+City Hotel,2016,December,Groups,Transient-Party,No Deposit,31-90 Days,3,1054.06,50.19,7.0
+City Hotel,2016,December,Groups,Transient,Non Refund,91-180 Days,1,460.02,76.67,6.0
+City Hotel,2017,January,Online TA,Transient,No Deposit,0-30 Days,164,89486.61,99.45,5.49
+City Hotel,2017,January,Online TA,Transient,No Deposit,31-90 Days,183,73844.33,94.69,4.28
+City Hotel,2017,January,Online TA,Transient,No Deposit,181-365 Days,57,19297.7,94.77,3.56
+City Hotel,2017,January,Groups,Transient-Party,No Deposit,31-90 Days,8,1376.0,69.25,2.5
+City Hotel,2017,January,Online TA,Transient,No Deposit,91-180 Days,77,33171.68,97.94,4.32
+City Hotel,2017,January,Direct,Transient,No Deposit,0-30 Days,8,2452.52,92.5,3.13
+City Hotel,2017,January,Groups,Transient,No Deposit,0-30 Days,1,180.0,60.0,3.0
+City Hotel,2017,January,Online TA,Transient-Party,No Deposit,181-365 Days,2,639.2,79.9,4.0
+City Hotel,2017,January,Direct,Transient,No Deposit,31-90 Days,8,4813.61,103.62,5.75
+City Hotel,2017,January,Groups,Transient,Non Refund,365+ Days,8,732.0,60.5,1.5
+City Hotel,2017,January,Groups,Transient-Party,No Deposit,0-30 Days,4,664.0,66.5,2.5
+City Hotel,2017,January,Direct,Transient,No Deposit,91-180 Days,2,630.9,105.15,3.0
+City Hotel,2017,January,Offline TA/TO,Transient,No Deposit,31-90 Days,3,1164.16,85.68,4.67
+City Hotel,2017,January,Offline TA/TO,Transient,No Deposit,0-30 Days,5,2169.12,103.66,4.0
+City Hotel,2017,January,Groups,Transient,Non Refund,91-180 Days,1,201.0,67.0,3.0
+City Hotel,2017,January,Groups,Transient,Non Refund,181-365 Days,1,201.0,67.0,3.0
+City Hotel,2017,January,Corporate,Transient-Party,No Deposit,0-30 Days,1,140.0,70.0,2.0
+City Hotel,2017,January,Corporate,Transient,Non Refund,31-90 Days,2,150.0,75.0,1.0
+City Hotel,2017,January,Aviation,Transient,No Deposit,0-30 Days,1,395.0,79.0,5.0
+City Hotel,2017,January,Direct,Transient,No Deposit,181-365 Days,1,67.15,67.15,1.0
+City Hotel,2017,January,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,1,75.0,75.0,1.0
+City Hotel,2017,January,Groups,Transient,Non Refund,31-90 Days,6,956.0,79.67,2.0
+City Hotel,2017,January,Offline TA/TO,Transient,Non Refund,31-90 Days,2,390.0,65.0,3.0
+City Hotel,2017,January,Complementary,Transient,No Deposit,0-30 Days,1,0.0,0.0,2.0
+City Hotel,2017,January,Corporate,Transient,No Deposit,0-30 Days,3,344.0,70.67,1.67
+City Hotel,2017,February,Offline TA/TO,Group,No Deposit,0-30 Days,1,45.0,45.0,1.0
+City Hotel,2017,February,Online TA,Transient,No Deposit,0-30 Days,178,73260.36,109.08,3.89
+City Hotel,2017,February,Online TA,Transient,No Deposit,31-90 Days,221,85409.94,101.12,3.83
+City Hotel,2017,February,Groups,Transient,Non Refund,31-90 Days,7,1150.0,73.57,2.29
+City Hotel,2017,February,Online TA,Transient,No Deposit,181-365 Days,44,16040.4,92.14,4.14
+City Hotel,2017,February,Direct,Transient-Party,No Deposit,91-180 Days,1,1373.4,98.1,14.0
+City Hotel,2017,February,Groups,Transient,Non Refund,365+ Days,8,732.0,60.5,1.5
+City Hotel,2017,February,Online TA,Transient,No Deposit,91-180 Days,72,28616.01,99.62,3.99
+City Hotel,2017,February,Direct,Transient,No Deposit,91-180 Days,2,831.25,81.38,5.0
+City Hotel,2017,February,Complementary,Transient,No Deposit,0-30 Days,2,0.0,0.0,1.0
+City Hotel,2017,February,Direct,Transient,No Deposit,0-30 Days,16,6817.7,89.78,3.25
+City Hotel,2017,February,Offline TA/TO,Transient,No Deposit,0-30 Days,4,1381.0,86.66,4.0
+City Hotel,2017,February,Groups,Transient-Party,No Deposit,0-30 Days,6,1200.0,62.5,3.17
+City Hotel,2017,February,Direct,Transient,No Deposit,181-365 Days,5,1531.0,76.55,4.0
+City Hotel,2017,February,Offline TA/TO,Transient,No Deposit,91-180 Days,1,300.0,75.0,4.0
+City Hotel,2017,February,Direct,Transient,No Deposit,31-90 Days,5,1565.8,89.6,3.4
+City Hotel,2017,February,Groups,Transient-Party,No Deposit,31-90 Days,4,572.0,52.0,3.0
+City Hotel,2017,February,Direct,Transient-Party,No Deposit,0-30 Days,2,2481.96,103.41,12.0
+City Hotel,2017,February,Offline TA/TO,Transient,Non Refund,0-30 Days,1,190.0,95.0,2.0
+City Hotel,2017,February,Offline TA/TO,Transient,Non Refund,31-90 Days,2,502.0,86.5,3.0
+City Hotel,2017,February,Offline TA/TO,Contract,No Deposit,0-30 Days,3,816.0,68.0,4.0
+City Hotel,2017,February,Offline TA/TO,Transient,No Deposit,181-365 Days,1,68.0,68.0,1.0
+City Hotel,2017,February,Corporate,Group,No Deposit,0-30 Days,1,80.0,80.0,1.0
+City Hotel,2017,February,Corporate,Transient,No Deposit,0-30 Days,3,318.4,79.47,1.33
+City Hotel,2017,February,Offline TA/TO,Transient,Non Refund,181-365 Days,1,312.0,78.0,4.0
+City Hotel,2017,February,Corporate,Transient-Party,No Deposit,0-30 Days,1,62.4,62.4,1.0
+City Hotel,2017,February,Groups,Transient-Party,No Deposit,91-180 Days,4,300.0,75.0,1.0
+City Hotel,2017,February,Offline TA/TO,Transient,No Deposit,31-90 Days,1,225.0,75.0,3.0
+City Hotel,2017,February,Groups,Transient,No Deposit,0-30 Days,1,480.0,60.0,8.0
+City Hotel,2017,March,Direct,Transient,No Deposit,0-30 Days,21,6304.0,81.63,2.81
+City Hotel,2017,March,Offline TA/TO,Transient,No Deposit,91-180 Days,4,1006.75,67.94,3.75
+City Hotel,2017,March,Online TA,Transient,No Deposit,0-30 Days,132,51504.21,115.16,3.22
+City Hotel,2017,March,Online TA,Transient,No Deposit,31-90 Days,268,116287.75,109.68,3.85
+City Hotel,2017,March,Online TA,Transient,No Deposit,181-365 Days,63,21716.74,90.8,3.78
+City Hotel,2017,March,Groups,Transient,Non Refund,365+ Days,10,915.0,60.5,1.5
+City Hotel,2017,March,Online TA,Transient,No Deposit,91-180 Days,140,46640.44,95.38,3.53
+City Hotel,2017,March,Groups,Transient,Non Refund,0-30 Days,3,475.0,95.0,1.67
+City Hotel,2017,March,Groups,Transient,Non Refund,31-90 Days,3,725.0,105.0,2.33
+City Hotel,2017,March,Offline TA/TO,Transient,No Deposit,31-90 Days,15,3496.6,77.53,2.93
+City Hotel,2017,March,Groups,Transient-Party,No Deposit,91-180 Days,1,360.0,90.0,4.0
+City Hotel,2017,March,Offline TA/TO,Transient,No Deposit,0-30 Days,9,1743.42,74.51,2.67
+City Hotel,2017,March,Groups,Transient-Party,No Deposit,0-30 Days,9,1723.0,111.22,2.0
+City Hotel,2017,March,Direct,Transient,No Deposit,31-90 Days,6,2125.4,88.72,4.0
+City Hotel,2017,March,Corporate,Transient,No Deposit,0-30 Days,2,460.0,87.5,2.5
+City Hotel,2017,March,Groups,Transient-Party,No Deposit,31-90 Days,2,456.0,76.0,3.0
+City Hotel,2017,March,Groups,Transient,Non Refund,91-180 Days,4,830.0,82.5,2.5
+City Hotel,2017,March,Corporate,Transient-Party,No Deposit,181-365 Days,2,1440.0,90.0,8.0
+City Hotel,2017,March,Offline TA/TO,Transient,Non Refund,31-90 Days,3,595.0,85.0,2.33
+City Hotel,2017,March,Offline TA/TO,Transient,Non Refund,91-180 Days,5,935.0,85.0,2.2
+City Hotel,2017,March,Offline TA/TO,Contract,No Deposit,31-90 Days,2,408.0,68.0,3.0
+City Hotel,2017,March,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,3,520.0,65.0,2.67
+City Hotel,2017,March,Corporate,Transient-Party,No Deposit,0-30 Days,1,130.0,65.0,2.0
+City Hotel,2017,March,Corporate,Transient,No Deposit,31-90 Days,2,447.0,81.0,2.5
+City Hotel,2017,March,Direct,Transient-Party,No Deposit,0-30 Days,1,196.0,98.0,2.0
+City Hotel,2017,March,Aviation,Transient,No Deposit,0-30 Days,1,190.0,95.0,2.0
+City Hotel,2017,March,Offline TA/TO,Transient,Non Refund,181-365 Days,1,270.0,90.0,3.0
+City Hotel,2017,March,Groups,Transient-Party,No Deposit,181-365 Days,2,544.5,90.75,3.0
+City Hotel,2017,March,Direct,Transient,No Deposit,91-180 Days,2,629.76,89.72,3.5
+City Hotel,2017,April,Online TA,Transient,No Deposit,91-180 Days,282,133734.36,132.45,3.53
+City Hotel,2017,April,Online TA,Transient,No Deposit,31-90 Days,262,132003.89,145.75,3.42
+City Hotel,2017,April,Groups,Transient-Party,No Deposit,91-180 Days,4,1242.0,96.0,3.25
+City Hotel,2017,April,Groups,Transient-Party,No Deposit,181-365 Days,3,614.0,86.0,2.33
+City Hotel,2017,April,Online TA,Transient,No Deposit,181-365 Days,172,76712.48,121.3,3.68
+City Hotel,2017,April,Online TA,Transient,No Deposit,0-30 Days,130,54367.91,154.14,2.67
+City Hotel,2017,April,Offline TA/TO,Transient,No Deposit,31-90 Days,6,2789.2,115.13,4.0
+City Hotel,2017,April,Offline TA/TO,Contract,No Deposit,31-90 Days,2,592.0,74.0,4.0
+City Hotel,2017,April,Groups,Transient-Party,No Deposit,31-90 Days,4,1287.0,65.25,4.25
+City Hotel,2017,April,Direct,Transient,No Deposit,0-30 Days,13,4202.87,125.81,2.38
+City Hotel,2017,April,Groups,Transient,Non Refund,91-180 Days,13,3230.0,99.23,2.54
+City Hotel,2017,April,Groups,Transient,Non Refund,181-365 Days,6,1750.0,96.67,3.0
+City Hotel,2017,April,Groups,Transient,Non Refund,31-90 Days,9,2920.0,112.22,2.89
+City Hotel,2017,April,Direct,Transient,No Deposit,91-180 Days,8,5231.77,147.32,4.5
+City Hotel,2017,April,Aviation,Transient,No Deposit,0-30 Days,3,1248.0,113.17,3.67
+City Hotel,2017,April,Offline TA/TO,Transient,Non Refund,365+ Days,7,1290.0,87.14,2.14
+City Hotel,2017,April,Offline TA/TO,Transient,Non Refund,91-180 Days,15,5038.0,99.47,3.33
+City Hotel,2017,April,Complementary,Transient,No Deposit,0-30 Days,3,0.0,0.0,0.67
+City Hotel,2017,April,Offline TA/TO,Transient,No Deposit,0-30 Days,3,390.5,130.17,1.0
+City Hotel,2017,April,Corporate,Transient-Party,No Deposit,31-90 Days,2,640.0,105.0,3.0
+City Hotel,2017,April,Corporate,Transient,No Deposit,31-90 Days,2,380.0,95.0,2.0
+City Hotel,2017,April,Groups,Transient-Party,No Deposit,0-30 Days,1,18.0,6.0,3.0
+City Hotel,2017,April,Direct,Transient,No Deposit,31-90 Days,12,7808.0,151.25,4.42
+City Hotel,2017,April,Corporate,Transient,Non Refund,31-90 Days,2,510.0,85.0,3.0
+City Hotel,2017,April,Complementary,Transient,No Deposit,31-90 Days,1,0.0,0.0,1.0
+City Hotel,2017,April,Offline TA/TO,Transient,No Deposit,91-180 Days,6,2529.7,89.68,4.67
+City Hotel,2017,April,Corporate,Transient,No Deposit,0-30 Days,4,380.0,95.0,1.0
+City Hotel,2017,April,Direct,Transient,No Deposit,181-365 Days,4,1299.5,98.75,3.25
+City Hotel,2017,April,Offline TA/TO,Transient-Party,No Deposit,181-365 Days,2,570.0,82.5,3.5
+City Hotel,2017,April,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,5,2480.0,104.0,4.8
+City Hotel,2017,April,Online TA,Transient,Refundable,0-30 Days,1,365.01,121.67,3.0
+City Hotel,2017,April,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,5,1905.0,91.0,4.2
+City Hotel,2017,April,Online TA,Transient,Refundable,91-180 Days,1,198.0,99.0,2.0
+City Hotel,2017,April,Direct,Transient,Non Refund,0-30 Days,4,410.4,102.6,1.0
+City Hotel,2017,April,Direct,Transient-Party,No Deposit,91-180 Days,1,400.0,100.0,4.0
+City Hotel,2017,April,Offline TA/TO,Group,No Deposit,0-30 Days,1,95.0,95.0,1.0
+City Hotel,2017,April,Offline TA/TO,Transient,Non Refund,181-365 Days,2,750.0,105.0,3.5
+City Hotel,2017,May,Online TA,Transient,No Deposit,31-90 Days,196,112310.08,165.72,3.42
+City Hotel,2017,May,Online TA,Transient,No Deposit,0-30 Days,165,82696.77,166.75,2.87
+City Hotel,2017,May,Offline TA/TO,Transient,No Deposit,31-90 Days,19,8028.71,107.4,3.68
+City Hotel,2017,May,Online TA,Transient,No Deposit,181-365 Days,208,92231.23,127.12,3.45
+City Hotel,2017,May,Direct,Transient,No Deposit,181-365 Days,5,2519.6,120.91,4.0
+City Hotel,2017,May,Online TA,Transient,No Deposit,91-180 Days,297,141876.31,137.8,3.47
+City Hotel,2017,May,Offline TA/TO,Transient,No Deposit,91-180 Days,18,5731.42,92.35,3.44
+City Hotel,2017,May,Offline TA/TO,Transient,No Deposit,0-30 Days,8,2385.1,108.46,2.75
+City Hotel,2017,May,Groups,Transient,Non Refund,91-180 Days,23,8170.0,124.57,2.78
+City Hotel,2017,May,Direct,Transient,No Deposit,31-90 Days,12,5491.89,159.92,3.17
+City Hotel,2017,May,Groups,Transient,Non Refund,181-365 Days,17,5570.0,117.06,2.76
+City Hotel,2017,May,Direct,Transient,No Deposit,91-180 Days,17,8736.79,142.46,3.47
+City Hotel,2017,May,Groups,Transient-Party,No Deposit,31-90 Days,12,3145.01,111.97,2.42
+City Hotel,2017,May,Direct,Transient,No Deposit,0-30 Days,18,7887.04,150.48,2.39
+City Hotel,2017,May,Groups,Transient,Non Refund,31-90 Days,5,990.0,122.0,1.6
+City Hotel,2017,May,Offline TA/TO,Transient-Party,No Deposit,181-365 Days,10,1880.6,88.87,2.1
+City Hotel,2017,May,Groups,Transient-Party,No Deposit,181-365 Days,7,1520.4,81.46,2.57
+City Hotel,2017,May,Offline TA/TO,Transient,Non Refund,365+ Days,4,690.0,87.5,2.0
+City Hotel,2017,May,Corporate,Transient,No Deposit,0-30 Days,6,770.0,86.67,1.17
+City Hotel,2017,May,Groups,Transient-Party,No Deposit,0-30 Days,10,2430.0,120.0,2.0
+City Hotel,2017,May,Groups,Transient,No Deposit,0-30 Days,1,510.0,127.5,4.0
+City Hotel,2017,May,Online TA,Transient,Refundable,31-90 Days,1,861.3,172.26,5.0
+City Hotel,2017,May,Groups,Transient,Non Refund,0-30 Days,2,180.0,90.0,1.0
+City Hotel,2017,May,Offline TA/TO,Transient,No Deposit,181-365 Days,4,347.4,86.85,1.0
+City Hotel,2017,May,Corporate,Transient-Party,No Deposit,0-30 Days,2,440.0,110.0,2.0
+City Hotel,2017,May,Offline TA/TO,Transient,Non Refund,181-365 Days,3,1154.2,113.8,3.33
+City Hotel,2017,May,Direct,Transient-Party,No Deposit,31-90 Days,1,94.4,23.6,4.0
+City Hotel,2017,May,Online TA,Transient,No Deposit,365+ Days,1,416.0,104.0,4.0
+City Hotel,2017,May,Offline TA/TO,Transient,Non Refund,91-180 Days,9,3950.2,154.49,2.89
+City Hotel,2017,May,Offline TA/TO,Transient-Party,Non Refund,365+ Days,1,90.0,90.0,1.0
+City Hotel,2017,May,Complementary,Transient,No Deposit,0-30 Days,3,0.0,0.0,1.33
+City Hotel,2017,May,Offline TA/TO,Transient-Party,No Deposit,365+ Days,1,270.0,90.0,3.0
+City Hotel,2017,May,Corporate,Group,No Deposit,0-30 Days,2,905.0,295.0,1.5
+City Hotel,2017,May,Groups,Transient,Non Refund,365+ Days,5,960.0,88.0,2.2
+City Hotel,2017,May,Offline TA/TO,Transient,Non Refund,0-30 Days,2,652.0,113.5,3.0
+City Hotel,2017,May,Direct,Transient-Party,No Deposit,0-30 Days,1,288.0,144.0,2.0
+City Hotel,2017,May,Offline TA/TO,Transient,Non Refund,31-90 Days,3,796.0,132.67,2.0
+City Hotel,2017,May,Aviation,Transient,No Deposit,0-30 Days,1,95.0,95.0,1.0
+City Hotel,2017,May,Groups,Transient-Party,No Deposit,365+ Days,2,608.01,101.34,3.0
+City Hotel,2017,June,Online TA,Transient,No Deposit,91-180 Days,285,137209.25,142.99,3.4
+City Hotel,2017,June,Online TA,Transient,No Deposit,0-30 Days,89,35274.42,154.46,2.48
+City Hotel,2017,June,Groups,Transient,Non Refund,91-180 Days,15,5270.0,124.0,2.8
+City Hotel,2017,June,Groups,Transient,Non Refund,181-365 Days,20,7115.0,110.25,3.15
+City Hotel,2017,June,Online TA,Transient,No Deposit,31-90 Days,197,96944.44,151.9,3.26
+City Hotel,2017,June,Direct,Transient,No Deposit,91-180 Days,28,11381.17,139.64,2.96
+City Hotel,2017,June,Online TA,Transient,No Deposit,181-365 Days,118,67874.86,132.4,4.35
+City Hotel,2017,June,Direct,Transient,No Deposit,0-30 Days,18,18845.19,190.21,4.83
+City Hotel,2017,June,Complementary,Transient,No Deposit,0-30 Days,3,0.0,0.0,1.0
+City Hotel,2017,June,Groups,Transient-Party,No Deposit,181-365 Days,4,1390.0,100.0,3.5
+City Hotel,2017,June,Offline TA/TO,Transient,No Deposit,91-180 Days,14,4763.1,89.84,3.79
+City Hotel,2017,June,Direct,Transient,No Deposit,31-90 Days,17,10884.5,174.25,3.35
+City Hotel,2017,June,Groups,Transient,No Deposit,181-365 Days,1,90.0,90.0,1.0
+City Hotel,2017,June,Offline TA/TO,Transient,No Deposit,31-90 Days,12,3166.99,95.46,2.75
+City Hotel,2017,June,Offline TA/TO,Transient,Non Refund,181-365 Days,10,3385.0,121.0,2.8
+City Hotel,2017,June,Groups,Transient-Party,No Deposit,365+ Days,4,810.0,67.5,3.0
+City Hotel,2017,June,Groups,Transient-Party,No Deposit,91-180 Days,4,718.01,123.17,1.5
+City Hotel,2017,June,Groups,Transient-Party,No Deposit,0-30 Days,1,338.01,112.67,3.0
+City Hotel,2017,June,Offline TA/TO,Transient,No Deposit,181-365 Days,3,1649.7,95.7,5.67
+City Hotel,2017,June,Aviation,Transient,No Deposit,0-30 Days,12,3303.0,106.92,2.67
+City Hotel,2017,June,Offline TA/TO,Transient-Party,No Deposit,181-365 Days,5,905.52,76.78,2.4
+City Hotel,2017,June,Offline TA/TO,Transient,No Deposit,0-30 Days,6,1093.0,116.17,1.67
+City Hotel,2017,June,Groups,Transient,No Deposit,91-180 Days,1,267.3,89.1,3.0
+City Hotel,2017,June,Groups,Transient-Party,Non Refund,365+ Days,1,90.0,90.0,1.0
+City Hotel,2017,June,Groups,Transient,Non Refund,365+ Days,5,780.0,88.0,1.8
+City Hotel,2017,June,Corporate,Transient,No Deposit,0-30 Days,4,495.0,93.75,1.25
+City Hotel,2017,June,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,1,130.0,130.0,1.0
+City Hotel,2017,June,Offline TA/TO,Transient,Non Refund,0-30 Days,1,333.0,166.5,2.0
+City Hotel,2017,June,Offline TA/TO,Transient,Non Refund,91-180 Days,8,2365.0,122.5,2.38
+City Hotel,2017,June,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,4,1500.0,100.25,3.75
+City Hotel,2017,June,Online TA,Transient,Non Refund,0-30 Days,1,97.58,97.58,1.0
+City Hotel,2017,June,Groups,Transient-Party,No Deposit,31-90 Days,2,470.0,92.5,2.5
+City Hotel,2017,June,Direct,Transient-Party,No Deposit,31-90 Days,1,683.5,136.7,5.0
+City Hotel,2017,June,Corporate,Transient,Non Refund,181-365 Days,2,920.0,115.0,4.0
+City Hotel,2017,June,Corporate,Transient,Non Refund,91-180 Days,1,440.0,110.0,4.0
+City Hotel,2017,June,Direct,Transient,No Deposit,181-365 Days,2,846.0,106.5,4.0
+City Hotel,2017,June,Offline TA/TO,Transient-Party,No Deposit,365+ Days,2,404.8,101.2,2.0
+City Hotel,2017,June,Corporate,Transient-Party,No Deposit,0-30 Days,5,700.0,100.0,1.4
+City Hotel,2017,June,Online TA,Transient-Party,No Deposit,0-30 Days,2,532.8,133.2,2.0
+City Hotel,2017,July,Online TA,Transient,No Deposit,91-180 Days,291,156743.51,136.29,3.92
+City Hotel,2017,July,Online TA,Transient,No Deposit,181-365 Days,289,149977.63,121.45,4.18
+City Hotel,2017,July,Online TA,Transient,No Deposit,0-30 Days,118,46871.78,149.84,2.59
+City Hotel,2017,July,Direct,Transient,No Deposit,181-365 Days,10,5359.64,143.69,3.3
+City Hotel,2017,July,Online TA,Transient-Party,No Deposit,181-365 Days,2,593.1,98.85,3.0
+City Hotel,2017,July,Groups,Transient-Party,No Deposit,365+ Days,4,1118.01,93.17,3.0
+City Hotel,2017,July,Offline TA/TO,Transient,No Deposit,31-90 Days,10,1426.7,83.93,1.7
+City Hotel,2017,July,Online TA,Transient,No Deposit,31-90 Days,157,76643.33,154.79,3.13
+City Hotel,2017,July,Direct,Transient,No Deposit,91-180 Days,13,8539.96,145.02,4.46
+City Hotel,2017,July,Offline TA/TO,Transient,No Deposit,91-180 Days,22,10007.7,87.39,5.05
+City Hotel,2017,July,Corporate,Transient,No Deposit,0-30 Days,7,605.0,77.14,1.14
+City Hotel,2017,July,Offline TA/TO,Transient,Non Refund,365+ Days,5,780.0,88.0,1.8
+City Hotel,2017,July,Offline TA/TO,Transient-Party,No Deposit,365+ Days,14,3578.03,94.72,2.64
+City Hotel,2017,July,Groups,Transient-Party,No Deposit,0-30 Days,1,160.0,80.0,2.0
+City Hotel,2017,July,Offline TA/TO,Transient,No Deposit,181-365 Days,5,1505.0,92.26,3.2
+City Hotel,2017,July,Groups,Transient,Non Refund,91-180 Days,1,140.0,140.0,1.0
+City Hotel,2017,July,Corporate,Transient-Party,No Deposit,0-30 Days,2,199.0,99.5,1.0
+City Hotel,2017,July,Direct,Transient,No Deposit,365+ Days,1,636.0,159.0,4.0
+City Hotel,2017,July,Corporate,Transient,No Deposit,31-90 Days,1,80.0,80.0,1.0
+City Hotel,2017,July,Direct,Transient,No Deposit,0-30 Days,7,1860.0,163.78,1.86
+City Hotel,2017,July,Aviation,Transient,No Deposit,0-30 Days,1,190.0,95.0,2.0
+City Hotel,2017,July,Groups,Transient,Non Refund,181-365 Days,8,3300.0,110.0,3.75
+City Hotel,2017,July,Groups,Transient,Non Refund,365+ Days,2,360.0,90.0,2.0
+City Hotel,2017,July,Direct,Transient,No Deposit,31-90 Days,6,2437.99,139.6,2.83
+City Hotel,2017,July,Online TA,Transient,Refundable,0-30 Days,2,748.01,146.33,2.5
+City Hotel,2017,July,Direct,Transient-Party,No Deposit,0-30 Days,1,160.0,80.0,2.0
+City Hotel,2017,July,Online TA,Transient,Non Refund,0-30 Days,1,135.0,135.0,1.0
+City Hotel,2017,July,Offline TA/TO,Transient,No Deposit,0-30 Days,1,659.2,164.8,4.0
+City Hotel,2017,July,Direct,Transient,Refundable,31-90 Days,1,279.0,139.5,2.0
+City Hotel,2017,July,Online TA,Transient,Refundable,91-180 Days,1,400.0,100.0,4.0
+City Hotel,2017,July,Direct,Transient-Party,No Deposit,91-180 Days,2,2205.0,122.5,9.0
+City Hotel,2017,July,Online TA,Transient,Refundable,181-365 Days,1,1953.0,139.5,14.0
+City Hotel,2017,August,Groups,Transient,Non Refund,365+ Days,1,90.0,90.0,1.0
+City Hotel,2017,August,Online TA,Transient,No Deposit,0-30 Days,78,36728.87,175.11,2.58
+City Hotel,2017,August,Direct,Transient,No Deposit,0-30 Days,22,7612.4,134.25,2.23
+City Hotel,2017,August,Online TA,Transient,No Deposit,31-90 Days,170,90307.27,164.37,3.22
+City Hotel,2017,August,Online TA,Transient,No Deposit,181-365 Days,282,163599.26,133.62,4.34
+City Hotel,2017,August,Online TA,Transient,No Deposit,91-180 Days,305,195462.29,154.84,4.12
+City Hotel,2017,August,Direct,Transient,No Deposit,91-180 Days,20,12590.24,146.14,4.25
+City Hotel,2017,August,Online TA,Transient,Refundable,91-180 Days,1,838.8,209.7,4.0
+City Hotel,2017,August,Offline TA/TO,Transient,No Deposit,181-365 Days,9,4950.73,101.75,5.33
+City Hotel,2017,August,Groups,Transient-Party,No Deposit,181-365 Days,3,902.0,106.42,3.0
+City Hotel,2017,August,Groups,Transient-Party,No Deposit,0-30 Days,3,323.6,107.87,1.0
+City Hotel,2017,August,Offline TA/TO,Transient,No Deposit,91-180 Days,18,6724.48,87.84,4.33
+City Hotel,2017,August,Direct,Transient-Party,No Deposit,31-90 Days,2,2912.0,112.0,13.0
+City Hotel,2017,August,Online TA,Transient,No Deposit,365+ Days,1,237.5,118.75,2.0
+City Hotel,2017,August,Direct,Transient,No Deposit,31-90 Days,13,4937.57,140.44,2.62
+City Hotel,2017,August,Offline TA/TO,Transient,No Deposit,0-30 Days,1,144.5,144.5,1.0
+City Hotel,2017,August,Direct,Transient,No Deposit,181-365 Days,9,3791.42,128.88,3.33
+City Hotel,2017,August,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,2,428.01,101.34,2.0
+City Hotel,2017,August,Offline TA/TO,Transient,Non Refund,365+ Days,3,270.0,90.0,1.0
+City Hotel,2017,August,Groups,Transient-Party,No Deposit,91-180 Days,1,114.75,114.75,1.0
+City Hotel,2017,August,Aviation,Transient,No Deposit,0-30 Days,1,160.0,80.0,2.0
+City Hotel,2017,August,Offline TA/TO,Transient-Party,No Deposit,365+ Days,12,2996.03,91.01,2.67
+City Hotel,2017,August,Offline TA/TO,Transient,No Deposit,31-90 Days,2,1373.4,98.1,7.0
+City Hotel,2017,August,Offline TA/TO,Transient,Non Refund,181-365 Days,1,360.0,90.0,4.0
+City Hotel,2017,August,Offline TA/TO,Transient-Party,No Deposit,91-180 Days,5,2025.0,117.0,3.4
+City Hotel,2017,August,Direct,Group,No Deposit,0-30 Days,1,318.0,318.0,1.0
+City Hotel,2017,August,Groups,Transient,Non Refund,91-180 Days,1,280.0,140.0,2.0
+City Hotel,2017,August,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,1,130.0,130.0,1.0
+City Hotel,2017,August,Offline TA/TO,Transient,No Deposit,365+ Days,1,240.3,80.1,3.0
+City Hotel,2015,July,Groups,Transient-Party,No Deposit,181-365 Days,13,2230.4,62.18,2.77
+City Hotel,2015,August,Groups,Transient-Party,No Deposit,181-365 Days,13,2705.6,61.69,3.38
+City Hotel,2015,July,Groups,Contract,No Deposit,181-365 Days,9,1116.0,62.0,2.0
+City Hotel,2015,September,Groups,Transient-Party,No Deposit,181-365 Days,9,1903.6,61.6,3.44
+City Hotel,2015,July,Groups,Contract,Non Refund,181-365 Days,2,248.0,62.0,2.0
+City Hotel,2015,August,Groups,Contract,Non Refund,181-365 Days,9,1116.0,62.0,2.0
+City Hotel,2015,September,Groups,Contract,Non Refund,181-365 Days,8,992.0,62.0,2.0
+City Hotel,2015,October,Groups,Contract,Non Refund,181-365 Days,5,620.0,62.0,2.0
+City Hotel,2015,October,Groups,Contract,Non Refund,365+ Days,3,372.0,62.0,2.0
+City Hotel,2015,July,Online TA,Transient-Party,No Deposit,181-365 Days,4,994.5,76.5,3.25
+City Hotel,2015,October,Groups,Transient,Non Refund,181-365 Days,6,729.6,60.8,2.0
+City Hotel,2015,September,Offline TA/TO,Transient,Non Refund,181-365 Days,8,1353.0,66.13,2.38
+City Hotel,2015,August,Offline TA/TO,Transient,No Deposit,181-365 Days,1,186.18,93.09,2.0
+City Hotel,2015,August,Online TA,Transient,No Deposit,181-365 Days,4,1768.72,71.37,6.25
+City Hotel,2015,October,Groups,Transient,No Deposit,181-365 Days,2,150.0,25.0,3.0
+City Hotel,2015,August,Groups,Transient,No Deposit,91-180 Days,3,48.0,8.0,2.33
+City Hotel,2015,September,Offline TA/TO,Transient-Party,Non Refund,181-365 Days,5,861.0,98.1,1.8
+City Hotel,2015,October,Offline TA/TO,Transient-Party,Non Refund,181-365 Days,5,861.0,98.1,1.8
+City Hotel,2015,September,Online TA,Transient-Party,No Deposit,181-365 Days,3,1045.5,86.42,4.0
+City Hotel,2015,September,Online TA,Transient,No Deposit,181-365 Days,4,1695.75,89.25,4.75
+City Hotel,2015,July,Online TA,Transient,No Deposit,181-365 Days,9,3978.76,75.89,5.78
+City Hotel,2015,September,Offline TA/TO,Transient,No Deposit,181-365 Days,4,486.39,52.53,2.25
+City Hotel,2015,September,Groups,Transient,Non Refund,181-365 Days,10,5090.0,151.0,3.2
+City Hotel,2015,July,Groups,Transient,No Deposit,91-180 Days,10,1418.0,61.05,2.4
+City Hotel,2015,August,Direct,Transient-Party,No Deposit,91-180 Days,1,180.0,90.0,2.0
+City Hotel,2015,July,Offline TA/TO,Transient,No Deposit,181-365 Days,2,449.0,91.75,2.5
+City Hotel,2015,July,Groups,Transient-Party,Non Refund,181-365 Days,15,2052.0,64.27,2.13
+City Hotel,2015,August,Groups,Transient-Party,Non Refund,181-365 Days,14,1708.0,61.0,2.0
+City Hotel,2015,September,Groups,Transient-Party,Non Refund,181-365 Days,9,1234.0,63.78,2.11
+City Hotel,2015,October,Groups,Transient-Party,Non Refund,181-365 Days,3,502.0,69.33,2.33
+City Hotel,2015,August,Offline TA/TO,Transient-Party,Non Refund,181-365 Days,1,203.0,101.5,2.0
+City Hotel,2015,July,Offline TA/TO,Transient-Party,No Deposit,181-365 Days,1,203.0,101.5,2.0
+City Hotel,2015,July,Groups,Transient-Party,Non Refund,91-180 Days,1,258.0,86.0,3.0
+City Hotel,2015,August,Groups,Transient-Party,Non Refund,91-180 Days,2,516.0,86.0,3.0
+City Hotel,2015,October,Groups,Transient,Non Refund,365+ Days,2,244.0,61.0,2.0
+City Hotel,2015,December,Groups,Transient,Non Refund,365+ Days,2,366.0,61.0,3.0
+City Hotel,2015,October,Complementary,Transient,No Deposit,0-30 Days,5,0.0,0.0,1.2
+City Hotel,2015,August,Online TA,Transient-Party,No Deposit,181-365 Days,1,153.0,76.5,2.0
+City Hotel,2015,October,Corporate,Transient,No Deposit,0-30 Days,5,649.5,80.7,1.4
+City Hotel,2015,November,Groups,Transient,Non Refund,181-365 Days,1,188.4,62.8,3.0
+City Hotel,2015,November,Complementary,Transient,No Deposit,0-30 Days,4,0.0,0.0,1.25
+City Hotel,2015,September,Corporate,Group,No Deposit,0-30 Days,1,152.0,152.0,1.0
+City Hotel,2015,October,Online TA,Contract,No Deposit,0-30 Days,41,16510.26,130.67,3.05
+City Hotel,2015,November,Offline TA/TO,Transient,No Deposit,31-90 Days,4,923.99,63.83,3.5
+City Hotel,2015,September,Corporate,Transient,Non Refund,0-30 Days,4,760.0,95.0,2.0
+City Hotel,2015,December,Online TA,Transient,No Deposit,31-90 Days,24,13054.0,105.38,5.46
+City Hotel,2015,October,Offline TA/TO,Transient,Non Refund,0-30 Days,2,510.0,85.0,3.0
+City Hotel,2015,October,Direct,Transient,No Deposit,0-30 Days,21,6001.94,120.85,2.33
+City Hotel,2015,September,Online TA,Group,No Deposit,0-30 Days,2,938.63,150.92,3.5
+City Hotel,2015,September,Groups,Transient,Non Refund,0-30 Days,4,760.0,190.0,1.0
+City Hotel,2015,October,Groups,Transient,Non Refund,0-30 Days,5,1266.0,81.2,3.0
+City Hotel,2015,October,Offline TA/TO,Transient,Non Refund,31-90 Days,1,210.0,70.0,3.0
+City Hotel,2015,October,Groups,Transient-Party,No Deposit,0-30 Days,4,1058.7,88.23,3.0
+City Hotel,2016,January,Online TA,Contract,No Deposit,91-180 Days,4,1713.57,101.38,4.25
+City Hotel,2015,October,Online TA,Transient-Party,No Deposit,181-365 Days,1,178.5,89.25,2.0
+City Hotel,2015,October,Direct,Transient-Party,No Deposit,0-30 Days,1,85.5,85.5,1.0
+City Hotel,2016,July,Corporate,Transient,No Deposit,31-90 Days,1,65.0,65.0,1.0
+City Hotel,2015,October,Offline TA/TO,Group,No Deposit,0-30 Days,3,1020.0,181.67,2.33
+City Hotel,2015,December,Online TA,Contract,No Deposit,31-90 Days,21,11387.82,114.74,4.76
+City Hotel,2015,November,Online TA,Contract,No Deposit,0-30 Days,21,7947.64,96.33,4.0
+City Hotel,2015,November,Direct,Transient,No Deposit,0-30 Days,14,7799.96,84.36,6.21
+City Hotel,2015,November,Online TA,Transient,No Deposit,0-30 Days,13,5824.58,96.53,4.77
+City Hotel,2015,October,Complementary,Transient,No Deposit,31-90 Days,1,0.0,0.0,1.0
+City Hotel,2015,December,Complementary,Transient,No Deposit,0-30 Days,1,0.0,0.0,1.0
+City Hotel,2016,January,Online TA,Contract,No Deposit,31-90 Days,3,1817.9,105.69,6.0
+City Hotel,2016,December,Offline TA/TO,Transient,Non Refund,365+ Days,1,225.0,75.0,3.0
+City Hotel,2016,February,Online TA,Contract,No Deposit,91-180 Days,6,1631.4,87.1,3.17
+City Hotel,2016,January,Groups,Transient,Non Refund,91-180 Days,1,140.0,70.0,2.0
+City Hotel,2015,November,Corporate,Transient,Non Refund,0-30 Days,1,190.0,95.0,2.0
+City Hotel,2016,April,Corporate,Transient-Party,No Deposit,31-90 Days,2,130.0,65.0,1.0
+City Hotel,2015,November,Corporate,Transient,No Deposit,0-30 Days,6,390.0,65.0,1.0
+City Hotel,2015,December,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,1,210.0,70.0,3.0
+City Hotel,2015,December,Offline TA/TO,Transient,Non Refund,31-90 Days,3,580.0,96.67,2.0
+City Hotel,2015,November,Offline TA/TO,Transient-Party,No Deposit,31-90 Days,2,292.0,73.0,2.0
+City Hotel,2016,November,Online TA,Group,No Deposit,181-365 Days,1,91.0,91.0,1.0
+City Hotel,2015,December,Groups,Transient,Non Refund,31-90 Days,2,310.0,77.5,2.0
+City Hotel,2015,December,Offline TA/TO,Transient,No Deposit,31-90 Days,4,976.3,68.03,4.0
+City Hotel,2015,December,Online TA,Contract,No Deposit,0-30 Days,9,1916.52,100.2,2.11
+City Hotel,2015,December,Offline TA/TO,Contract,No Deposit,0-30 Days,1,256.8,85.6,3.0
+City Hotel,2015,November,Offline TA/TO,Transient,No Deposit,0-30 Days,4,542.2,71.05,2.0
+City Hotel,2015,December,Offline TA/TO,Transient,Non Refund,0-30 Days,1,180.0,90.0,2.0
+City Hotel,2015,November,Corporate,Transient-Party,No Deposit,0-30 Days,1,62.0,62.0,1.0
+City Hotel,2017,March,Complementary,Transient,No Deposit,0-30 Days,1,79.0,79.0,1.0
+City Hotel,2015,December,Online TA,Transient-Party,No Deposit,31-90 Days,3,1392.3,77.35,6.0
+City Hotel,2016,November,Online TA,Contract,No Deposit,365+ Days,1,243.0,81.0,3.0
+City Hotel,2015,December,Direct,Transient,No Deposit,31-90 Days,10,8281.03,122.1,7.1
+City Hotel,2015,December,Corporate,Transient-Party,No Deposit,0-30 Days,5,754.34,58.96,2.6
+City Hotel,2015,November,Groups,Transient-Party,No Deposit,0-30 Days,3,484.0,48.67,2.67
+City Hotel,2015,December,Offline TA/TO,Transient,No Deposit,0-30 Days,8,2410.5,75.67,3.88
+City Hotel,2015,November,Direct,Group,No Deposit,0-30 Days,1,170.0,85.0,2.0
+City Hotel,2015,December,Direct,Transient-Party,No Deposit,31-90 Days,3,243.0,81.0,1.0
+City Hotel,2015,November,Offline TA/TO,Contract,No Deposit,0-30 Days,1,110.0,55.0,2.0
+City Hotel,2016,March,Direct,Transient,No Deposit,91-180 Days,1,576.0,144.0,4.0
+City Hotel,2016,January,Groups,Transient,Non Refund,31-90 Days,4,320.0,80.0,1.0
+City Hotel,2015,December,Groups,Transient-Party,No Deposit,31-90 Days,1,186.0,62.0,3.0
+City Hotel,2015,December,Corporate,Transient,No Deposit,31-90 Days,2,130.0,65.0,1.0
+City Hotel,2015,December,Direct,Group,No Deposit,31-90 Days,1,415.0,83.0,5.0
+City Hotel,2015,December,Offline TA/TO,Transient-Party,No Deposit,0-30 Days,3,210.0,23.33,2.33
+City Hotel,2015,December,Online TA,Transient-Party,No Deposit,181-365 Days,1,433.5,72.25,6.0
+City Hotel,2015,December,Offline TA/TO,Group,No Deposit,31-90 Days,2,778.2,129.7,3.0
+City Hotel,2016,February,Offline TA/TO,Transient,Non Refund,91-180 Days,4,900.0,75.0,3.0
+City Hotel,2015,December,Direct,Transient-Party,No Deposit,0-30 Days,2,1004.08,71.72,7.0
+City Hotel,2015,December,Offline TA/TO,Transient,No Deposit,91-180 Days,1,210.0,70.0,3.0
+City Hotel,2015,December,Groups,Transient,No Deposit,0-30 Days,1,290.0,72.5,4.0
+City Hotel,2016,May,Offline TA/TO,Transient,Non Refund,91-180 Days,1,242.0,121.0,2.0
+City Hotel,2017,August,Complementary,Transient,No Deposit,0-30 Days,1,0.0,0.0,1.0
+City Hotel,2016,August,Complementary,Transient,No Deposit,0-30 Days,1,0.0,0.0,1.0
+City Hotel,2016,November,Direct,Transient-Party,No Deposit,181-365 Days,2,122.6,61.3,1.0
+City Hotel,2017,May,Complementary,Transient-Party,No Deposit,0-30 Days,1,0.0,0.0,1.0
+City Hotel,2017,July,Complementary,Transient,No Deposit,0-30 Days,1,0.0,0.0,1.0
+City Hotel,2017,February,Aviation,Transient,No Deposit,0-30 Days,1,0.0,0.0,0.0
+City Hotel,2017,August,Corporate,Transient,No Deposit,0-30 Days,1,130.0,65.0,2.0

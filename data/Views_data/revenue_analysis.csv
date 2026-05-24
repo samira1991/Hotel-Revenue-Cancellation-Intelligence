@@ -1,0 +1,793 @@
+hotel,arrival_date_year,arrival_date_month,market_segment,customer_type,total_bookings,estimated_revenue,avg_adr,avg_stay_duration
+Resort Hotel,2015,July,Direct,Transient,207,138561.3,140.63,4.61
+Resort Hotel,2015,July,Corporate,Transient,19,3874.86,137.93,1.53
+Resort Hotel,2015,July,Online TA,Transient,431,260228.72,129.78,4.46
+Resort Hotel,2015,July,Offline TA/TO,Contract,121,94599.54,94.64,7.93
+Resort Hotel,2015,July,Offline TA/TO,Transient,150,108842.65,116.43,6.15
+Resort Hotel,2015,July,Offline TA/TO,Transient-Party,18,12858.61,109.91,6.39
+Resort Hotel,2015,July,Complementary,Transient,1,0.0,0.0,1.0
+Resort Hotel,2015,July,Online TA,Transient-Party,26,12331.24,137.6,3.62
+Resort Hotel,2015,July,Direct,Transient-Party,11,9349.52,153.21,5.36
+Resort Hotel,2015,July,Groups,Transient-Party,7,1297.96,92.71,2.0
+Resort Hotel,2015,July,Groups,Transient,2,428.0,107.0,2.0
+Resort Hotel,2015,July,Online TA,Group,5,554.88,110.98,1.0
+Resort Hotel,2015,August,Offline TA/TO,Transient,170,149409.93,131.75,6.57
+Resort Hotel,2015,August,Online TA,Transient,454,339926.55,160.14,4.56
+Resort Hotel,2015,August,Direct,Transient,234,226697.36,172.78,5.61
+Resort Hotel,2015,August,Offline TA/TO,Contract,70,55087.15,107.38,7.61
+Resort Hotel,2015,August,Direct,Transient-Party,23,24092.91,177.63,5.83
+Resort Hotel,2015,August,Offline TA/TO,Transient-Party,20,14849.0,121.84,6.0
+Resort Hotel,2015,August,Corporate,Transient,10,2160.35,142.03,1.6
+Resort Hotel,2015,August,Groups,Transient-Party,3,615.0,205.0,1.0
+Resort Hotel,2015,August,Online TA,Transient-Party,14,13362.66,149.91,6.64
+Resort Hotel,2015,August,Groups,Transient,2,363.0,181.5,1.0
+Resort Hotel,2015,August,Online TA,Group,4,449.6,112.4,0.75
+Resort Hotel,2015,September,Online TA,Transient,296,139438.96,103.42,4.75
+Resort Hotel,2015,September,Direct,Transient,136,71911.07,117.16,4.62
+Resort Hotel,2015,September,Offline TA/TO,Contract,183,112610.57,68.78,9.04
+Resort Hotel,2015,September,Online TA,Transient-Party,16,9714.52,126.04,4.56
+Resort Hotel,2015,September,Offline TA/TO,Transient,139,70606.5,76.36,6.64
+Resort Hotel,2015,September,Corporate,Transient,16,2118.8,98.43,1.44
+Resort Hotel,2015,September,Corporate,Transient-Party,14,2534.69,97.74,1.93
+Resort Hotel,2015,September,Direct,Transient-Party,13,6122.51,95.25,4.54
+Resort Hotel,2015,September,Groups,Transient-Party,42,7532.44,67.74,2.83
+Resort Hotel,2015,September,Complementary,Transient,1,0.0,0.0,1.0
+Resort Hotel,2015,September,Online TA,Group,6,1146.0,96.13,1.83
+Resort Hotel,2015,September,Offline TA/TO,Group,1,584.1,53.1,11.0
+Resort Hotel,2015,September,Offline TA/TO,Transient-Party,43,8436.89,55.97,3.7
+Resort Hotel,2015,October,Online TA,Transient-Party,24,2946.24,51.84,2.29
+Resort Hotel,2015,October,Direct,Transient,150,29825.57,66.2,2.78
+Resort Hotel,2015,October,Online TA,Transient,330,80329.09,64.35,3.64
+Resort Hotel,2015,October,Offline TA/TO,Contract,70,27676.62,55.65,7.06
+Resort Hotel,2015,October,Offline TA/TO,Transient,113,34956.52,52.44,5.52
+Resort Hotel,2015,October,Offline TA/TO,Transient-Party,39,6169.1,52.41,2.97
+Resort Hotel,2015,October,Corporate,Transient,49,3911.1,47.97,1.53
+Resort Hotel,2015,October,Online TA,Group,2,571.92,68.16,4.0
+Resort Hotel,2015,October,Corporate,Transient-Party,24,7875.7,65.0,5.37
+Resort Hotel,2015,October,Complementary,Transient,9,30.0,0.67,2.0
+Resort Hotel,2015,October,Corporate,Contract,13,1996.2,49.82,2.92
+Resort Hotel,2015,October,Direct,Contract,11,1546.0,54.55,2.55
+Resort Hotel,2015,October,Groups,Transient-Party,91,20978.86,46.05,4.53
+Resort Hotel,2015,October,Groups,Transient,49,4592.0,42.6,2.27
+Resort Hotel,2015,October,Direct,Transient-Party,12,2805.0,55.79,4.0
+Resort Hotel,2015,November,Online TA,Transient,233,35980.09,52.17,2.8
+Resort Hotel,2015,November,Offline TA/TO,Transient,138,22460.37,35.58,4.02
+Resort Hotel,2015,November,Offline TA/TO,Contract,10,3258.3,42.53,6.5
+Resort Hotel,2015,November,Direct,Transient,120,15170.97,55.06,2.1
+Resort Hotel,2015,November,Corporate,Transient,78,6694.6,37.74,2.14
+Resort Hotel,2015,November,Corporate,Transient-Party,116,31913.05,43.06,6.27
+Resort Hotel,2015,November,Online TA,Transient-Party,11,3046.0,59.45,3.36
+Resort Hotel,2015,November,Direct,Group,2,171.0,85.5,1.0
+Resort Hotel,2015,November,Corporate,Contract,1,192.0,48.0,4.0
+Resort Hotel,2015,November,Direct,Transient-Party,1,43.2,43.2,1.0
+Resort Hotel,2015,November,Offline TA/TO,Transient-Party,18,4002.26,46.29,4.17
+Resort Hotel,2015,November,Groups,Transient-Party,20,2234.5,38.27,2.95
+Resort Hotel,2015,November,Complementary,Transient,11,128.0,8.91,1.91
+Resort Hotel,2015,December,Online TA,Transient,281,51616.56,56.11,3.05
+Resort Hotel,2015,December,Offline TA/TO,Transient,158,33903.25,48.37,4.16
+Resort Hotel,2015,December,Direct,Transient,187,38285.31,80.74,2.24
+Resort Hotel,2015,December,Offline TA/TO,Contract,6,1590.97,43.34,6.33
+Resort Hotel,2015,December,Groups,Transient-Party,53,14301.82,82.35,3.15
+Resort Hotel,2015,December,Offline TA/TO,Transient-Party,39,7948.47,42.04,3.69
+Resort Hotel,2015,December,Direct,Transient-Party,4,650.1,54.17,3.0
+Resort Hotel,2015,December,Online TA,Transient-Party,8,2009.77,53.94,4.25
+Resort Hotel,2015,December,Groups,Transient,2,584.0,87.25,2.5
+Resort Hotel,2016,January,Online TA,Transient-Party,5,176.04,35.21,0.4
+Resort Hotel,2016,January,Online TA,Transient,274,36287.47,52.22,2.47
+Resort Hotel,2016,January,Offline TA/TO,Transient,125,18733.35,33.48,4.14
+Resort Hotel,2016,January,Offline TA/TO,Contract,3,2424.31,40.28,23.33
+Resort Hotel,2016,January,Direct,Transient,208,20053.89,49.94,1.86
+Resort Hotel,2016,February,Corporate,Transient,96,5430.5,33.92,1.65
+Resort Hotel,2016,February,Online TA,Transient,322,52784.9,58.72,2.84
+Resort Hotel,2016,February,Direct,Transient,239,30169.21,56.93,2.11
+Resort Hotel,2016,February,Offline TA/TO,Transient,213,43505.03,41.43,4.54
+Resort Hotel,2016,February,Offline TA/TO,Transient-Party,19,2771.5,43.14,3.16
+Resort Hotel,2016,February,Groups,Transient-Party,26,3466.99,57.03,2.27
+Resort Hotel,2016,February,Groups,Transient,2,240.0,60.0,2.0
+Resort Hotel,2016,February,Offline TA/TO,Contract,10,3386.01,39.54,7.6
+Resort Hotel,2016,March,Offline TA/TO,Transient,240,43706.52,40.09,4.31
+Resort Hotel,2016,March,Corporate,Transient,81,4598.0,36.93,1.56
+Resort Hotel,2016,March,Direct,Transient,232,35736.9,61.51,2.29
+Resort Hotel,2016,March,Online TA,Transient,456,93331.36,62.86,3.11
+Resort Hotel,2016,March,Offline TA/TO,Contract,8,2705.11,42.95,8.25
+Resort Hotel,2016,March,Groups,Transient-Party,108,26600.42,63.74,3.9
+Resort Hotel,2016,March,Online TA,Transient-Party,25,3972.61,63.69,2.24
+Resort Hotel,2016,March,Offline TA/TO,Transient-Party,44,5366.96,40.42,2.7
+Resort Hotel,2016,April,Groups,Transient-Party,108,23394.46,56.78,4.19
+Resort Hotel,2016,April,Offline TA/TO,Transient-Party,43,12101.2,58.53,5.14
+Resort Hotel,2016,April,Online TA,Transient,346,91335.2,74.67,3.49
+Resort Hotel,2016,April,Groups,Transient,17,2508.14,58.13,2.47
+Resort Hotel,2016,April,Offline TA/TO,Transient,173,50989.89,54.69,5.13
+Resort Hotel,2016,April,Direct,Transient-Party,27,9226.52,89.37,3.74
+Resort Hotel,2016,April,Corporate,Transient,86,7170.7,47.6,1.69
+Resort Hotel,2016,April,Direct,Transient,206,46867.64,80.22,2.69
+Resort Hotel,2016,April,Online TA,Transient-Party,30,7255.12,77.73,2.9
+Resort Hotel,2016,April,Offline TA/TO,Contract,25,13890.84,63.68,8.36
+Resort Hotel,2016,May,Offline TA/TO,Transient,172,59121.29,60.06,5.45
+Resort Hotel,2016,May,Groups,Transient,5,708.0,70.8,2.0
+Resort Hotel,2016,May,Groups,Transient-Party,160,33107.54,59.06,3.43
+Resort Hotel,2016,May,Online TA,Transient,390,130455.7,82.66,4.15
+Resort Hotel,2016,May,Offline TA/TO,Contract,87,40165.59,53.7,8.22
+Resort Hotel,2016,May,Offline TA/TO,Transient-Party,27,10146.92,69.55,4.78
+Resort Hotel,2016,May,Online TA,Transient-Party,41,12550.72,84.84,3.95
+Resort Hotel,2016,May,Complementary,Transient,5,26.0,1.04,3.0
+Resort Hotel,2016,May,Direct,Transient,142,43143.66,88.81,3.3
+Resort Hotel,2016,June,Direct,Transient,145,72250.51,124.55,4.06
+Resort Hotel,2016,June,Offline TA/TO,Transient,197,122346.93,78.89,7.77
+Resort Hotel,2016,June,Offline TA/TO,Transient-Party,13,5130.6,111.23,4.0
+Resort Hotel,2016,June,Offline TA/TO,Contract,128,85767.99,69.63,9.55
+Resort Hotel,2016,June,Online TA,Transient,337,172487.73,114.23,4.61
+Resort Hotel,2016,June,Online TA,Transient-Party,45,13889.87,116.74,2.8
+Resort Hotel,2016,June,Corporate,Transient,42,4390.4,65.4,1.43
+Resort Hotel,2016,June,Direct,Transient-Party,11,6875.14,110.57,6.27
+Resort Hotel,2016,June,Groups,Transient-Party,9,2112.0,78.22,3.33
+Resort Hotel,2016,July,Direct,Transient,197,174631.53,179.25,5.07
+Resort Hotel,2016,July,Online TA,Transient,394,308126.96,170.82,4.57
+Resort Hotel,2016,July,Offline TA/TO,Contract,65,59384.33,98.93,9.25
+Resort Hotel,2016,July,Offline TA/TO,Transient-Party,29,18006.95,116.93,5.52
+Resort Hotel,2016,July,Offline TA/TO,Transient,179,158375.31,121.25,7.46
+Resort Hotel,2016,July,Groups,Transient-Party,6,7224.0,150.5,8.0
+Resort Hotel,2016,August,Direct,Transient,228,213665.16,208.47,4.4
+Resort Hotel,2016,August,Offline TA/TO,Transient,132,128318.94,132.57,7.46
+Resort Hotel,2016,August,Online TA,Transient,526,465997.97,203.78,4.44
+Resort Hotel,2016,August,Offline TA/TO,Contract,59,53731.71,92.04,10.15
+Resort Hotel,2016,September,Direct,Transient,167,87349.74,142.1,3.83
+Resort Hotel,2016,September,Offline TA/TO,Contract,90,64331.29,69.51,10.36
+Resort Hotel,2016,September,Offline TA/TO,Transient,133,77770.71,81.47,7.08
+Resort Hotel,2016,September,Online TA,Transient,331,171229.96,129.69,4.09
+Resort Hotel,2016,September,Groups,Transient-Party,124,45942.27,69.79,5.36
+Resort Hotel,2016,September,Groups,Transient,7,2897.6,68.86,6.14
+Resort Hotel,2016,September,Corporate,Transient-Party,11,2554.0,83.14,2.91
+Resort Hotel,2016,September,Offline TA/TO,Transient-Party,25,4886.16,84.24,2.56
+Resort Hotel,2016,October,Offline TA/TO,Transient-Party,4,1102.5,47.73,6.5
+Resort Hotel,2016,October,Groups,Transient-Party,296,78157.28,60.3,4.24
+Resort Hotel,2016,October,Direct,Transient,204,39897.46,79.5,2.43
+Resort Hotel,2016,October,Corporate,Transient,46,3381.0,47.3,1.52
+Resort Hotel,2016,October,Corporate,Transient-Party,19,1558.8,52.73,1.47
+Resort Hotel,2016,October,Direct,Transient-Party,17,6408.36,66.35,5.0
+Resort Hotel,2016,October,Groups,Transient,22,4598.68,55.65,3.09
+Resort Hotel,2016,November,Offline TA/TO,Transient,188,48066.29,42.98,5.43
+Resort Hotel,2016,December,Offline TA/TO,Transient,99,34203.74,57.68,5.57
+Resort Hotel,2017,January,Corporate,Transient,85,4420.6,35.98,1.46
+Resort Hotel,2017,February,Corporate,Transient-Party,55,7509.01,42.36,3.16
+Resort Hotel,2017,March,Groups,Transient-Party,164,56345.48,49.26,6.97
+Resort Hotel,2017,April,Complementary,Transient,6,0.0,0.0,1.33
+Resort Hotel,2017,April,Online TA,Transient,373,129222.45,100.77,3.48
+Resort Hotel,2017,April,Direct,Transient,173,62767.28,105.53,3.37
+Resort Hotel,2017,May,Corporate,Transient,40,2985.0,51.4,1.4
+Resort Hotel,2017,August,Corporate,Transient,11,1818.99,125.39,1.36
+Resort Hotel,2016,January,Corporate,Transient,73,3865.5,32.99,1.6
+Resort Hotel,2017,February,Corporate,Transient,68,4148.7,36.17,1.75
+Resort Hotel,2016,September,Corporate,Transient,23,2086.0,68.17,1.35
+Resort Hotel,2016,November,Corporate,Transient,82,4210.5,35.03,1.52
+Resort Hotel,2016,December,Corporate,Transient,63,2899.4,32.9,1.38
+Resort Hotel,2017,April,Corporate,Transient,57,4560.49,52.33,1.65
+Resort Hotel,2017,July,Corporate,Transient,17,3604.0,146.71,1.47
+Resort Hotel,2017,January,Corporate,Transient-Party,9,583.0,36.28,1.78
+Resort Hotel,2017,July,Direct,Transient,230,226434.23,188.13,5.08
+Resort Hotel,2016,May,Corporate,Transient,72,7164.52,49.06,1.74
+Resort Hotel,2016,March,Complementary,Transient,3,0.0,0.0,2.0
+Resort Hotel,2017,June,Corporate,Transient,37,4330.75,81.9,1.41
+Resort Hotel,2016,December,Direct,Transient,176,40994.28,80.7,2.63
+Resort Hotel,2015,December,Corporate,Transient,58,2452.78,33.19,1.21
+Resort Hotel,2017,August,Direct,Transient,218,241948.13,232.08,4.72
+Resort Hotel,2017,July,Offline TA/TO,Transient,114,107027.65,136.01,6.75
+Resort Hotel,2016,November,Direct,Transient,161,28424.18,64.49,2.7
+Resort Hotel,2017,March,Corporate,Transient,106,6512.5,40.58,1.53
+Resort Hotel,2017,January,Direct,Transient,219,26608.44,55.46,2.18
+Resort Hotel,2017,March,Direct,Transient,152,26579.99,68.54,2.45
+Resort Hotel,2017,June,Direct,Transient,200,122272.7,144.83,4.17
+Resort Hotel,2016,July,Corporate,Transient,24,2856.2,92.57,1.17
+Resort Hotel,2017,June,Online TA,Transient,406,240521.38,127.96,4.73
+Resort Hotel,2017,April,Offline TA/TO,Transient-Party,11,1708.9,74.21,1.73
+Resort Hotel,2016,April,Complementary,Transient,8,70.5,2.94,1.63
+Resort Hotel,2016,November,Online TA,Transient,439,86489.05,54.24,3.68
+Resort Hotel,2016,December,Online TA,Transient,361,84198.28,64.06,3.48
+Resort Hotel,2016,February,Online TA,Group,8,1585.96,52.46,3.75
+Resort Hotel,2016,April,Corporate,Transient-Party,17,831.0,41.12,1.29
+Resort Hotel,2016,January,Corporate,Transient-Party,3,220.0,33.33,2.0
+Resort Hotel,2017,January,Online TA,Transient,362,66523.89,54.7,3.4
+Resort Hotel,2016,May,Corporate,Transient-Party,8,716.0,55.38,2.13
+Resort Hotel,2017,February,Direct,Transient,244,33359.97,62.01,2.32
+Resort Hotel,2016,October,Online TA,Transient,352,105668.0,76.02,3.93
+Resort Hotel,2017,January,Complementary,Group,1,0.0,0.0,3.0
+Resort Hotel,2017,April,Groups,Transient-Party,163,65053.67,72.69,5.38
+Resort Hotel,2017,February,Online TA,Transient,388,75369.27,60.43,3.17
+Resort Hotel,2017,August,Offline TA/TO,Transient,103,111260.91,152.68,7.15
+Resort Hotel,2017,March,Online TA,Transient,291,72502.23,69.48,3.61
+Resort Hotel,2017,July,Online TA,Transient,520,433957.29,181.44,4.6
+Resort Hotel,2017,August,Online TA,Transient-Party,64,57325.37,215.06,4.22
+Resort Hotel,2017,August,Online TA,Transient,512,484177.45,218.98,4.33
+Resort Hotel,2016,January,Direct,Transient-Party,4,106.0,26.5,1.5
+Resort Hotel,2017,May,Direct,Group,3,2627.25,115.75,7.33
+Resort Hotel,2016,October,Offline TA/TO,Transient,153,35335.84,53.55,4.18
+Resort Hotel,2017,January,Direct,Transient-Party,33,4446.36,60.8,2.18
+Resort Hotel,2017,February,Offline TA/TO,Transient,121,40029.51,46.56,6.64
+Resort Hotel,2016,December,Groups,Transient-Party,52,15465.7,131.08,2.52
+Resort Hotel,2017,March,Online TA,Transient-Party,44,7388.0,63.37,2.89
+Resort Hotel,2016,February,Direct,Transient-Party,14,1707.01,52.89,2.57
+Resort Hotel,2017,April,Online TA,Group,3,408.44,79.28,1.67
+Resort Hotel,2017,May,Online TA,Group,2,211.6,68.3,1.5
+Resort Hotel,2017,June,Offline TA/TO,Contract,113,86337.57,82.01,9.19
+Resort Hotel,2017,January,Online TA,Transient-Party,62,8984.16,57.31,2.76
+Resort Hotel,2017,July,Direct,Transient-Party,18,13259.3,141.46,4.5
+Resort Hotel,2015,December,Offline TA/TO,Group,2,56.0,28.0,1.0
+Resort Hotel,2017,January,Online TA,Group,8,635.37,33.78,2.0
+Resort Hotel,2017,March,Offline TA/TO,Transient,102,40313.65,52.15,7.1
+Resort Hotel,2017,May,Online TA,Transient,414,153499.71,98.54,3.7
+Resort Hotel,2017,February,Online TA,Transient-Party,76,12151.97,60.65,2.64
+Resort Hotel,2016,August,Corporate,Transient,7,970.0,120.71,1.14
+Resort Hotel,2016,January,Online TA,Group,6,446.2,44.52,1.67
+Resort Hotel,2017,April,Direct,Group,1,85.0,85.0,1.0
+Resort Hotel,2017,January,Groups,Transient-Party,69,8357.19,44.68,2.48
+Resort Hotel,2015,November,Offline TA/TO,Group,2,185.1,58.15,2.0
+Resort Hotel,2016,December,Online TA,Group,10,908.16,52.05,2.3
+Resort Hotel,2017,May,Corporate,Transient-Party,12,945.0,55.17,1.25
+Resort Hotel,2017,January,Offline TA/TO,Transient,78,16788.1,42.95,4.71
+Resort Hotel,2017,May,Direct,Transient,156,66088.71,107.67,3.54
+Resort Hotel,2017,August,Direct,Transient-Party,21,27779.56,211.09,6.33
+Resort Hotel,2016,August,Direct,Transient-Party,31,38541.36,208.78,5.84
+Resort Hotel,2017,April,Online TA,Transient-Party,85,27112.69,93.94,3.47
+Resort Hotel,2016,December,Direct,Transient-Party,21,4298.46,95.14,2.19
+Resort Hotel,2016,September,Groups,Group,1,391.98,65.33,6.0
+Resort Hotel,2017,May,Offline TA/TO,Transient,173,61161.97,63.44,5.36
+Resort Hotel,2016,March,Online TA,Group,2,323.8,59.7,2.5
+Resort Hotel,2017,April,Offline TA/TO,Group,3,838.25,63.72,4.67
+Resort Hotel,2016,December,Online TA,Transient-Party,75,20591.82,67.01,3.85
+Resort Hotel,2015,October,Groups,Group,1,0.0,0.0,10.0
+Resort Hotel,2017,April,Complementary,Transient-Party,1,0.0,0.0,8.0
+Resort Hotel,2015,December,Complementary,Transient,6,6.0,0.33,1.83
+Resort Hotel,2016,November,Corporate,Group,1,140.0,35.0,4.0
+Resort Hotel,2017,May,Offline TA/TO,Contract,126,67361.84,61.19,8.6
+Resort Hotel,2016,November,Groups,Group,1,135.0,45.0,3.0
+Resort Hotel,2016,October,Online TA,Transient-Party,63,17402.89,73.17,3.89
+Resort Hotel,2017,June,Offline TA/TO,Group,6,5320.91,91.97,9.33
+Resort Hotel,2015,October,Complementary,Contract,1,12.0,2.4,5.0
+Resort Hotel,2015,October,Complementary,Transient-Party,1,0.0,0.0,30.0
+Resort Hotel,2016,November,Complementary,Transient,11,230.0,10.45,1.82
+Resort Hotel,2017,April,Corporate,Transient-Party,16,3089.0,54.95,2.87
+Resort Hotel,2016,December,Complementary,Transient-Party,5,14.0,1.4,2.6
+Resort Hotel,2015,July,Online TA,Contract,1,1078.0,134.75,8.0
+Resort Hotel,2017,April,Direct,Transient-Party,23,10480.01,97.04,4.83
+Resort Hotel,2015,September,Groups,Transient,8,1395.8,58.27,3.5
+Resort Hotel,2015,September,Direct,Group,1,65.0,65.0,1.0
+Resort Hotel,2015,December,Online TA,Group,3,143.17,47.72,1.0
+Resort Hotel,2015,October,Offline TA/TO,Group,1,603.0,67.0,9.0
+Resort Hotel,2017,May,Offline TA/TO,Group,6,1084.0,59.67,2.0
+Resort Hotel,2016,May,Online TA,Group,2,122.8,61.4,1.0
+Resort Hotel,2016,October,Corporate,Group,2,112.2,56.1,1.0
+Resort Hotel,2017,April,Corporate,Group,2,400.0,50.0,4.0
+Resort Hotel,2017,January,Direct,Group,5,822.0,50.0,3.6
+Resort Hotel,2016,June,Complementary,Transient,2,0.0,0.0,2.0
+Resort Hotel,2017,January,Complementary,Transient,4,0.0,0.0,1.75
+Resort Hotel,2017,May,Complementary,Transient,6,0.0,0.0,1.17
+Resort Hotel,2017,January,Offline TA/TO,Group,2,136.0,34.0,2.0
+Resort Hotel,2016,February,Offline TA/TO,Group,4,289.6,38.85,2.0
+Resort Hotel,2016,May,Offline TA/TO,Group,2,109.0,54.5,1.0
+Resort Hotel,2015,November,Online TA,Group,1,36.45,36.45,1.0
+Resort Hotel,2017,February,Offline TA/TO,Group,10,560.5,34.35,1.7
+Resort Hotel,2017,February,Direct,Group,4,255.0,52.38,1.25
+Resort Hotel,2015,December,Corporate,Transient-Party,2,123.0,41.5,1.5
+Resort Hotel,2017,June,Corporate,Group,1,75.0,75.0,1.0
+Resort Hotel,2015,December,Direct,Group,1,100.0,50.0,2.0
+Resort Hotel,2017,June,Offline TA/TO,Transient,127,75314.22,89.97,6.36
+Resort Hotel,2016,December,Complementary,Transient,18,227.5,6.49,1.89
+Resort Hotel,2016,January,Direct,Group,2,87.0,43.5,1.0
+Resort Hotel,2016,January,Groups,Transient-Party,9,2091.0,68.44,3.22
+Resort Hotel,2016,January,Complementary,Transient,6,0.0,0.0,2.17
+Resort Hotel,2017,June,Corporate,Transient-Party,14,2346.99,108.1,1.5
+Resort Hotel,2016,May,Direct,Transient-Party,18,4301.0,88.61,2.28
+Resort Hotel,2016,January,Offline TA/TO,Transient-Party,13,683.75,34.19,1.62
+Resort Hotel,2016,February,Direct,Group,1,35.1,35.1,1.0
+Resort Hotel,2016,April,Online TA,Group,2,89.6,44.8,1.0
+Resort Hotel,2016,December,Offline TA/TO,Group,4,144.0,26.0,1.0
+Resort Hotel,2017,March,Direct,Group,10,1666.09,75.43,2.3
+Resort Hotel,2016,November,Direct,Group,1,49.0,49.0,1.0
+Resort Hotel,2016,January,Offline TA/TO,Group,1,29.0,29.0,1.0
+Resort Hotel,2017,January,Corporate,Group,1,38.0,38.0,1.0
+Resort Hotel,2016,June,Corporate,Group,1,231.0,77.0,3.0
+Resort Hotel,2016,February,Complementary,Transient,9,56.0,6.22,1.33
+Resort Hotel,2017,March,Offline TA/TO,Group,4,549.0,35.75,3.5
+Resort Hotel,2016,February,Online TA,Transient-Party,22,3330.3,55.91,2.82
+Resort Hotel,2017,February,Online TA,Group,4,752.52,58.68,2.75
+Resort Hotel,2016,November,Offline TA/TO,Group,2,190.0,31.0,3.0
+Resort Hotel,2017,March,Offline TA/TO,Transient-Party,11,1706.0,44.91,2.82
+Resort Hotel,2016,February,Corporate,Transient-Party,6,730.01,38.61,3.17
+Resort Hotel,2016,July,Complementary,Transient,4,0.0,0.0,2.0
+Resort Hotel,2016,February,Complementary,Transient-Party,2,108.0,27.0,2.0
+Resort Hotel,2016,March,Groups,Transient,7,2660.65,79.36,4.71
+Resort Hotel,2017,March,Direct,Transient-Party,40,10115.12,69.78,3.7
+Resort Hotel,2016,March,Direct,Group,3,334.0,87.33,1.33
+Resort Hotel,2016,March,Direct,Transient-Party,5,435.99,42.07,2.0
+Resort Hotel,2017,June,Complementary,Transient,8,24.0,1.5,1.63
+Resort Hotel,2017,February,Complementary,Transient,2,14.0,3.5,1.5
+Resort Hotel,2016,March,Corporate,Transient-Party,10,522.0,37.2,1.3
+Resort Hotel,2017,June,Online TA,Group,2,197.84,98.92,1.0
+Resort Hotel,2016,December,Corporate,Transient-Party,4,210.0,36.0,1.5
+Resort Hotel,2016,October,Groups,Group,2,50.0,25.0,4.0
+Resort Hotel,2016,December,Direct,Group,4,842.5,104.07,2.0
+Resort Hotel,2016,April,Direct,Group,4,730.4,69.85,3.0
+Resort Hotel,2017,April,Groups,Group,1,0.0,0.0,7.0
+Resort Hotel,2016,June,Online TA,Group,1,99.0,99.0,1.0
+Resort Hotel,2016,May,Direct,Group,5,365.0,73.0,1.0
+Resort Hotel,2017,March,Online TA,Group,2,147.0,73.5,1.0
+Resort Hotel,2016,May,Groups,Group,3,216.0,72.0,1.0
+Resort Hotel,2017,April,Offline TA/TO,Transient,59,14055.73,64.99,3.98
+Resort Hotel,2016,October,Offline TA/TO,Group,3,910.0,56.67,4.67
+Resort Hotel,2016,June,Direct,Group,1,124.0,124.0,1.0
+Resort Hotel,2016,June,Offline TA/TO,Group,1,0.0,0.0,0.0
+Resort Hotel,2017,June,Direct,Group,6,2800.04,131.26,3.5
+Resort Hotel,2016,July,Online TA,Transient-Party,45,25413.4,186.25,3.11
+Resort Hotel,2016,July,Direct,Transient-Party,8,4338.5,146.31,3.5
+Resort Hotel,2017,February,Direct,Transient-Party,31,3626.9,62.99,1.9
+Resort Hotel,2017,July,Offline TA/TO,Contract,70,79077.3,130.96,8.69
+Resort Hotel,2016,July,Online TA,Group,1,546.0,182.0,3.0
+Resort Hotel,2017,July,Direct,Group,4,4325.0,166.4,7.0
+Resort Hotel,2017,August,Direct,Group,3,1656.8,193.47,3.0
+Resort Hotel,2016,August,Direct,Group,3,2228.2,247.2,3.0
+Resort Hotel,2016,August,Online TA,Transient-Party,52,46128.95,210.25,4.0
+Resort Hotel,2016,August,Offline TA/TO,Transient-Party,35,32573.97,152.42,5.8
+Resort Hotel,2016,August,Online TA,Group,1,242.0,242.0,1.0
+Resort Hotel,2017,August,Offline TA/TO,Group,19,19963.42,145.7,7.47
+Resort Hotel,2016,August,Complementary,Transient,1,4.0,2.0,2.0
+Resort Hotel,2016,September,Direct,Group,1,177.0,177.0,1.0
+Resort Hotel,2016,September,Online TA,Transient-Party,34,15188.83,115.79,4.12
+Resort Hotel,2016,September,Direct,Transient-Party,10,6070.77,126.59,5.2
+Resort Hotel,2016,September,Complementary,Transient,2,0.0,0.0,4.5
+Resort Hotel,2016,September,Corporate,Group,1,76.0,76.0,1.0
+Resort Hotel,2016,October,Online TA,Group,2,420.65,68.58,2.5
+Resort Hotel,2016,October,Offline TA/TO,Contract,30,13840.15,63.0,7.57
+Resort Hotel,2016,October,Complementary,Transient,5,12.0,1.2,1.4
+Resort Hotel,2016,October,Direct,Group,1,55.0,55.0,1.0
+Resort Hotel,2017,March,Corporate,Group,2,155.0,47.5,1.5
+Resort Hotel,2016,December,Offline TA/TO,Contract,1,160.0,80.0,2.0
+Resort Hotel,2016,November,Online TA,Transient-Party,55,10610.02,60.14,3.25
+Resort Hotel,2016,November,Groups,Transient-Party,24,2315.9,39.62,2.38
+Resort Hotel,2016,November,Direct,Transient-Party,1,72.0,72.0,1.0
+Resort Hotel,2016,November,Corporate,Transient-Party,5,340.0,48.0,1.4
+Resort Hotel,2016,November,Offline TA/TO,Transient-Party,4,148.0,37.0,1.0
+Resort Hotel,2016,November,Online TA,Group,1,46.2,46.2,1.0
+Resort Hotel,2016,November,Offline TA/TO,Contract,3,1665.44,56.4,9.33
+Resort Hotel,2016,November,Groups,Transient,4,784.0,47.75,4.0
+Resort Hotel,2016,December,Groups,Transient,3,1424.0,248.0,1.67
+Resort Hotel,2016,December,Offline TA/TO,Transient-Party,13,3313.32,79.78,2.92
+Resort Hotel,2017,January,Offline TA/TO,Transient-Party,8,525.0,31.63,2.0
+Resort Hotel,2017,January,Groups,Transient,8,1343.6,44.35,3.75
+Resort Hotel,2017,January,Offline TA/TO,Contract,3,605.44,63.85,3.0
+Resort Hotel,2017,May,Online TA,Transient-Party,55,21983.08,96.32,4.0
+Resort Hotel,2017,February,Offline TA/TO,Transient-Party,7,472.0,33.79,1.86
+Resort Hotel,2017,February,Groups,Transient-Party,30,6406.0,71.97,3.07
+Resort Hotel,2017,February,Complementary,Transient-Party,2,240.0,24.0,4.5
+Resort Hotel,2017,February,Offline TA/TO,Contract,16,8019.28,52.97,9.81
+Resort Hotel,2017,February,Groups,Transient,2,340.0,54.0,3.0
+Resort Hotel,2017,August,Complementary,Transient,4,0.0,0.0,1.25
+Resort Hotel,2017,April,Offline TA/TO,Contract,71,27481.86,59.09,6.63
+Resort Hotel,2017,March,Complementary,Transient,9,0.0,0.0,1.67
+Resort Hotel,2017,March,Corporate,Transient-Party,18,5303.0,58.28,4.44
+Resort Hotel,2017,March,Groups,Transient,5,2356.37,53.09,8.4
+Resort Hotel,2017,March,Offline TA/TO,Contract,8,4958.67,75.03,8.13
+Resort Hotel,2017,April,Groups,Transient,4,2557.63,95.27,6.5
+Resort Hotel,2017,April,Groups,Contract,25,17281.01,83.06,8.08
+Resort Hotel,2017,July,Online TA,Group,1,190.0,190.0,1.0
+Resort Hotel,2017,May,Offline TA/TO,Transient-Party,9,1354.8,56.93,3.0
+Resort Hotel,2017,May,Groups,Transient-Party,90,29929.91,69.31,4.69
+Resort Hotel,2017,May,Groups,Transient,6,1772.0,76.58,3.5
+Resort Hotel,2017,May,Corporate,Group,1,45.0,45.0,1.0
+Resort Hotel,2017,May,Direct,Transient-Party,8,4426.17,97.6,4.5
+Resort Hotel,2017,June,Online TA,Transient-Party,48,31533.11,138.22,4.92
+Resort Hotel,2017,June,Direct,Transient-Party,7,6437.28,138.43,6.71
+Resort Hotel,2017,June,Offline TA/TO,Transient-Party,5,460.0,92.0,1.0
+Resort Hotel,2017,June,Groups,Transient-Party,14,5872.0,104.86,4.0
+Resort Hotel,2017,July,Corporate,Transient-Party,3,277.0,92.33,0.67
+Resort Hotel,2017,July,Online TA,Transient-Party,72,60938.73,176.38,4.69
+Resort Hotel,2017,July,Groups,Transient,2,356.4,89.1,2.0
+Resort Hotel,2017,July,Groups,Transient-Party,3,644.76,107.46,2.0
+Resort Hotel,2017,July,Complementary,Transient,4,859.53,33.2,7.0
+Resort Hotel,2017,July,Offline TA/TO,Transient-Party,3,1481.6,123.47,4.0
+Resort Hotel,2017,July,Offline TA/TO,Group,1,1155.0,165.0,7.0
+Resort Hotel,2017,August,Offline TA/TO,Transient-Party,21,12949.6,148.99,3.81
+Resort Hotel,2017,August,Offline TA/TO,Contract,96,101061.26,131.21,8.17
+Resort Hotel,2017,August,Corporate,Group,1,405.0,135.0,3.0
+Resort Hotel,2017,August,Online TA,Group,1,216.0,216.0,1.0
+City Hotel,2015,July,Offline TA/TO,Transient,13,3529.26,73.26,3.23
+City Hotel,2015,July,Groups,Transient-Party,75,11207.87,61.55,2.51
+City Hotel,2015,July,Online TA,Transient,26,7487.18,67.7,4.31
+City Hotel,2015,July,Offline TA/TO,Transient-Party,18,3711.65,88.29,2.44
+City Hotel,2015,July,Direct,Transient,12,0.0,0.0,1.92
+City Hotel,2015,July,Groups,Transient,4,578.0,40.0,4.0
+City Hotel,2015,July,Online TA,Transient-Party,8,2546.75,74.84,4.38
+City Hotel,2015,July,Corporate,Transient,3,390.0,65.0,2.0
+City Hotel,2015,July,Complementary,Transient,4,0.0,0.0,1.0
+City Hotel,2015,August,Direct,Transient,180,41744.84,85.95,2.81
+City Hotel,2015,August,Offline TA/TO,Transient-Party,65,15433.31,86.23,2.77
+City Hotel,2015,August,Online TA,Transient,190,53496.92,96.78,3.18
+City Hotel,2015,August,Complementary,Transient,28,0.0,0.0,1.79
+City Hotel,2015,August,Direct,Transient-Party,14,2788.5,67.61,2.86
+City Hotel,2015,August,Groups,Transient-Party,102,16941.1,57.64,2.86
+City Hotel,2015,August,Groups,Transient,8,1454.0,66.13,3.13
+City Hotel,2015,August,Online TA,Contract,193,61525.07,103.94,3.15
+City Hotel,2015,August,Corporate,Transient-Party,7,998.0,62.57,2.43
+City Hotel,2015,August,Online TA,Transient-Party,43,10784.67,83.03,3.07
+City Hotel,2015,August,Offline TA/TO,Transient,24,5537.36,54.96,3.54
+City Hotel,2015,August,Direct,Group,5,1592.0,98.6,3.2
+City Hotel,2015,August,Corporate,Transient,17,2075.5,67.79,1.76
+City Hotel,2015,September,Online TA,Contract,263,101322.1,128.14,2.98
+City Hotel,2015,September,Online TA,Transient,265,89556.32,107.4,3.24
+City Hotel,2015,September,Complementary,Transient,24,456.0,8.29,1.46
+City Hotel,2015,September,Direct,Transient,164,55021.74,122.99,2.72
+City Hotel,2015,September,Offline TA/TO,Transient-Party,182,39942.9,92.18,2.31
+City Hotel,2015,September,Offline TA/TO,Transient,64,19499.07,80.46,3.77
+City Hotel,2015,September,Offline TA/TO,Contract,28,9438.29,105.63,3.18
+City Hotel,2015,September,Groups,Transient,12,2755.0,67.25,2.5
+City Hotel,2015,September,Corporate,Transient,52,8477.0,77.17,1.98
+City Hotel,2015,September,Online TA,Group,11,3157.07,91.94,3.09
+City Hotel,2015,September,Groups,Transient-Party,233,86372.01,114.22,3.09
+City Hotel,2015,September,Direct,Transient-Party,4,1521.0,123.63,3.0
+City Hotel,2015,September,Offline TA/TO,Group,3,497.0,84.17,2.0
+City Hotel,2015,September,Direct,Group,6,2005.01,120.45,2.83
+City Hotel,2015,September,Corporate,Transient-Party,24,4610.0,91.67,2.08
+City Hotel,2015,September,Online TA,Transient-Party,20,5533.85,91.91,3.05
+City Hotel,2015,September,Direct,Contract,1,105.0,105.0,1.0
+City Hotel,2015,October,Online TA,Contract,285,103358.12,116.86,3.12
+City Hotel,2015,October,Online TA,Transient,261,75981.9,97.68,2.99
+City Hotel,2015,October,Online TA,Group,12,2966.73,88.96,2.75
+City Hotel,2015,October,Offline TA/TO,Transient,130,33381.97,79.94,3.14
+City Hotel,2015,October,Offline TA/TO,Transient-Party,205,38797.49,82.82,2.32
+City Hotel,2015,October,Direct,Transient,118,38647.33,115.11,2.68
+City Hotel,2015,October,Groups,Transient-Party,94,17282.19,72.49,2.52
+City Hotel,2015,October,Offline TA/TO,Group,22,6185.65,81.55,3.45
+City Hotel,2015,October,Corporate,Transient,66,10383.0,76.64,1.94
+City Hotel,2015,October,Groups,Transient,6,1037.0,85.83,1.83
+City Hotel,2015,October,Offline TA/TO,Contract,8,2407.14,88.92,3.38
+City Hotel,2015,October,Online TA,Transient-Party,14,5455.33,90.4,4.36
+City Hotel,2015,October,Direct,Transient-Party,10,3648.1,114.75,3.2
+City Hotel,2015,November,Offline TA/TO,Group,27,5346.93,58.98,3.37
+City Hotel,2015,November,Online TA,Contract,119,30334.99,89.69,2.77
+City Hotel,2015,November,Offline TA/TO,Transient,117,25680.12,60.18,3.67
+City Hotel,2015,November,Online TA,Transient,88,22894.79,84.29,3.06
+City Hotel,2015,November,Groups,Transient-Party,123,28310.4,68.19,3.34
+City Hotel,2015,November,Online TA,Transient-Party,1,191.25,63.75,3.0
+City Hotel,2015,November,Direct,Group,2,371.0,91.5,2.0
+City Hotel,2015,December,Online TA,Transient,197,50920.1,91.15,2.78
+City Hotel,2015,December,Online TA,Contract,89,25968.24,95.89,3.03
+City Hotel,2015,December,Complementary,Transient,27,8.0,0.06,1.52
+City Hotel,2015,December,Online TA,Transient-Party,25,5494.35,94.3,2.36
+City Hotel,2015,December,Direct,Transient,131,37055.57,98.9,2.63
+City Hotel,2015,December,Groups,Transient-Party,25,4851.0,59.12,3.2
+City Hotel,2015,December,Offline TA/TO,Transient-Party,52,9903.71,60.24,2.96
+City Hotel,2015,December,Direct,Transient-Party,6,1786.06,91.55,3.17
+City Hotel,2015,December,Offline TA/TO,Transient,150,36437.46,70.65,3.45
+City Hotel,2016,January,Online TA,Transient,331,71008.78,81.29,2.65
+City Hotel,2016,January,Direct,Transient,105,19655.1,85.7,2.12
+City Hotel,2016,January,Online TA,Transient-Party,54,10236.21,82.28,2.15
+City Hotel,2016,January,Direct,Transient-Party,13,4449.5,80.83,4.38
+City Hotel,2016,January,Offline TA/TO,Transient-Party,88,16509.01,74.05,2.53
+City Hotel,2016,January,Offline TA/TO,Transient,100,19673.63,61.74,3.18
+City Hotel,2016,February,Online TA,Transient,607,150054.99,89.24,2.76
+City Hotel,2016,February,Direct,Transient,179,38899.45,89.84,2.43
+City Hotel,2016,February,Online TA,Transient-Party,78,17514.91,88.68,2.46
+City Hotel,2016,February,Direct,Transient-Party,12,2416.87,73.01,2.92
+City Hotel,2016,February,Complementary,Transient,15,21.0,0.77,1.47
+City Hotel,2016,February,Offline TA/TO,Transient,176,43406.31,72.51,3.43
+City Hotel,2016,March,Online TA,Transient,823,256971.63,98.39,3.22
+City Hotel,2016,March,Offline TA/TO,Transient,254,60625.87,67.68,3.52
+City Hotel,2016,March,Direct,Transient,142,39292.56,102.89,2.61
+City Hotel,2016,March,Online TA,Transient-Party,152,41726.12,95.05,2.95
+City Hotel,2016,March,Corporate,Transient-Party,59,9084.14,75.12,2.83
+City Hotel,2016,March,Corporate,Transient,72,8627.4,70.96,1.72
+City Hotel,2016,March,Complementary,Transient,19,860.0,18.97,1.79
+City Hotel,2016,March,Direct,Transient-Party,22,6674.49,91.33,3.59
+City Hotel,2016,April,Online TA,Transient-Party,129,41966.23,103.07,3.15
+City Hotel,2016,April,Online TA,Transient,1007,328265.96,107.81,3.07
+City Hotel,2016,April,Direct,Transient,137,39084.98,111.06,2.55
+City Hotel,2016,April,Offline TA/TO,Transient,120,33811.54,82.55,3.32
+City Hotel,2016,April,Offline TA/TO,Transient-Party,104,25071.77,79.43,2.98
+City Hotel,2016,April,Groups,Transient-Party,46,8245.5,75.07,2.26
+City Hotel,2016,May,Online TA,Transient,889,313812.97,125.13,2.86
+City Hotel,2016,May,Online TA,Transient-Party,94,36103.53,117.64,3.27
+City Hotel,2016,May,Groups,Transient-Party,83,18786.05,85.72,2.54
+City Hotel,2016,May,Direct,Transient-Party,20,5347.5,122.56,2.05
+City Hotel,2016,May,Direct,Transient,155,50176.73,130.4,2.49
+City Hotel,2016,May,Offline TA/TO,Transient-Party,85,21424.41,84.89,3.0
+City Hotel,2016,June,Direct,Transient,144,44459.85,118.83,2.64
+City Hotel,2016,June,Online TA,Transient,915,308816.32,120.07,2.79
+City Hotel,2016,June,Online TA,Transient-Party,58,24917.64,114.69,3.76
+City Hotel,2016,June,Groups,Transient-Party,43,6357.81,61.14,2.58
+City Hotel,2016,June,Direct,Transient-Party,14,5571.9,107.93,3.64
+City Hotel,2016,June,Offline TA/TO,Transient-Party,237,61172.02,99.22,2.59
+City Hotel,2016,June,Offline TA/TO,Transient,151,43005.4,91.22,3.14
+City Hotel,2016,June,Complementary,Transient,19,0.0,0.0,1.26
+City Hotel,2016,July,Online TA,Transient,1071,437443.34,125.66,3.35
+City Hotel,2016,July,Direct,Transient,190,72705.36,129.58,3.03
+City Hotel,2016,July,Online TA,Transient-Party,137,47822.86,107.78,3.58
+City Hotel,2016,July,Direct,Transient-Party,27,9305.88,97.51,3.41
+City Hotel,2016,August,Online TA,Transient,1256,506839.74,130.56,3.19
+City Hotel,2016,August,Online TA,Transient-Party,104,38091.63,110.3,3.33
+City Hotel,2016,August,Direct,Transient,214,96712.33,150.22,3.09
+City Hotel,2016,August,Direct,Transient-Party,24,7564.67,108.21,3.46
+City Hotel,2016,September,Online TA,Transient,1030,393292.33,135.91,2.89
+City Hotel,2016,September,Online TA,Transient-Party,36,13992.46,123.61,3.17
+City Hotel,2016,September,Direct,Transient,162,55048.41,152.38,2.24
+City Hotel,2016,September,Corporate,Group,1,130.0,65.0,2.0
+City Hotel,2016,September,Groups,Transient-Party,73,19419.3,91.13,2.75
+City Hotel,2016,September,Direct,Transient-Party,21,3869.2,95.69,2.05
+City Hotel,2016,September,Groups,Transient,2,322.0,80.5,2.0
+City Hotel,2016,September,Offline TA/TO,Transient-Party,160,53830.82,101.11,3.34
+City Hotel,2016,September,Offline TA/TO,Transient,193,59980.73,95.06,3.24
+City Hotel,2016,October,Online TA,Transient-Party,46,16131.66,108.37,3.28
+City Hotel,2016,October,Online TA,Transient,1038,382932.33,123.11,2.99
+City Hotel,2016,November,Online TA,Transient,908,301955.67,103.4,3.21
+City Hotel,2016,December,Direct,Transient,131,42443.28,112.5,2.71
+City Hotel,2017,January,Corporate,Transient,72,9409.08,71.98,1.85
+City Hotel,2017,June,Online TA,Transient-Party,67,25193.65,135.44,2.85
+City Hotel,2017,July,Corporate,Group,1,130.0,65.0,2.0
+City Hotel,2015,October,Complementary,Transient,13,0.0,0.0,1.31
+City Hotel,2015,November,Complementary,Transient,11,0.0,0.0,1.09
+City Hotel,2016,January,Complementary,Transient,16,48.0,2.81,1.5
+City Hotel,2016,April,Complementary,Transient,11,0.0,0.0,1.27
+City Hotel,2016,May,Complementary,Transient,19,0.0,0.0,1.21
+City Hotel,2016,July,Complementary,Transient,14,70.0,2.5,1.86
+City Hotel,2016,September,Complementary,Transient,18,0.0,0.0,1.89
+City Hotel,2016,October,Complementary,Transient,20,0.0,0.0,1.95
+City Hotel,2017,March,Complementary,Transient,22,130.0,5.91,1.64
+City Hotel,2016,January,Complementary,Transient-Party,8,0.0,0.0,1.0
+City Hotel,2016,August,Complementary,Transient,11,0.0,0.0,1.27
+City Hotel,2017,February,Complementary,Transient,14,0.0,0.0,1.14
+City Hotel,2017,May,Complementary,Transient,20,0.0,0.0,1.1
+City Hotel,2015,August,Corporate,Group,2,195.0,32.5,7.5
+City Hotel,2015,November,Corporate,Transient,51,6123.69,67.88,1.76
+City Hotel,2015,November,Corporate,Transient-Party,13,1175.0,65.38,1.38
+City Hotel,2015,December,Corporate,Transient,49,4891.0,68.3,1.41
+City Hotel,2015,December,Corporate,Transient-Party,26,4589.83,66.47,2.62
+City Hotel,2016,January,Corporate,Transient,45,4851.01,67.9,1.6
+City Hotel,2016,January,Corporate,Transient-Party,34,4334.0,66.44,1.88
+City Hotel,2016,February,Corporate,Transient,48,5869.99,67.08,1.79
+City Hotel,2016,April,Corporate,Transient-Party,13,1513.0,75.77,1.62
+City Hotel,2016,May,Corporate,Transient,62,11388.36,87.95,2.02
+City Hotel,2016,May,Corporate,Transient-Party,72,17308.04,106.8,2.17
+City Hotel,2016,June,Corporate,Transient,55,7279.55,83.42,1.55
+City Hotel,2016,July,Corporate,Transient,64,8805.4,82.77,1.69
+City Hotel,2016,July,Corporate,Transient-Party,19,4152.4,97.3,2.11
+City Hotel,2016,August,Corporate,Transient,33,7859.0,80.76,2.73
+City Hotel,2016,September,Corporate,Transient,76,14558.89,92.87,1.99
+City Hotel,2016,October,Corporate,Transient,82,14925.91,81.33,1.88
+City Hotel,2016,November,Corporate,Transient-Party,19,3121.0,67.26,2.37
+City Hotel,2016,November,Corporate,Transient,97,18007.38,76.79,2.24
+City Hotel,2016,December,Corporate,Transient,70,8687.0,75.93,1.6
+City Hotel,2017,May,Corporate,Transient,87,14525.99,94.0,1.72
+City Hotel,2017,June,Corporate,Transient,62,10193.45,92.72,1.76
+City Hotel,2017,July,Corporate,Transient,53,7645.19,77.33,1.81
+City Hotel,2017,August,Corporate,Transient,42,5210.0,77.31,1.64
+City Hotel,2016,December,Complementary,Transient,21,0.0,0.0,1.76
+City Hotel,2017,January,Complementary,Transient,10,0.0,0.0,2.2
+City Hotel,2015,September,Corporate,Group,2,260.0,65.0,2.0
+City Hotel,2016,April,Corporate,Transient,46,5680.8,82.39,1.46
+City Hotel,2017,April,Complementary,Transient,13,18.0,0.69,1.46
+City Hotel,2016,October,Corporate,Transient-Party,14,1845.0,79.79,3.14
+City Hotel,2017,March,Corporate,Transient,59,7683.2,87.61,1.44
+City Hotel,2016,February,Corporate,Transient-Party,83,10830.0,75.02,1.64
+City Hotel,2015,October,Direct,Group,6,3062.0,129.73,3.83
+City Hotel,2017,February,Corporate,Transient,46,5193.6,79.2,1.41
+City Hotel,2015,October,Corporate,Transient-Party,18,6329.0,106.56,3.39
+City Hotel,2016,October,Online TA,Group,5,767.18,83.41,2.0
+City Hotel,2017,July,Complementary,Transient,12,0.0,0.0,1.17
+City Hotel,2017,June,Complementary,Transient,24,0.0,0.0,1.0
+City Hotel,2015,November,Direct,Transient,69,13860.7,82.6,2.3
+City Hotel,2016,January,Groups,Transient,2,244.0,40.5,3.0
+City Hotel,2016,March,Groups,Transient-Party,51,10464.48,73.45,2.84
+City Hotel,2017,February,Groups,Group,1,204.99,68.33,3.0
+City Hotel,2015,October,Corporate,Group,2,160.0,80.0,1.0
+City Hotel,2017,March,Direct,Transient,207,49063.88,98.48,2.57
+City Hotel,2016,December,Online TA,Group,4,443.82,93.98,1.25
+City Hotel,2016,June,Corporate,Transient-Party,16,2938.0,91.19,1.94
+City Hotel,2016,November,Direct,Transient,136,39649.65,105.98,2.72
+City Hotel,2017,February,Direct,Transient,201,49645.27,101.32,2.35
+City Hotel,2015,November,Online TA,Group,2,348.8,70.33,2.5
+City Hotel,2015,November,Offline TA/TO,Transient-Party,32,5770.01,65.02,2.75
+City Hotel,2015,November,Complementary,Group,1,237.0,79.0,3.0
+City Hotel,2017,January,Direct,Transient,152,38757.67,100.83,2.46
+City Hotel,2016,October,Direct,Transient,156,54144.14,128.9,2.65
+City Hotel,2015,November,Offline TA/TO,Contract,3,530.2,68.53,2.67
+City Hotel,2017,June,Direct,Transient,219,89542.78,144.56,2.9
+City Hotel,2017,March,Offline TA/TO,Transient,209,58483.42,75.9,3.6
+City Hotel,2015,November,Groups,Transient,1,300.0,75.0,4.0
+City Hotel,2017,April,Direct,Transient,246,106307.01,136.3,3.19
+City Hotel,2016,November,Complementary,Transient,23,235.0,5.11,2.04
+City Hotel,2016,February,Offline TA/TO,Group,4,802.5,61.13,3.25
+City Hotel,2015,December,Groups,Transient,2,683.5,89.75,3.5
+City Hotel,2017,February,Offline TA/TO,Group,1,215.01,71.67,3.0
+City Hotel,2015,December,Offline TA/TO,Contract,9,1582.4,53.4,2.89
+City Hotel,2015,December,Offline TA/TO,Group,8,1665.01,61.8,3.38
+City Hotel,2017,April,Corporate,Transient,25,3618.0,88.48,1.68
+City Hotel,2016,December,Complementary,Transient-Party,2,100.0,10.0,3.0
+City Hotel,2017,April,Complementary,Group,2,0.0,0.0,1.0
+City Hotel,2016,January,Groups,Transient-Party,12,2874.0,79.83,3.0
+City Hotel,2015,December,Online TA,Group,2,997.52,86.59,6.0
+City Hotel,2015,December,Direct,Group,2,602.79,84.56,3.5
+City Hotel,2016,January,Online TA,Contract,5,1617.04,119.78,2.8
+City Hotel,2016,January,Offline TA/TO,Contract,3,850.2,81.8,3.67
+City Hotel,2017,March,Direct,Group,2,307.4,89.35,1.5
+City Hotel,2016,February,Groups,Transient,1,134.0,67.0,2.0
+City Hotel,2016,November,Offline TA/TO,Transient,189,46675.59,77.66,3.13
+City Hotel,2016,March,Direct,Group,2,587.2,106.85,3.5
+City Hotel,2016,February,Groups,Transient-Party,9,1880.0,52.22,4.0
+City Hotel,2016,February,Offline TA/TO,Transient-Party,66,17512.93,76.61,3.42
+City Hotel,2016,February,Online TA,Contract,3,1057.98,83.44,4.0
+City Hotel,2016,February,Offline TA/TO,Contract,1,353.37,117.79,3.0
+City Hotel,2016,February,Online TA,Group,2,471.28,58.91,4.0
+City Hotel,2016,February,Aviation,Transient,1,352.0,88.0,4.0
+City Hotel,2016,March,Aviation,Transient,3,355.0,89.0,1.33
+City Hotel,2016,June,Aviation,Transient,5,1235.0,95.0,2.6
+City Hotel,2016,September,Aviation,Transient,11,4120.0,105.91,3.45
+City Hotel,2016,October,Aviation,Transient,26,8139.0,105.42,2.96
+City Hotel,2017,March,Aviation,Transient,13,4681.7,89.68,3.77
+City Hotel,2016,December,Offline TA/TO,Transient,132,36246.82,84.61,3.1
+City Hotel,2016,March,Offline TA/TO,Transient-Party,86,16901.8,72.42,2.64
+City Hotel,2016,March,Groups,Transient,20,3299.04,73.52,2.55
+City Hotel,2016,August,Corporate,Transient-Party,7,1648.0,102.57,2.29
+City Hotel,2017,May,Direct,Transient,201,76965.77,147.34,2.56
+City Hotel,2017,July,Direct,Transient,253,105638.0,139.95,2.98
+City Hotel,2016,December,Online TA,Transient,765,251160.2,102.34,3.25
+City Hotel,2016,March,Offline TA/TO,Contract,4,969.0,61.75,4.0
+City Hotel,2016,March,Offline TA/TO,Group,3,1001.2,65.73,5.0
+City Hotel,2016,March,Online TA,Contract,7,2705.47,100.42,3.86
+City Hotel,2017,March,Online TA,Transient,1119,345154.25,97.38,3.17
+City Hotel,2016,April,Aviation,Transient,19,7328.0,97.84,4.0
+City Hotel,2017,April,Aviation,Transient,11,7522.0,107.64,6.27
+City Hotel,2017,July,Aviation,Transient,3,1490.0,90.0,5.33
+City Hotel,2016,March,Online TA,Group,1,369.12,61.52,6.0
+City Hotel,2016,March,Complementary,Contract,1,6.0,6.0,1.0
+City Hotel,2016,April,Aviation,Transient-Party,3,950.0,95.0,3.33
+City Hotel,2017,June,Aviation,Transient,26,7359.66,97.69,2.65
+City Hotel,2016,April,Groups,Transient,3,260.0,43.33,1.67
+City Hotel,2016,April,Offline TA/TO,Group,2,675.0,82.5,4.0
+City Hotel,2017,May,Aviation,Transient,25,7716.0,116.3,2.72
+City Hotel,2016,April,Direct,Transient-Party,13,5204.85,98.37,4.23
+City Hotel,2016,April,Offline TA/TO,Contract,1,300.0,75.0,4.0
+City Hotel,2016,April,Online TA,Contract,6,2318.5,100.62,3.83
+City Hotel,2016,April,Online TA,Group,4,662.4,55.2,2.25
+City Hotel,2016,June,Online TA,Group,1,109.0,109.0,1.0
+City Hotel,2016,May,Aviation,Transient,14,13675.0,102.5,9.57
+City Hotel,2016,May,Offline TA/TO,Transient,189,53944.04,94.04,3.06
+City Hotel,2016,May,Online TA,Contract,12,4054.2,112.27,3.08
+City Hotel,2017,January,Aviation,Transient,5,1249.0,85.4,3.0
+City Hotel,2016,May,Aviation,Transient-Party,3,1140.0,95.0,4.0
+City Hotel,2017,January,Online TA,Transient,699,223479.45,92.62,3.47
+City Hotel,2017,February,Online TA,Group,6,1169.96,99.22,1.83
+City Hotel,2017,February,Online TA,Transient,852,276158.86,96.19,3.35
+City Hotel,2017,July,Online TA,Group,6,1149.7,135.22,1.33
+City Hotel,2016,May,Offline TA/TO,Contract,1,228.48,76.16,3.0
+City Hotel,2016,October,Offline TA/TO,Transient,229,65418.78,87.32,3.21
+City Hotel,2016,December,Offline TA/TO,Group,2,130.0,65.0,1.0
+City Hotel,2017,January,Offline TA/TO,Transient,70,21610.01,86.73,3.6
+City Hotel,2017,January,Offline TA/TO,Group,1,45.0,45.0,1.0
+City Hotel,2017,February,Offline TA/TO,Transient,148,42931.41,80.24,3.59
+City Hotel,2017,March,Offline TA/TO,Transient-Party,26,8113.0,75.67,4.35
+City Hotel,2017,June,Offline TA/TO,Transient,138,42825.74,97.05,3.23
+City Hotel,2016,May,Groups,Transient,2,435.0,92.5,2.5
+City Hotel,2017,May,Offline TA/TO,Group,4,679.1,94.78,1.75
+City Hotel,2017,May,Offline TA/TO,Transient-Party,69,21611.38,117.26,2.72
+City Hotel,2016,June,Groups,Transient,5,445.15,76.03,1.2
+City Hotel,2016,June,Direct,Group,1,119.0,119.0,1.0
+City Hotel,2016,June,Online TA,Contract,6,2975.78,99.34,5.0
+City Hotel,2016,June,Offline TA/TO,Contract,3,962.88,80.24,4.0
+City Hotel,2017,May,Direct,Transient-Party,21,10084.59,160.1,3.1
+City Hotel,2016,July,Offline TA/TO,Transient,182,66386.97,89.55,4.05
+City Hotel,2016,July,Online TA,Contract,16,6698.2,116.24,3.5
+City Hotel,2016,July,Offline TA/TO,Transient-Party,62,18617.04,105.87,2.85
+City Hotel,2016,July,Aviation,Transient,3,158.0,52.67,0.67
+City Hotel,2016,July,Groups,Transient-Party,22,3926.9,89.25,2.0
+City Hotel,2016,July,Groups,Transient,2,450.0,75.0,3.0
+City Hotel,2016,August,Offline TA/TO,Transient,172,58924.72,87.55,3.95
+City Hotel,2017,August,Complementary,Transient,7,0.0,0.0,1.29
+City Hotel,2016,August,Online TA,Group,2,411.64,105.91,1.5
+City Hotel,2016,August,Online TA,Contract,10,3066.85,104.15,2.6
+City Hotel,2016,August,Offline TA/TO,Transient-Party,64,18093.01,84.47,3.34
+City Hotel,2016,August,Groups,Transient-Party,5,938.4,77.74,2.6
+City Hotel,2016,August,Offline TA/TO,Group,1,494.64,82.44,6.0
+City Hotel,2016,August,Direct,Group,3,528.8,130.27,1.33
+City Hotel,2016,September,Online TA,Contract,1,318.6,106.2,3.0
+City Hotel,2016,September,Corporate,Transient-Party,22,4660.66,137.04,1.55
+City Hotel,2016,September,Direct,Group,1,205.63,205.63,1.0
+City Hotel,2016,September,Offline TA/TO,Group,3,433.0,94.33,1.67
+City Hotel,2016,September,Online TA,Group,1,125.1,125.1,1.0
+City Hotel,2017,July,Online TA,Transient,1186,508503.06,136.38,3.17
+City Hotel,2016,December,Direct,Group,1,98.0,98.0,1.0
+City Hotel,2017,June,Online TA,Transient,1132,505395.98,140.5,3.18
+City Hotel,2017,June,Direct,Group,5,1028.0,112.8,2.0
+City Hotel,2017,August,Direct,Transient,247,117527.87,157.06,3.04
+City Hotel,2016,September,Complementary,Transient-Party,4,548.0,68.5,2.0
+City Hotel,2016,October,Groups,Transient-Party,33,7462.0,100.79,2.27
+City Hotel,2016,October,Offline TA/TO,Transient-Party,145,35796.08,96.7,2.76
+City Hotel,2016,October,Direct,Transient-Party,9,2384.62,108.1,2.67
+City Hotel,2016,October,Offline TA/TO,Group,4,943.33,109.03,2.0
+City Hotel,2016,October,Groups,Transient,3,380.0,126.67,1.0
+City Hotel,2017,January,Online TA,Group,7,1473.91,105.53,2.0
+City Hotel,2016,October,Complementary,Transient-Party,1,6.0,3.0,2.0
+City Hotel,2016,November,Groups,Transient,82,14987.03,73.91,2.39
+City Hotel,2016,November,Corporate,Group,1,84.0,84.0,1.0
+City Hotel,2016,November,Aviation,Transient,4,613.0,66.75,1.75
+City Hotel,2016,November,Offline TA/TO,Transient-Party,18,2720.0,86.61,2.44
+City Hotel,2016,November,Complementary,Group,2,0.0,0.0,1.5
+City Hotel,2016,November,Online TA,Transient-Party,11,2951.1,91.4,2.91
+City Hotel,2016,November,Direct,Transient-Party,9,3063.42,108.44,3.11
+City Hotel,2016,November,Aviation,Transient-Party,5,665.0,95.0,1.4
+City Hotel,2016,November,Direct,Group,1,420.0,105.0,4.0
+City Hotel,2016,November,Groups,Transient-Party,30,7521.02,79.82,2.93
+City Hotel,2016,November,Online TA,Group,1,70.4,6.4,11.0
+City Hotel,2017,April,Online TA,Transient,1039,440654.79,135.01,3.14
+City Hotel,2016,December,Corporate,Transient-Party,12,1972.08,79.46,2.08
+City Hotel,2016,December,Online TA,Transient-Party,12,3320.28,73.0,3.75
+City Hotel,2016,December,Offline TA/TO,Transient-Party,74,20750.74,79.41,3.45
+City Hotel,2016,December,Direct,Transient-Party,7,3014.0,171.15,2.86
+City Hotel,2017,April,Offline TA/TO,Transient,148,49704.6,95.92,3.55
+City Hotel,2016,December,Groups,Transient-Party,1,567.0,113.4,5.0
+City Hotel,2017,January,Groups,Group,2,320.0,75.0,2.0
+City Hotel,2017,January,Groups,Transient-Party,105,20617.0,72.74,2.63
+City Hotel,2017,January,Online TA,Transient-Party,9,2527.8,85.22,3.33
+City Hotel,2017,January,Direct,Group,3,683.15,51.72,3.0
+City Hotel,2017,January,Groups,Transient,3,545.0,78.33,2.33
+City Hotel,2017,January,Direct,Transient-Party,3,419.0,41.17,3.67
+City Hotel,2017,January,Offline TA/TO,Transient-Party,7,1430.0,65.0,3.14
+City Hotel,2017,January,Corporate,Transient-Party,2,470.0,72.5,3.5
+City Hotel,2017,June,Offline TA/TO,Group,4,299.5,74.88,1.0
+City Hotel,2017,February,Groups,Transient-Party,56,10638.0,72.32,2.68
+City Hotel,2017,February,Direct,Transient-Party,5,821.0,76.4,2.0
+City Hotel,2017,February,Corporate,Transient-Party,3,272.4,90.8,1.0
+City Hotel,2017,February,Offline TA/TO,Transient-Party,1,80.0,80.0,1.0
+City Hotel,2017,April,Offline TA/TO,Transient-Party,59,21914.88,98.41,3.8
+City Hotel,2017,August,Corporate,Group,1,75.0,75.0,1.0
+City Hotel,2017,February,Direct,Group,1,100.0,100.0,1.0
+City Hotel,2017,February,Online TA,Transient-Party,5,1886.2,109.88,3.4
+City Hotel,2017,February,Groups,Transient,1,312.0,78.0,4.0
+City Hotel,2017,February,Offline TA/TO,Contract,4,1020.0,68.0,3.75
+City Hotel,2017,March,Online TA,Group,5,676.0,135.2,1.0
+City Hotel,2017,March,Online TA,Transient-Party,2,435.6,138.6,2.0
+City Hotel,2017,March,Direct,Transient-Party,5,781.48,86.18,1.8
+City Hotel,2017,March,Offline TA/TO,Group,1,225.0,75.0,3.0
+City Hotel,2017,March,Offline TA/TO,Contract,12,2448.0,68.0,3.0
+City Hotel,2017,March,Groups,Transient-Party,69,14281.28,98.0,2.25
+City Hotel,2017,March,Groups,Group,1,170.0,85.0,2.0
+City Hotel,2017,April,Groups,Transient-Party,57,18404.8,108.8,2.96
+City Hotel,2017,March,Groups,Transient,3,520.0,73.33,2.33
+City Hotel,2017,March,Corporate,Transient-Party,15,5480.0,92.93,3.93
+City Hotel,2017,May,Online TA,Transient,1207,519833.57,143.51,3.02
+City Hotel,2017,April,Online TA,Group,5,965.0,121.0,1.6
+City Hotel,2017,June,Online TA,Group,5,565.0,110.6,1.2
+City Hotel,2017,August,Online TA,Transient,1033,506604.02,151.01,3.31
+City Hotel,2017,August,Offline TA/TO,Transient-Party,74,30351.86,109.04,3.64
+City Hotel,2017,April,Direct,Transient-Party,15,5916.31,130.04,3.13
+City Hotel,2017,April,Online TA,Transient-Party,30,12570.92,142.96,3.0
+City Hotel,2017,April,Offline TA/TO,Contract,2,534.0,89.0,3.0
+City Hotel,2017,April,Corporate,Transient-Party,13,2217.0,105.54,1.62
+City Hotel,2017,April,Direct,Group,1,126.0,126.0,1.0
+City Hotel,2017,May,Direct,Group,3,549.0,120.67,1.67
+City Hotel,2017,May,Offline TA/TO,Transient,155,48367.03,102.25,3.13
+City Hotel,2017,May,Groups,Transient-Party,115,31847.9,111.44,2.48
+City Hotel,2017,May,Online TA,Group,4,1121.8,115.45,2.25
+City Hotel,2017,May,Online TA,Transient-Party,48,19712.81,146.97,2.81
+City Hotel,2017,May,Aviation,Group,2,220.0,110.0,1.0
+City Hotel,2017,May,Offline TA/TO,Contract,3,1120.0,80.0,4.67
+City Hotel,2017,May,Groups,Transient,2,400.5,114.75,2.0
+City Hotel,2017,May,Corporate,Transient-Party,1,144.0,144.0,1.0
+City Hotel,2017,June,Direct,Transient-Party,17,5123.07,143.08,2.29
+City Hotel,2017,June,Groups,Transient-Party,56,18181.69,100.28,3.21
+City Hotel,2017,June,Offline TA/TO,Contract,2,400.0,80.0,2.5
+City Hotel,2017,June,Offline TA/TO,Transient-Party,28,6220.26,97.79,2.32
+City Hotel,2017,June,Groups,Transient,1,354.39,118.13,3.0
+City Hotel,2017,June,Corporate,Transient-Party,25,3802.0,112.48,1.4
+City Hotel,2017,July,Groups,Transient-Party,24,6654.08,100.21,2.79
+City Hotel,2017,July,Offline TA/TO,Transient,153,56033.84,89.44,4.03
+City Hotel,2017,July,Offline TA/TO,Transient-Party,45,12217.01,103.78,2.64
+City Hotel,2017,July,Online TA,Transient-Party,97,43478.67,127.07,3.6
+City Hotel,2017,July,Direct,Transient-Party,35,11942.37,111.08,2.89
+City Hotel,2017,July,Corporate,Transient-Party,2,199.0,99.5,1.0
+City Hotel,2017,July,Offline TA/TO,Group,1,0.0,0.0,3.0
+City Hotel,2017,July,Groups,Transient,1,240.3,80.1,3.0
+City Hotel,2017,August,Direct,Group,1,359.0,179.5,2.0
+City Hotel,2017,August,Groups,Transient-Party,33,8570.52,120.91,2.36
+City Hotel,2017,August,Online TA,Transient-Party,61,28488.95,143.51,3.41
+City Hotel,2017,August,Offline TA/TO,Transient,172,72323.28,95.06,4.49
+City Hotel,2017,July,Offline TA/TO,Contract,2,1540.0,110.0,7.0
+City Hotel,2017,August,Direct,Transient-Party,23,11650.44,125.9,4.0
+City Hotel,2017,August,Offline TA/TO,Group,3,1410.0,161.33,4.33
